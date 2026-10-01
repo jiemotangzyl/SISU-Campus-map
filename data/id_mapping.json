@@ -1,0 +1,135 @@
+{
+  "note": "未收到旧 campus_facilities.json；TMP-SJ 编号仅为临时编号。收到旧数据后人工确认映射并保留旧链接重定向，不能按本清单序号认定正式编号。",
+  "mapping": [
+    {
+      "temporary_id": "TMP-SJ-0001",
+      "name": "南门",
+      "official_id": null
+    },
+    {
+      "temporary_id": "TMP-SJ-0002",
+      "name": "镜湖",
+      "official_id": null
+    },
+    {
+      "temporary_id": "TMP-SJ-0003",
+      "name": "教育会堂",
+      "official_id": null
+    },
+    {
+      "temporary_id": "TMP-SJ-0004",
+      "name": "语言博物馆",
+      "official_id": null
+    },
+    {
+      "temporary_id": "TMP-SJ-0005",
+      "name": "行政楼",
+      "official_id": null
+    },
+    {
+      "temporary_id": "TMP-SJ-0006",
+      "name": "第三教学楼东栋",
+      "official_id": null
+    },
+    {
+      "temporary_id": "TMP-SJ-0007",
+      "name": "第三教学楼西栋",
+      "official_id": null
+    },
+    {
+      "temporary_id": "TMP-SJ-0008",
+      "name": "第四教学楼",
+      "official_id": null
+    },
+    {
+      "temporary_id": "TMP-SJ-0009",
+      "name": "图文信息中心（图书馆）",
+      "official_id": null
+    },
+    {
+      "temporary_id": "TMP-SJ-0010",
+      "name": "第二教学楼东栋",
+      "official_id": null
+    },
+    {
+      "temporary_id": "TMP-SJ-0011",
+      "name": "第二教学楼西栋",
+      "official_id": null
+    },
+    {
+      "temporary_id": "TMP-SJ-0012",
+      "name": "第五教学楼",
+      "official_id": null
+    },
+    {
+      "temporary_id": "TMP-SJ-0013",
+      "name": "第一教学楼",
+      "official_id": null
+    },
+    {
+      "temporary_id": "TMP-SJ-0014",
+      "name": "第六教学楼",
+      "official_id": null
+    },
+    {
+      "temporary_id": "TMP-SJ-0015",
+      "name": "第七教学楼",
+      "official_id": null
+    },
+    {
+      "temporary_id": "TMP-SJ-0016",
+      "name": "全球治理与区域国别研究大楼",
+      "official_id": null
+    },
+    {
+      "temporary_id": "TMP-SJ-0017",
+      "name": "师生活动中心",
+      "official_id": null
+    },
+    {
+      "temporary_id": "TMP-SJ-0018",
+      "name": "第八教学楼",
+      "official_id": null
+    },
+    {
+      "temporary_id": "TMP-SJ-0019",
+      "name": "小足球场",
+      "official_id": null
+    },
+    {
+      "temporary_id": "TMP-SJ-0020",
+      "name": "篮球场",
+      "official_id": null
+    },
+    {
+      "temporary_id": "TMP-SJ-0021",
+      "name": "羽毛球场",
+      "official_id": null
+    },
+    {
+      "temporary_id": "TMP-SJ-0022",
+      "name": "食堂（正式名称待确认）",
+      "official_id": null
+    },
+    {
+      "temporary_id": "TMP-SJ-0023",
+      "name": "大操场及中央足球场",
+      "official_id": null
+    },
+    {
+      "temporary_id": "TMP-SJ-0024",
+      "name": "文采路",
+      "official_id": null
+    },
+    {
+      "temporary_id": "TMP-SJ-0025",
+      "name": "西门",
+      "official_id": null
+    },
+    {
+      "temporary_id": "TMP-SJ-0026",
+      "name": "南门主干道（无名道路，仅为位置描述）",
+      "official_id": null
+    }
+  ]
+}

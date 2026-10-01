@@ -1,0 +1,80 @@
+{
+  "id": "FORMAT-DEMO-0001",
+  "name": "格式演示：示例服务点（非真实设施）",
+  "aliases": [
+    "演示点"
+  ],
+  "category": "生活服务",
+  "subcategory": "格式演示",
+  "parent_id": "FORMAT-DEMO-PARENT",
+  "building": "示例建筑",
+  "floor": "示例一层",
+  "location_desc": "此字段应填写实际采集的位置描述；此处仅演示格式",
+  "summary": "仅用于说明数据格式，不是校园事实，不得导入正式数据。",
+  "departments": [
+    "示例部门"
+  ],
+  "services": [
+    {
+      "name": "示例服务",
+      "floor": "示例一层",
+      "status": "格式演示",
+      "keywords": [
+        "演示"
+      ]
+    }
+  ],
+  "tips": [
+    "示例提示"
+  ],
+  "opening_hours": "格式演示：采集后填写",
+  "access_rules": "格式演示：填写实际使用条件",
+  "reservation": "格式演示：填写预约方式",
+  "fees": "格式演示：填写费用依据",
+  "latitude": null,
+  "longitude": null,
+  "coordinate_system": "GCJ-02",
+  "coordinate_source": "格式演示，尚无真实坐标",
+  "coordinate_source_url": null,
+  "coordinate_collected_at": null,
+  "coordinate_status": "待定位",
+  "position_type": "建筑中心",
+  "original_coordinates": null,
+  "geometry": null,
+  "geometry_coordinate_system": null,
+  "entrances": [
+    {
+      "name": "示例入口",
+      "description": "实际采集后填写",
+      "latitude": null,
+      "longitude": null,
+      "coordinate_system": null,
+      "coordinate_status": "待定位"
+    }
+  ],
+  "photo": null,
+  "photos": [
+    {
+      "src": "assets/photos/FORMAT-DEMO-0001/example.jpg",
+      "caption": "格式演示：入口照片路径（此文件不存在）",
+      "taken_at": null,
+      "credit": "示例摄影者",
+      "public_use": false
+    }
+  ],
+  "verified_at": null,
+  "content_status": "格式演示，非真实数据",
+  "pending_items": [
+    "全部事实须重新采集"
+  ],
+  "sources": [
+    {
+      "title": "格式演示",
+      "organization": "示例机构",
+      "url": null,
+      "accessed_at": null,
+      "note": "非真实资料"
+    }
+  ],
+  "updated_at": null
+}

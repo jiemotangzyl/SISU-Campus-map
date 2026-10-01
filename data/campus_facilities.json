@@ -1,0 +1,1513 @@
+[
+  {
+    "id": "TMP-SJ-0001",
+    "name": "南门",
+    "aliases": [
+      "南校门"
+    ],
+    "category": "校门道路",
+    "subcategory": "",
+    "parent_id": null,
+    "building": "南门",
+    "floor": null,
+    "location_desc": "南侧入口，准确点位待采集",
+    "summary": "南门为校区入口，实际通行条件待核实。",
+    "departments": [],
+    "services": [],
+    "tips": [],
+    "opening_hours": null,
+    "access_rules": null,
+    "reservation": null,
+    "fees": null,
+    "latitude": null,
+    "longitude": null,
+    "coordinate_system": null,
+    "coordinate_source": null,
+    "coordinate_source_url": null,
+    "coordinate_collected_at": null,
+    "coordinate_status": "待定位",
+    "position_type": null,
+    "original_coordinates": null,
+    "geometry": null,
+    "geometry_coordinate_system": null,
+    "entrances": [],
+    "photo": null,
+    "photos": [],
+    "verified_at": null,
+    "content_status": "发起人初始资料；待实地核实",
+    "pending_items": [
+      "准确点位与坐标来源",
+      "实际入口",
+      "楼层和区域服务",
+      "开放时间与使用条件",
+      "刷卡、预约与费用",
+      "可公开使用的现场照片"
+    ],
+    "sources": [
+      {
+        "title": "项目发起人提供的建设需求及更正",
+        "organization": "学生项目团队",
+        "url": null,
+        "accessed_at": "2026-10-01",
+        "note": "初始讲解资料，不代表制作人员现场核实"
+      }
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "id": "TMP-SJ-0002",
+    "name": "镜湖",
+    "aliases": [],
+    "category": "文化场馆",
+    "subcategory": "",
+    "parent_id": null,
+    "building": "镜湖",
+    "floor": null,
+    "location_desc": "相对位置待补充",
+    "summary": "校园景观水域，周边通行与设施信息待补充。",
+    "departments": [],
+    "services": [],
+    "tips": [],
+    "opening_hours": null,
+    "access_rules": null,
+    "reservation": null,
+    "fees": null,
+    "latitude": null,
+    "longitude": null,
+    "coordinate_system": null,
+    "coordinate_source": null,
+    "coordinate_source_url": null,
+    "coordinate_collected_at": null,
+    "coordinate_status": "待定位",
+    "position_type": null,
+    "original_coordinates": null,
+    "geometry": null,
+    "geometry_coordinate_system": null,
+    "entrances": [],
+    "photo": null,
+    "photos": [],
+    "verified_at": null,
+    "content_status": "发起人初始资料；待实地核实",
+    "pending_items": [
+      "准确点位与坐标来源",
+      "实际入口",
+      "楼层和区域服务",
+      "开放时间与使用条件",
+      "刷卡、预约与费用",
+      "可公开使用的现场照片"
+    ],
+    "sources": [
+      {
+        "title": "项目发起人提供的建设需求及更正",
+        "organization": "学生项目团队",
+        "url": null,
+        "accessed_at": "2026-10-01",
+        "note": "初始讲解资料，不代表制作人员现场核实"
+      }
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "id": "TMP-SJ-0003",
+    "name": "教育会堂",
+    "aliases": [],
+    "category": "文化场馆",
+    "subcategory": "",
+    "parent_id": null,
+    "building": "教育会堂",
+    "floor": null,
+    "location_desc": "相对位置待补充",
+    "summary": "校园会堂，场馆用途与开放信息待补充。",
+    "departments": [],
+    "services": [],
+    "tips": [],
+    "opening_hours": null,
+    "access_rules": null,
+    "reservation": null,
+    "fees": null,
+    "latitude": null,
+    "longitude": null,
+    "coordinate_system": null,
+    "coordinate_source": null,
+    "coordinate_source_url": null,
+    "coordinate_collected_at": null,
+    "coordinate_status": "待定位",
+    "position_type": null,
+    "original_coordinates": null,
+    "geometry": null,
+    "geometry_coordinate_system": null,
+    "entrances": [],
+    "photo": null,
+    "photos": [],
+    "verified_at": null,
+    "content_status": "发起人初始资料；待实地核实",
+    "pending_items": [
+      "准确点位与坐标来源",
+      "实际入口",
+      "楼层和区域服务",
+      "开放时间与使用条件",
+      "刷卡、预约与费用",
+      "可公开使用的现场照片"
+    ],
+    "sources": [
+      {
+        "title": "项目发起人提供的建设需求及更正",
+        "organization": "学生项目团队",
+        "url": null,
+        "accessed_at": "2026-10-01",
+        "note": "初始讲解资料，不代表制作人员现场核实"
+      }
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "id": "TMP-SJ-0004",
+    "name": "语言博物馆",
+    "aliases": [],
+    "category": "文化场馆",
+    "subcategory": "",
+    "parent_id": null,
+    "building": "语言博物馆",
+    "floor": null,
+    "location_desc": "相对位置待补充",
+    "summary": "语言文化场馆，参观条件与开放信息待核实。",
+    "departments": [],
+    "services": [],
+    "tips": [],
+    "opening_hours": null,
+    "access_rules": null,
+    "reservation": null,
+    "fees": null,
+    "latitude": null,
+    "longitude": null,
+    "coordinate_system": null,
+    "coordinate_source": null,
+    "coordinate_source_url": null,
+    "coordinate_collected_at": null,
+    "coordinate_status": "待定位",
+    "position_type": null,
+    "original_coordinates": null,
+    "geometry": null,
+    "geometry_coordinate_system": null,
+    "entrances": [],
+    "photo": null,
+    "photos": [],
+    "verified_at": null,
+    "content_status": "发起人初始资料；待实地核实",
+    "pending_items": [
+      "准确点位与坐标来源",
+      "实际入口",
+      "楼层和区域服务",
+      "开放时间与使用条件",
+      "刷卡、预约与费用",
+      "可公开使用的现场照片"
+    ],
+    "sources": [
+      {
+        "title": "项目发起人提供的建设需求及更正",
+        "organization": "学生项目团队",
+        "url": null,
+        "accessed_at": "2026-10-01",
+        "note": "初始讲解资料，不代表制作人员现场核实"
+      }
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "id": "TMP-SJ-0005",
+    "name": "行政楼",
+    "aliases": [
+      "卓越学院"
+    ],
+    "category": "行政办事",
+    "subcategory": "",
+    "parent_id": null,
+    "building": "行政楼",
+    "floor": null,
+    "location_desc": "相对位置待补充",
+    "summary": "兼有行政与教学用途，卓越学院所在教学楼。",
+    "departments": [
+      "卓越学院"
+    ],
+    "services": [],
+    "tips": [],
+    "opening_hours": null,
+    "access_rules": null,
+    "reservation": null,
+    "fees": null,
+    "latitude": null,
+    "longitude": null,
+    "coordinate_system": null,
+    "coordinate_source": null,
+    "coordinate_source_url": null,
+    "coordinate_collected_at": null,
+    "coordinate_status": "待定位",
+    "position_type": null,
+    "original_coordinates": null,
+    "geometry": null,
+    "geometry_coordinate_system": null,
+    "entrances": [],
+    "photo": null,
+    "photos": [],
+    "verified_at": null,
+    "content_status": "发起人初始资料；待实地核实",
+    "pending_items": [
+      "准确点位与坐标来源",
+      "实际入口",
+      "楼层和区域服务",
+      "开放时间与使用条件",
+      "刷卡、预约与费用",
+      "可公开使用的现场照片"
+    ],
+    "sources": [
+      {
+        "title": "项目发起人提供的建设需求及更正",
+        "organization": "学生项目团队",
+        "url": null,
+        "accessed_at": "2026-10-01",
+        "note": "初始讲解资料，不代表制作人员现场核实"
+      }
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "id": "TMP-SJ-0006",
+    "name": "第三教学楼东栋",
+    "aliases": [
+      "三教",
+      "三教东栋"
+    ],
+    "category": "教学学习",
+    "subcategory": "",
+    "parent_id": null,
+    "building": "第三教学楼东栋",
+    "floor": null,
+    "location_desc": "第三教学楼东栋，入口待采集",
+    "summary": "德语系所在教学楼。东西栋不互通。",
+    "departments": [
+      "德语系"
+    ],
+    "services": [],
+    "tips": [
+      "东西栋不互通，请分别确认入口。"
+    ],
+    "opening_hours": null,
+    "access_rules": null,
+    "reservation": null,
+    "fees": null,
+    "latitude": null,
+    "longitude": null,
+    "coordinate_system": null,
+    "coordinate_source": null,
+    "coordinate_source_url": null,
+    "coordinate_collected_at": null,
+    "coordinate_status": "待定位",
+    "position_type": null,
+    "original_coordinates": null,
+    "geometry": null,
+    "geometry_coordinate_system": null,
+    "entrances": [],
+    "photo": null,
+    "photos": [],
+    "verified_at": null,
+    "content_status": "发起人初始资料；待实地核实",
+    "pending_items": [
+      "准确点位与坐标来源",
+      "实际入口",
+      "楼层和区域服务",
+      "开放时间与使用条件",
+      "刷卡、预约与费用",
+      "可公开使用的现场照片"
+    ],
+    "sources": [
+      {
+        "title": "项目发起人提供的建设需求及更正",
+        "organization": "学生项目团队",
+        "url": null,
+        "accessed_at": "2026-10-01",
+        "note": "初始讲解资料，不代表制作人员现场核实"
+      }
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "id": "TMP-SJ-0007",
+    "name": "第三教学楼西栋",
+    "aliases": [
+      "三教",
+      "三教西栋"
+    ],
+    "category": "教学学习",
+    "subcategory": "",
+    "parent_id": null,
+    "building": "第三教学楼西栋",
+    "floor": null,
+    "location_desc": "第三教学楼西栋，入口待采集",
+    "summary": "法语系所在教学楼。东西栋不互通。",
+    "departments": [
+      "法语系"
+    ],
+    "services": [],
+    "tips": [
+      "东西栋不互通，请分别确认入口。"
+    ],
+    "opening_hours": null,
+    "access_rules": null,
+    "reservation": null,
+    "fees": null,
+    "latitude": null,
+    "longitude": null,
+    "coordinate_system": null,
+    "coordinate_source": null,
+    "coordinate_source_url": null,
+    "coordinate_collected_at": null,
+    "coordinate_status": "待定位",
+    "position_type": null,
+    "original_coordinates": null,
+    "geometry": null,
+    "geometry_coordinate_system": null,
+    "entrances": [],
+    "photo": null,
+    "photos": [],
+    "verified_at": null,
+    "content_status": "发起人初始资料；待实地核实",
+    "pending_items": [
+      "准确点位与坐标来源",
+      "实际入口",
+      "楼层和区域服务",
+      "开放时间与使用条件",
+      "刷卡、预约与费用",
+      "可公开使用的现场照片"
+    ],
+    "sources": [
+      {
+        "title": "项目发起人提供的建设需求及更正",
+        "organization": "学生项目团队",
+        "url": null,
+        "accessed_at": "2026-10-01",
+        "note": "初始讲解资料，不代表制作人员现场核实"
+      }
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "id": "TMP-SJ-0008",
+    "name": "第四教学楼",
+    "aliases": [
+      "四教"
+    ],
+    "category": "教学学习",
+    "subcategory": "",
+    "parent_id": null,
+    "building": "第四教学楼",
+    "floor": null,
+    "location_desc": "相对位置待补充",
+    "summary": "国际关系与公共事务学院、马克思主义学院所在教学楼。",
+    "departments": [
+      "国际关系与公共事务学院",
+      "马克思主义学院"
+    ],
+    "services": [],
+    "tips": [],
+    "opening_hours": null,
+    "access_rules": null,
+    "reservation": null,
+    "fees": null,
+    "latitude": null,
+    "longitude": null,
+    "coordinate_system": null,
+    "coordinate_source": null,
+    "coordinate_source_url": null,
+    "coordinate_collected_at": null,
+    "coordinate_status": "待定位",
+    "position_type": null,
+    "original_coordinates": null,
+    "geometry": null,
+    "geometry_coordinate_system": null,
+    "entrances": [],
+    "photo": null,
+    "photos": [],
+    "verified_at": null,
+    "content_status": "发起人初始资料；待实地核实",
+    "pending_items": [
+      "准确点位与坐标来源",
+      "实际入口",
+      "楼层和区域服务",
+      "开放时间与使用条件",
+      "刷卡、预约与费用",
+      "可公开使用的现场照片"
+    ],
+    "sources": [
+      {
+        "title": "项目发起人提供的建设需求及更正",
+        "organization": "学生项目团队",
+        "url": null,
+        "accessed_at": "2026-10-01",
+        "note": "初始讲解资料，不代表制作人员现场核实"
+      }
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "id": "TMP-SJ-0009",
+    "name": "图文信息中心（图书馆）",
+    "aliases": [
+      "图书馆",
+      "图文中心"
+    ],
+    "category": "教学学习",
+    "subcategory": "",
+    "parent_id": null,
+    "building": "图文信息中心（图书馆）",
+    "floor": null,
+    "location_desc": "第二教学楼东侧、第五教学楼西侧；研究大楼南侧",
+    "summary": "图文信息中心，馆内服务与使用条件待补充。",
+    "departments": [],
+    "services": [
+      {
+        "name": "成绩单自助打印（历史资料线索）",
+        "floor": "历史资料提及图文一楼；当前位置待核实",
+        "status": "2022年学校公开资料线索，当前服务待核实",
+        "keywords": [
+          "打印",
+          "成绩单"
+        ]
+      }
+    ],
+    "tips": [],
+    "opening_hours": null,
+    "access_rules": null,
+    "reservation": null,
+    "fees": null,
+    "latitude": null,
+    "longitude": null,
+    "coordinate_system": null,
+    "coordinate_source": null,
+    "coordinate_source_url": null,
+    "coordinate_collected_at": null,
+    "coordinate_status": "待定位",
+    "position_type": null,
+    "original_coordinates": null,
+    "geometry": null,
+    "geometry_coordinate_system": null,
+    "entrances": [],
+    "photo": null,
+    "photos": [],
+    "verified_at": null,
+    "content_status": "发起人初始资料；待实地核实",
+    "pending_items": [
+      "准确点位与坐标来源",
+      "实际入口",
+      "楼层和区域服务",
+      "开放时间与使用条件",
+      "刷卡、预约与费用",
+      "可公开使用的现场照片"
+    ],
+    "sources": [
+      {
+        "title": "项目发起人提供的建设需求及更正",
+        "organization": "学生项目团队",
+        "url": null,
+        "accessed_at": "2026-10-01",
+        "note": "初始讲解资料，不代表制作人员现场核实"
+      },
+      {
+        "title": "辅修成绩单办理历史公开资料",
+        "organization": "上海外国语大学",
+        "url": "https://info.shisu.edu.cn/_upload/article/files/8e/69/53e6c2734fc2afb115cefaaed49b/876fe05f-18de-4b12-bdbe-6d13eaacf37a.pdf",
+        "accessed_at": "2026-10-01",
+        "note": "历史资料，仅为采集线索，不据此声称当前可用或展示历史收费"
+      }
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "id": "TMP-SJ-0010",
+    "name": "第二教学楼东栋",
+    "aliases": [
+      "二教",
+      "二教东栋"
+    ],
+    "category": "教学学习",
+    "subcategory": "",
+    "parent_id": null,
+    "building": "第二教学楼东栋",
+    "floor": null,
+    "location_desc": "图书馆西侧，第二教学楼东栋",
+    "summary": "国际工商管理学院、国际金融贸易学院所在教学楼。东西栋不互通。",
+    "departments": [
+      "国际工商管理学院",
+      "国际金融贸易学院"
+    ],
+    "services": [],
+    "tips": [
+      "东西栋不互通，请分别确认入口。"
+    ],
+    "opening_hours": null,
+    "access_rules": null,
+    "reservation": null,
+    "fees": null,
+    "latitude": null,
+    "longitude": null,
+    "coordinate_system": null,
+    "coordinate_source": null,
+    "coordinate_source_url": null,
+    "coordinate_collected_at": null,
+    "coordinate_status": "待定位",
+    "position_type": null,
+    "original_coordinates": null,
+    "geometry": null,
+    "geometry_coordinate_system": null,
+    "entrances": [],
+    "photo": null,
+    "photos": [],
+    "verified_at": null,
+    "content_status": "发起人初始资料；待实地核实",
+    "pending_items": [
+      "准确点位与坐标来源",
+      "实际入口",
+      "楼层和区域服务",
+      "开放时间与使用条件",
+      "刷卡、预约与费用",
+      "可公开使用的现场照片"
+    ],
+    "sources": [
+      {
+        "title": "项目发起人提供的建设需求及更正",
+        "organization": "学生项目团队",
+        "url": null,
+        "accessed_at": "2026-10-01",
+        "note": "初始讲解资料，不代表制作人员现场核实"
+      }
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "id": "TMP-SJ-0011",
+    "name": "第二教学楼西栋",
+    "aliases": [
+      "二教",
+      "二教西栋",
+      "脑科实验室"
+    ],
+    "category": "教学学习",
+    "subcategory": "",
+    "parent_id": null,
+    "building": "第二教学楼西栋",
+    "floor": null,
+    "location_desc": "图书馆西侧，第二教学楼西栋",
+    "summary": "含暂称“脑科实验室”的设施，正式名称待核实。东西栋不互通。",
+    "departments": [],
+    "services": [
+      {
+        "name": "脑科实验室（暂称）",
+        "floor": null,
+        "status": "正式名称待现场核实",
+        "keywords": [
+          "实验室"
+        ]
+      }
+    ],
+    "tips": [
+      "东西栋不互通，请分别确认入口。"
+    ],
+    "opening_hours": null,
+    "access_rules": null,
+    "reservation": null,
+    "fees": null,
+    "latitude": null,
+    "longitude": null,
+    "coordinate_system": null,
+    "coordinate_source": null,
+    "coordinate_source_url": null,
+    "coordinate_collected_at": null,
+    "coordinate_status": "待定位",
+    "position_type": null,
+    "original_coordinates": null,
+    "geometry": null,
+    "geometry_coordinate_system": null,
+    "entrances": [],
+    "photo": null,
+    "photos": [],
+    "verified_at": null,
+    "content_status": "发起人初始资料；待实地核实",
+    "pending_items": [
+      "准确点位与坐标来源",
+      "实际入口",
+      "楼层和区域服务",
+      "开放时间与使用条件",
+      "刷卡、预约与费用",
+      "可公开使用的现场照片",
+      "“脑科实验室”的正式名称"
+    ],
+    "sources": [
+      {
+        "title": "项目发起人提供的建设需求及更正",
+        "organization": "学生项目团队",
+        "url": null,
+        "accessed_at": "2026-10-01",
+        "note": "初始讲解资料，不代表制作人员现场核实"
+      }
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "id": "TMP-SJ-0012",
+    "name": "第五教学楼",
+    "aliases": [
+      "五教"
+    ],
+    "category": "教学学习",
+    "subcategory": "",
+    "parent_id": null,
+    "building": "第五教学楼",
+    "floor": null,
+    "location_desc": "图书馆东侧",
+    "summary": "英语学院、语言科学研究院所在教学楼。",
+    "departments": [
+      "英语学院",
+      "语言科学研究院"
+    ],
+    "services": [],
+    "tips": [],
+    "opening_hours": null,
+    "access_rules": null,
+    "reservation": null,
+    "fees": null,
+    "latitude": null,
+    "longitude": null,
+    "coordinate_system": null,
+    "coordinate_source": null,
+    "coordinate_source_url": null,
+    "coordinate_collected_at": null,
+    "coordinate_status": "待定位",
+    "position_type": null,
+    "original_coordinates": null,
+    "geometry": null,
+    "geometry_coordinate_system": null,
+    "entrances": [],
+    "photo": null,
+    "photos": [],
+    "verified_at": null,
+    "content_status": "发起人初始资料；待实地核实",
+    "pending_items": [
+      "准确点位与坐标来源",
+      "实际入口",
+      "楼层和区域服务",
+      "开放时间与使用条件",
+      "刷卡、预约与费用",
+      "可公开使用的现场照片"
+    ],
+    "sources": [
+      {
+        "title": "项目发起人提供的建设需求及更正",
+        "organization": "学生项目团队",
+        "url": null,
+        "accessed_at": "2026-10-01",
+        "note": "初始讲解资料，不代表制作人员现场核实"
+      }
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "id": "TMP-SJ-0013",
+    "name": "第一教学楼",
+    "aliases": [
+      "一教"
+    ],
+    "category": "教学学习",
+    "subcategory": "",
+    "parent_id": null,
+    "building": "第一教学楼",
+    "floor": null,
+    "location_desc": "第二教学楼北侧",
+    "summary": "国际教育学院、新闻传播学院所在教学楼。",
+    "departments": [
+      "国际教育学院",
+      "新闻传播学院"
+    ],
+    "services": [],
+    "tips": [],
+    "opening_hours": null,
+    "access_rules": null,
+    "reservation": null,
+    "fees": null,
+    "latitude": null,
+    "longitude": null,
+    "coordinate_system": null,
+    "coordinate_source": null,
+    "coordinate_source_url": null,
+    "coordinate_collected_at": null,
+    "coordinate_status": "待定位",
+    "position_type": null,
+    "original_coordinates": null,
+    "geometry": null,
+    "geometry_coordinate_system": null,
+    "entrances": [],
+    "photo": null,
+    "photos": [],
+    "verified_at": null,
+    "content_status": "发起人初始资料；待实地核实",
+    "pending_items": [
+      "准确点位与坐标来源",
+      "实际入口",
+      "楼层和区域服务",
+      "开放时间与使用条件",
+      "刷卡、预约与费用",
+      "可公开使用的现场照片"
+    ],
+    "sources": [
+      {
+        "title": "项目发起人提供的建设需求及更正",
+        "organization": "学生项目团队",
+        "url": null,
+        "accessed_at": "2026-10-01",
+        "note": "初始讲解资料，不代表制作人员现场核实"
+      }
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "id": "TMP-SJ-0014",
+    "name": "第六教学楼",
+    "aliases": [
+      "六教"
+    ],
+    "category": "教学学习",
+    "subcategory": "",
+    "parent_id": null,
+    "building": "第六教学楼",
+    "floor": null,
+    "location_desc": "相对位置待补充",
+    "summary": "俄语系、俄罗斯东欧中亚学院所在教学楼。",
+    "departments": [
+      "俄语系",
+      "俄罗斯东欧中亚学院"
+    ],
+    "services": [],
+    "tips": [],
+    "opening_hours": null,
+    "access_rules": null,
+    "reservation": null,
+    "fees": null,
+    "latitude": null,
+    "longitude": null,
+    "coordinate_system": null,
+    "coordinate_source": null,
+    "coordinate_source_url": null,
+    "coordinate_collected_at": null,
+    "coordinate_status": "待定位",
+    "position_type": null,
+    "original_coordinates": null,
+    "geometry": null,
+    "geometry_coordinate_system": null,
+    "entrances": [],
+    "photo": null,
+    "photos": [],
+    "verified_at": null,
+    "content_status": "发起人初始资料；待实地核实",
+    "pending_items": [
+      "准确点位与坐标来源",
+      "实际入口",
+      "楼层和区域服务",
+      "开放时间与使用条件",
+      "刷卡、预约与费用",
+      "可公开使用的现场照片"
+    ],
+    "sources": [
+      {
+        "title": "项目发起人提供的建设需求及更正",
+        "organization": "学生项目团队",
+        "url": null,
+        "accessed_at": "2026-10-01",
+        "note": "初始讲解资料，不代表制作人员现场核实"
+      }
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "id": "TMP-SJ-0015",
+    "name": "第七教学楼",
+    "aliases": [
+      "七教"
+    ],
+    "category": "教学学习",
+    "subcategory": "",
+    "parent_id": null,
+    "building": "第七教学楼",
+    "floor": null,
+    "location_desc": "全球治理与区域国别研究大楼东侧",
+    "summary": "东方语学院所在教学楼。",
+    "departments": [
+      "东方语学院"
+    ],
+    "services": [],
+    "tips": [],
+    "opening_hours": null,
+    "access_rules": null,
+    "reservation": null,
+    "fees": null,
+    "latitude": null,
+    "longitude": null,
+    "coordinate_system": null,
+    "coordinate_source": null,
+    "coordinate_source_url": null,
+    "coordinate_collected_at": null,
+    "coordinate_status": "待定位",
+    "position_type": null,
+    "original_coordinates": null,
+    "geometry": null,
+    "geometry_coordinate_system": null,
+    "entrances": [],
+    "photo": null,
+    "photos": [],
+    "verified_at": null,
+    "content_status": "发起人初始资料；待实地核实",
+    "pending_items": [
+      "准确点位与坐标来源",
+      "实际入口",
+      "楼层和区域服务",
+      "开放时间与使用条件",
+      "刷卡、预约与费用",
+      "可公开使用的现场照片"
+    ],
+    "sources": [
+      {
+        "title": "项目发起人提供的建设需求及更正",
+        "organization": "学生项目团队",
+        "url": null,
+        "accessed_at": "2026-10-01",
+        "note": "初始讲解资料，不代表制作人员现场核实"
+      }
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "id": "TMP-SJ-0016",
+    "name": "全球治理与区域国别研究大楼",
+    "aliases": [
+      "研究大楼"
+    ],
+    "category": "教学学习",
+    "subcategory": "",
+    "parent_id": null,
+    "building": "全球治理与区域国别研究大楼",
+    "floor": null,
+    "location_desc": "图书馆北侧、第七教学楼西侧",
+    "summary": "研究教学建筑，内部区域和服务待补充。",
+    "departments": [],
+    "services": [],
+    "tips": [],
+    "opening_hours": null,
+    "access_rules": null,
+    "reservation": null,
+    "fees": null,
+    "latitude": null,
+    "longitude": null,
+    "coordinate_system": null,
+    "coordinate_source": null,
+    "coordinate_source_url": null,
+    "coordinate_collected_at": null,
+    "coordinate_status": "待定位",
+    "position_type": null,
+    "original_coordinates": null,
+    "geometry": null,
+    "geometry_coordinate_system": null,
+    "entrances": [],
+    "photo": null,
+    "photos": [],
+    "verified_at": null,
+    "content_status": "发起人初始资料；待实地核实",
+    "pending_items": [
+      "准确点位与坐标来源",
+      "实际入口",
+      "楼层和区域服务",
+      "开放时间与使用条件",
+      "刷卡、预约与费用",
+      "可公开使用的现场照片"
+    ],
+    "sources": [
+      {
+        "title": "项目发起人提供的建设需求及更正",
+        "organization": "学生项目团队",
+        "url": null,
+        "accessed_at": "2026-10-01",
+        "note": "初始讲解资料，不代表制作人员现场核实"
+      }
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "id": "TMP-SJ-0017",
+    "name": "师生活动中心",
+    "aliases": [
+      "活动中心"
+    ],
+    "category": "体育运动",
+    "subcategory": "",
+    "parent_id": null,
+    "building": "师生活动中心",
+    "floor": null,
+    "location_desc": "研究大楼西侧、食堂东侧",
+    "summary": "体育教学部所在，活动与体育设施待补充。",
+    "departments": [
+      "体育教学部"
+    ],
+    "services": [],
+    "tips": [],
+    "opening_hours": null,
+    "access_rules": null,
+    "reservation": null,
+    "fees": null,
+    "latitude": null,
+    "longitude": null,
+    "coordinate_system": null,
+    "coordinate_source": null,
+    "coordinate_source_url": null,
+    "coordinate_collected_at": null,
+    "coordinate_status": "待定位",
+    "position_type": null,
+    "original_coordinates": null,
+    "geometry": null,
+    "geometry_coordinate_system": null,
+    "entrances": [],
+    "photo": null,
+    "photos": [],
+    "verified_at": null,
+    "content_status": "发起人初始资料；待实地核实",
+    "pending_items": [
+      "准确点位与坐标来源",
+      "实际入口",
+      "楼层和区域服务",
+      "开放时间与使用条件",
+      "刷卡、预约与费用",
+      "可公开使用的现场照片"
+    ],
+    "sources": [
+      {
+        "title": "项目发起人提供的建设需求及更正",
+        "organization": "学生项目团队",
+        "url": null,
+        "accessed_at": "2026-10-01",
+        "note": "初始讲解资料，不代表制作人员现场核实"
+      }
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "id": "TMP-SJ-0018",
+    "name": "第八教学楼",
+    "aliases": [
+      "八教"
+    ],
+    "category": "教学学习",
+    "subcategory": "",
+    "parent_id": null,
+    "building": "第八教学楼",
+    "floor": null,
+    "location_desc": "小足球场南侧、篮球场东侧",
+    "summary": "中文学院、日本文化经济学院所在教学楼。",
+    "departments": [
+      "中文学院",
+      "日本文化经济学院"
+    ],
+    "services": [],
+    "tips": [],
+    "opening_hours": null,
+    "access_rules": null,
+    "reservation": null,
+    "fees": null,
+    "latitude": null,
+    "longitude": null,
+    "coordinate_system": null,
+    "coordinate_source": null,
+    "coordinate_source_url": null,
+    "coordinate_collected_at": null,
+    "coordinate_status": "待定位",
+    "position_type": null,
+    "original_coordinates": null,
+    "geometry": null,
+    "geometry_coordinate_system": null,
+    "entrances": [],
+    "photo": null,
+    "photos": [],
+    "verified_at": null,
+    "content_status": "发起人初始资料；待实地核实",
+    "pending_items": [
+      "准确点位与坐标来源",
+      "实际入口",
+      "楼层和区域服务",
+      "开放时间与使用条件",
+      "刷卡、预约与费用",
+      "可公开使用的现场照片"
+    ],
+    "sources": [
+      {
+        "title": "项目发起人提供的建设需求及更正",
+        "organization": "学生项目团队",
+        "url": null,
+        "accessed_at": "2026-10-01",
+        "note": "初始讲解资料，不代表制作人员现场核实"
+      }
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "id": "TMP-SJ-0019",
+    "name": "小足球场",
+    "aliases": [],
+    "category": "体育运动",
+    "subcategory": "",
+    "parent_id": null,
+    "building": "小足球场",
+    "floor": null,
+    "location_desc": "第八教学楼正北面；篮球场与羽毛球场之间空地的正东面",
+    "summary": "校园体育场地，使用条件待核实。",
+    "departments": [],
+    "services": [],
+    "tips": [],
+    "opening_hours": null,
+    "access_rules": null,
+    "reservation": null,
+    "fees": null,
+    "latitude": null,
+    "longitude": null,
+    "coordinate_system": null,
+    "coordinate_source": null,
+    "coordinate_source_url": null,
+    "coordinate_collected_at": null,
+    "coordinate_status": "待定位",
+    "position_type": null,
+    "original_coordinates": null,
+    "geometry": null,
+    "geometry_coordinate_system": null,
+    "entrances": [],
+    "photo": null,
+    "photos": [],
+    "verified_at": null,
+    "content_status": "发起人初始资料；待实地核实",
+    "pending_items": [
+      "准确点位与坐标来源",
+      "实际入口",
+      "楼层和区域服务",
+      "开放时间与使用条件",
+      "刷卡、预约与费用",
+      "可公开使用的现场照片"
+    ],
+    "sources": [
+      {
+        "title": "项目发起人提供的建设需求及更正",
+        "organization": "学生项目团队",
+        "url": null,
+        "accessed_at": "2026-10-01",
+        "note": "初始讲解资料，不代表制作人员现场核实"
+      }
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "id": "TMP-SJ-0020",
+    "name": "篮球场",
+    "aliases": [],
+    "category": "体育运动",
+    "subcategory": "",
+    "parent_id": null,
+    "building": "篮球场",
+    "floor": null,
+    "location_desc": "第八教学楼正西面、羽毛球场南侧",
+    "summary": "校园篮球场，开放及预约条件待核实。",
+    "departments": [],
+    "services": [],
+    "tips": [],
+    "opening_hours": null,
+    "access_rules": null,
+    "reservation": null,
+    "fees": null,
+    "latitude": null,
+    "longitude": null,
+    "coordinate_system": null,
+    "coordinate_source": null,
+    "coordinate_source_url": null,
+    "coordinate_collected_at": null,
+    "coordinate_status": "待定位",
+    "position_type": null,
+    "original_coordinates": null,
+    "geometry": null,
+    "geometry_coordinate_system": null,
+    "entrances": [],
+    "photo": null,
+    "photos": [],
+    "verified_at": null,
+    "content_status": "发起人初始资料；待实地核实",
+    "pending_items": [
+      "准确点位与坐标来源",
+      "实际入口",
+      "楼层和区域服务",
+      "开放时间与使用条件",
+      "刷卡、预约与费用",
+      "可公开使用的现场照片"
+    ],
+    "sources": [
+      {
+        "title": "项目发起人提供的建设需求及更正",
+        "organization": "学生项目团队",
+        "url": null,
+        "accessed_at": "2026-10-01",
+        "note": "初始讲解资料，不代表制作人员现场核实"
+      }
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "id": "TMP-SJ-0021",
+    "name": "羽毛球场",
+    "aliases": [],
+    "category": "体育运动",
+    "subcategory": "",
+    "parent_id": null,
+    "building": "羽毛球场",
+    "floor": null,
+    "location_desc": "篮球场正北面",
+    "summary": "校园羽毛球场，开放及预约条件待核实。",
+    "departments": [],
+    "services": [],
+    "tips": [],
+    "opening_hours": null,
+    "access_rules": null,
+    "reservation": null,
+    "fees": null,
+    "latitude": null,
+    "longitude": null,
+    "coordinate_system": null,
+    "coordinate_source": null,
+    "coordinate_source_url": null,
+    "coordinate_collected_at": null,
+    "coordinate_status": "待定位",
+    "position_type": null,
+    "original_coordinates": null,
+    "geometry": null,
+    "geometry_coordinate_system": null,
+    "entrances": [],
+    "photo": null,
+    "photos": [],
+    "verified_at": null,
+    "content_status": "发起人初始资料；待实地核实",
+    "pending_items": [
+      "准确点位与坐标来源",
+      "实际入口",
+      "楼层和区域服务",
+      "开放时间与使用条件",
+      "刷卡、预约与费用",
+      "可公开使用的现场照片"
+    ],
+    "sources": [
+      {
+        "title": "项目发起人提供的建设需求及更正",
+        "organization": "学生项目团队",
+        "url": null,
+        "accessed_at": "2026-10-01",
+        "note": "初始讲解资料，不代表制作人员现场核实"
+      }
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "id": "TMP-SJ-0022",
+    "name": "食堂（正式名称待确认）",
+    "aliases": [
+      "食堂",
+      "蜜雪冰城",
+      "瑞幸",
+      "瑞幸咖啡"
+    ],
+    "category": "餐饮",
+    "subcategory": "",
+    "parent_id": null,
+    "building": "食堂（正式名称待确认）",
+    "floor": null,
+    "location_desc": "师生活动中心西侧",
+    "summary": "已有讲解提及蜜雪冰城与瑞幸咖啡，具体楼层及营业情况待补充。",
+    "departments": [],
+    "services": [
+      {
+        "name": "蜜雪冰城",
+        "floor": null,
+        "status": "发起人讲解提及；当前营业情况待核实",
+        "keywords": [
+          "饮品"
+        ]
+      },
+      {
+        "name": "瑞幸咖啡",
+        "floor": null,
+        "status": "发起人讲解提及；当前营业情况待核实",
+        "keywords": [
+          "瑞幸",
+          "咖啡"
+        ]
+      }
+    ],
+    "tips": [],
+    "opening_hours": null,
+    "access_rules": null,
+    "reservation": null,
+    "fees": null,
+    "latitude": null,
+    "longitude": null,
+    "coordinate_system": null,
+    "coordinate_source": null,
+    "coordinate_source_url": null,
+    "coordinate_collected_at": null,
+    "coordinate_status": "待定位",
+    "position_type": null,
+    "original_coordinates": null,
+    "geometry": null,
+    "geometry_coordinate_system": null,
+    "entrances": [],
+    "photo": null,
+    "photos": [],
+    "verified_at": null,
+    "content_status": "发起人初始资料；待实地核实",
+    "pending_items": [
+      "准确点位与坐标来源",
+      "实际入口",
+      "楼层和区域服务",
+      "开放时间与使用条件",
+      "刷卡、预约与费用",
+      "可公开使用的现场照片",
+      "食堂正式名称、商家楼层与营业情况"
+    ],
+    "sources": [
+      {
+        "title": "项目发起人提供的建设需求及更正",
+        "organization": "学生项目团队",
+        "url": null,
+        "accessed_at": "2026-10-01",
+        "note": "初始讲解资料，不代表制作人员现场核实"
+      }
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "id": "TMP-SJ-0023",
+    "name": "大操场及中央足球场",
+    "aliases": [
+      "大操场",
+      "中央足球场"
+    ],
+    "category": "体育运动",
+    "subcategory": "",
+    "parent_id": null,
+    "building": "大操场及中央足球场",
+    "floor": null,
+    "location_desc": "与食堂之间为文采路",
+    "summary": "校园运动场，出入口与使用条件待核实。",
+    "departments": [],
+    "services": [],
+    "tips": [],
+    "opening_hours": null,
+    "access_rules": null,
+    "reservation": null,
+    "fees": null,
+    "latitude": null,
+    "longitude": null,
+    "coordinate_system": null,
+    "coordinate_source": null,
+    "coordinate_source_url": null,
+    "coordinate_collected_at": null,
+    "coordinate_status": "待定位",
+    "position_type": null,
+    "original_coordinates": null,
+    "geometry": null,
+    "geometry_coordinate_system": null,
+    "entrances": [],
+    "photo": null,
+    "photos": [],
+    "verified_at": null,
+    "content_status": "发起人初始资料；待实地核实",
+    "pending_items": [
+      "准确点位与坐标来源",
+      "实际入口",
+      "楼层和区域服务",
+      "开放时间与使用条件",
+      "刷卡、预约与费用",
+      "可公开使用的现场照片"
+    ],
+    "sources": [
+      {
+        "title": "项目发起人提供的建设需求及更正",
+        "organization": "学生项目团队",
+        "url": null,
+        "accessed_at": "2026-10-01",
+        "note": "初始讲解资料，不代表制作人员现场核实"
+      }
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "id": "TMP-SJ-0024",
+    "name": "文采路",
+    "aliases": [],
+    "category": "校门道路",
+    "subcategory": "",
+    "parent_id": null,
+    "building": "文采路",
+    "floor": null,
+    "location_desc": "大操场与食堂之间",
+    "summary": "校园道路，通往西门。",
+    "departments": [],
+    "services": [],
+    "tips": [],
+    "opening_hours": null,
+    "access_rules": null,
+    "reservation": null,
+    "fees": null,
+    "latitude": null,
+    "longitude": null,
+    "coordinate_system": null,
+    "coordinate_source": null,
+    "coordinate_source_url": null,
+    "coordinate_collected_at": null,
+    "coordinate_status": "待定位",
+    "position_type": null,
+    "original_coordinates": null,
+    "geometry": null,
+    "geometry_coordinate_system": null,
+    "entrances": [],
+    "photo": null,
+    "photos": [],
+    "verified_at": null,
+    "content_status": "发起人初始资料；待实地核实",
+    "pending_items": [
+      "准确点位与坐标来源",
+      "实际入口",
+      "楼层和区域服务",
+      "开放时间与使用条件",
+      "刷卡、预约与费用",
+      "可公开使用的现场照片"
+    ],
+    "sources": [
+      {
+        "title": "项目发起人提供的建设需求及更正",
+        "organization": "学生项目团队",
+        "url": null,
+        "accessed_at": "2026-10-01",
+        "note": "初始讲解资料，不代表制作人员现场核实"
+      }
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "id": "TMP-SJ-0025",
+    "name": "西门",
+    "aliases": [
+      "西校门"
+    ],
+    "category": "校门道路",
+    "subcategory": "",
+    "parent_id": null,
+    "building": "西门",
+    "floor": null,
+    "location_desc": "文采路通往西门",
+    "summary": "校区西侧出入口，通行条件待核实。",
+    "departments": [],
+    "services": [],
+    "tips": [],
+    "opening_hours": null,
+    "access_rules": null,
+    "reservation": null,
+    "fees": null,
+    "latitude": null,
+    "longitude": null,
+    "coordinate_system": null,
+    "coordinate_source": null,
+    "coordinate_source_url": null,
+    "coordinate_collected_at": null,
+    "coordinate_status": "待定位",
+    "position_type": null,
+    "original_coordinates": null,
+    "geometry": null,
+    "geometry_coordinate_system": null,
+    "entrances": [],
+    "photo": null,
+    "photos": [],
+    "verified_at": null,
+    "content_status": "发起人初始资料；待实地核实",
+    "pending_items": [
+      "准确点位与坐标来源",
+      "实际入口",
+      "楼层和区域服务",
+      "开放时间与使用条件",
+      "刷卡、预约与费用",
+      "可公开使用的现场照片"
+    ],
+    "sources": [
+      {
+        "title": "项目发起人提供的建设需求及更正",
+        "organization": "学生项目团队",
+        "url": null,
+        "accessed_at": "2026-10-01",
+        "note": "初始讲解资料，不代表制作人员现场核实"
+      }
+    ],
+    "updated_at": "2026-10-01"
+  },
+  {
+    "id": "TMP-SJ-0026",
+    "name": "南门主干道（无名道路，仅为位置描述）",
+    "aliases": [
+      "南门主干道",
+      "无名道路"
+    ],
+    "category": "校门道路",
+    "subcategory": "",
+    "parent_id": null,
+    "building": "南门主干道（无名道路，仅为位置描述）",
+    "floor": null,
+    "location_desc": "从南门进入校园的主干道",
+    "summary": "南门进入的主干道没有正式路名，仅用于位置描述。",
+    "departments": [],
+    "services": [],
+    "tips": [
+      "此处没有已确认的正式路名，不使用“中庆大道”。"
+    ],
+    "opening_hours": null,
+    "access_rules": null,
+    "reservation": null,
+    "fees": null,
+    "latitude": null,
+    "longitude": null,
+    "coordinate_system": null,
+    "coordinate_source": null,
+    "coordinate_source_url": null,
+    "coordinate_collected_at": null,
+    "coordinate_status": "待定位",
+    "position_type": null,
+    "original_coordinates": null,
+    "geometry": null,
+    "geometry_coordinate_system": null,
+    "entrances": [],
+    "photo": null,
+    "photos": [],
+    "verified_at": null,
+    "content_status": "发起人初始资料；待实地核实",
+    "pending_items": [
+      "准确点位与坐标来源",
+      "实际入口",
+      "楼层和区域服务",
+      "开放时间与使用条件",
+      "刷卡、预约与费用",
+      "可公开使用的现场照片"
+    ],
+    "sources": [
+      {
+        "title": "项目发起人提供的建设需求及更正",
+        "organization": "学生项目团队",
+        "url": null,
+        "accessed_at": "2026-10-01",
+        "note": "初始讲解资料，不代表制作人员现场核实"
+      }
+    ],
+    "updated_at": "2026-10-01"
+  }
+]
