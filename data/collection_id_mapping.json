@@ -1,0 +1,234 @@
+[
+  {
+    "id": "TMP-SJ-0001",
+    "name": "南门",
+    "collection_ids": [
+      "SJ-0011"
+    ],
+    "note": "网页ID保持稳定；采集手册编号仅作来源映射"
+  },
+  {
+    "id": "TMP-SJ-0002",
+    "name": "镜湖",
+    "collection_ids": [
+      "SJ-0012"
+    ],
+    "note": "网页ID保持稳定；采集手册编号仅作来源映射"
+  },
+  {
+    "id": "TMP-SJ-0003",
+    "name": "教育会堂",
+    "collection_ids": [
+      "SJ-0005"
+    ],
+    "note": "网页ID保持稳定；采集手册编号仅作来源映射"
+  },
+  {
+    "id": "TMP-SJ-0004",
+    "name": "语言博物馆",
+    "collection_ids": [
+      "SJ-0006"
+    ],
+    "note": "网页ID保持稳定；采集手册编号仅作来源映射"
+  },
+  {
+    "id": "TMP-SJ-0005",
+    "name": "行政楼",
+    "collection_ids": [
+      "SJ-0003"
+    ],
+    "note": "网页ID保持稳定；采集手册编号仅作来源映射"
+  },
+  {
+    "id": "TMP-SJ-0006",
+    "name": "第三教学楼东栋",
+    "collection_ids": [],
+    "note": "网页ID保持稳定；采集手册编号仅作来源映射"
+  },
+  {
+    "id": "TMP-SJ-0007",
+    "name": "第三教学楼西栋",
+    "collection_ids": [],
+    "note": "网页ID保持稳定；采集手册编号仅作来源映射"
+  },
+  {
+    "id": "TMP-SJ-0008",
+    "name": "第四教学楼",
+    "collection_ids": [
+      "SJ-0015"
+    ],
+    "note": "网页ID保持稳定；采集手册编号仅作来源映射"
+  },
+  {
+    "id": "TMP-SJ-0009",
+    "name": "图文信息中心（图书馆）",
+    "collection_ids": [
+      "SJ-0001"
+    ],
+    "note": "网页ID保持稳定；采集手册编号仅作来源映射"
+  },
+  {
+    "id": "TMP-SJ-0010",
+    "name": "第二教学楼东栋",
+    "collection_ids": [],
+    "note": "网页ID保持稳定；采集手册编号仅作来源映射"
+  },
+  {
+    "id": "TMP-SJ-0011",
+    "name": "第二教学楼西栋",
+    "collection_ids": [],
+    "note": "网页ID保持稳定；采集手册编号仅作来源映射"
+  },
+  {
+    "id": "TMP-SJ-0012",
+    "name": "第五教学楼",
+    "collection_ids": [
+      "SJ-0018"
+    ],
+    "note": "网页ID保持稳定；采集手册编号仅作来源映射"
+  },
+  {
+    "id": "TMP-SJ-0013",
+    "name": "第一教学楼",
+    "collection_ids": [
+      "SJ-0019"
+    ],
+    "note": "网页ID保持稳定；采集手册编号仅作来源映射"
+  },
+  {
+    "id": "TMP-SJ-0014",
+    "name": "第六教学楼",
+    "collection_ids": [
+      "SJ-0020"
+    ],
+    "note": "网页ID保持稳定；采集手册编号仅作来源映射"
+  },
+  {
+    "id": "TMP-SJ-0015",
+    "name": "第七教学楼",
+    "collection_ids": [
+      "SJ-0021"
+    ],
+    "note": "网页ID保持稳定；采集手册编号仅作来源映射"
+  },
+  {
+    "id": "TMP-SJ-0016",
+    "name": "全球治理与区域国别研究大楼",
+    "collection_ids": [
+      "SJ-0022"
+    ],
+    "note": "网页ID保持稳定；采集手册编号仅作来源映射"
+  },
+  {
+    "id": "TMP-SJ-0017",
+    "name": "师生活动中心",
+    "collection_ids": [
+      "SJ-0007"
+    ],
+    "note": "网页ID保持稳定；采集手册编号仅作来源映射"
+  },
+  {
+    "id": "TMP-SJ-0018",
+    "name": "第八教学楼",
+    "collection_ids": [
+      "SJ-0023"
+    ],
+    "note": "网页ID保持稳定；采集手册编号仅作来源映射"
+  },
+  {
+    "id": "TMP-SJ-0019",
+    "name": "小足球场",
+    "collection_ids": [
+      "SJ-0024"
+    ],
+    "note": "网页ID保持稳定；采集手册编号仅作来源映射"
+  },
+  {
+    "id": "TMP-SJ-0020",
+    "name": "篮球场",
+    "collection_ids": [
+      "SJ-0025"
+    ],
+    "note": "网页ID保持稳定；采集手册编号仅作来源映射"
+  },
+  {
+    "id": "TMP-SJ-0021",
+    "name": "羽毛球馆",
+    "collection_ids": [
+      "SJ-0026"
+    ],
+    "note": "网页ID保持稳定；采集手册编号仅作来源映射"
+  },
+  {
+    "id": "TMP-SJ-0022",
+    "name": "食堂（正式名称待确认）",
+    "collection_ids": [
+      "SJ-0010"
+    ],
+    "note": "网页ID保持稳定；采集手册编号仅作来源映射"
+  },
+  {
+    "id": "TMP-SJ-0023",
+    "name": "大操场及中央足球场",
+    "collection_ids": [
+      "SJ-0009"
+    ],
+    "note": "网页ID保持稳定；采集手册编号仅作来源映射"
+  },
+  {
+    "id": "TMP-SJ-0024",
+    "name": "文采路",
+    "collection_ids": [
+      "SJ-0027"
+    ],
+    "note": "网页ID保持稳定；采集手册编号仅作来源映射"
+  },
+  {
+    "id": "TMP-SJ-0025",
+    "name": "西门",
+    "collection_ids": [
+      "SJ-0028"
+    ],
+    "note": "网页ID保持稳定；采集手册编号仅作来源映射"
+  },
+  {
+    "id": "TMP-SJ-0026",
+    "name": "南门主干道（无名道路，仅为位置描述）",
+    "collection_ids": [
+      "SJ-0029"
+    ],
+    "note": "网页ID保持稳定；采集手册编号仅作来源映射"
+  },
+  {
+    "id": "TMP-SJ0023-P01",
+    "name": "第八教学楼周边停车点",
+    "collection_ids": [
+      "TMP-SJ0023-P01"
+    ],
+    "note": "网页ID保持稳定；采集手册编号仅作来源映射"
+  },
+  {
+    "id": "TMP-SJ0023-P02",
+    "name": "第八教学楼周边非机动车停放区",
+    "collection_ids": [
+      "TMP-SJ0023-P02"
+    ],
+    "note": "网页ID保持稳定；采集手册编号仅作来源映射"
+  },
+  {
+    "id": "TMP-SJ0025-01",
+    "name": "篮球扫码借还柜",
+    "collection_ids": [
+      "TMP-SJ0025-01"
+    ],
+    "note": "网页ID保持稳定；采集手册编号仅作来源映射"
+  },
+  {
+    "id": "TMP-SJ0025-02",
+    "name": "手机寄存柜",
+    "collection_ids": [
+      "TMP-SJ0025-02"
+    ],
+    "note": "网页ID保持稳定；采集手册编号仅作来源映射"
+  }
+]

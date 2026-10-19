@@ -56,3 +56,8 @@
 ## 地图浏览状态
 
 sessionStorage 保存本次会话的中心、缩放、搜索与分类。返回 index.html 恢复；分享链接不携带私人浏览状态。无权限或浏览器禁止存储时自然降级为默认视图。
+
+
+## 2026-10-19扩展字段
+
+collection_ids保存采集手册编号，网页id不变。conflicts为{field,issue}数组，详情页会展示差异。verification_notes记录日期冲突等说明，field_sources保存来源文档ID。source.collected_at为来源采集日期，accessed_at为整理/查阅日期。照片新增source_file、permission_source、privacy_review、imported_at，均不代替taken_at。
