@@ -10,50 +10,44 @@
     "parent_id": null,
     "building": "南门",
     "floor": null,
-    "location_desc": "南侧校门入口；采集包提供门头与入口照片，周边建筑对应关系待复核。",
-    "summary": "校园南侧出入口。采集资料记录校园卡、刷脸或登记通行；具体适用对象和通行时段待核实。",
+    "location_desc": null,
+    "summary": "",
     "departments": [],
-    "services": [
-      {
-        "name": "周边外卖柜",
-        "floor": "校门周边",
-        "status": "采集表提及；具体位置、运营及使用规则待核实"
-      }
-    ],
+    "services": [],
     "tips": [],
     "opening_hours": null,
-    "access_rules": "采集表称校内人员需出示校园卡，入口表记录刷脸；访客登记或预约要求待核实。",
+    "access_rules": "",
     "reservation": null,
     "fees": null,
-    "latitude": null,
-    "longitude": null,
-    "coordinate_system": null,
-    "coordinate_source": null,
-    "coordinate_source_url": null,
-    "coordinate_collected_at": null,
-    "coordinate_status": "待定位",
-    "position_type": null,
+    "latitude": 31.042989,
+    "longitude": 121.225337,
+    "coordinate_system": "GCJ-02",
+    "coordinate_source": "腾讯地图地点搜索API：上海外国语大学(松江校区南门)",
+    "coordinate_source_url": "https://apis.map.qq.com/ws/place/v1/search",
+    "coordinate_collected_at": "2026-10-20",
+    "coordinate_status": "腾讯地图POI",
+    "position_type": "校门POI",
     "original_coordinates": null,
     "geometry": null,
     "geometry_coordinate_system": null,
     "entrances": [
       {
         "name": "南门主入口",
-        "description": "采集表记录刷脸通行；入口朝向待核实。",
+        "description": "",
         "latitude": null,
         "longitude": null,
         "coordinate_system": null,
-        "coordinate_status": "待定位",
-        "accessibility": "采集表称有无障碍通道；实际连续通行条件待复核"
+        "coordinate_status": "",
+        "accessibility": ""
       }
     ],
     "photo": "assets/photos/TMP-SJ-0001/field-20261019-168.jpg",
     "photos": [
       {
         "src": "assets/photos/TMP-SJ-0001/field-20261019-168.jpg",
-        "caption": "采集包所标南门周边校名石",
+        "caption": "",
         "taken_at": null,
-        "credit": "李晗菲（资料内年份冲突待确认）",
+        "credit": "",
         "public_use": true,
         "source_file": "资料交付111/资料交付/照片补充.zip.expanded/照片补充/南门/c63b24360142fd8495b0ba8e31f8c8c3.jpg",
         "permission_source": "项目负责人在本次会话确认已获公开授权；仅选用已筛查代表图",
@@ -64,22 +58,13 @@
         "src": "assets/photos/TMP-SJ-0001/field-20261019-169.jpg",
         "caption": "南门周边校名石与通行环境",
         "taken_at": null,
-        "credit": "李晗菲（资料内年份冲突待确认）",
+        "credit": "",
         "public_use": true,
         "source_file": "资料交付111/资料交付/照片补充.zip.expanded/照片补充/南门/fa0d04c0cf9ea01a94336cdfbd4323e9.jpg",
         "permission_source": "项目负责人在本次会话确认已获公开授权；仅选用已筛查代表图",
         "privacy_review": "人工筛选；未选用带可辨认人脸、车牌或私人表单的画面；公开副本移除EXIF",
         "imported_at": "2026-10-19"
       }
-    ],
-    "verified_at": null,
-    "content_status": "已有采集人资料；待交叉复核；存在冲突待确认",
-    "pending_items": [
-      "建筑与入口精确坐标、坐标来源和定位对象",
-      "采集资料交叉复核及变化信息更新",
-      "采集与照片日期年份冲突",
-      "校园卡、刷脸、访客登记规则及开放时段",
-      "外卖柜位置与使用条件"
     ],
     "sources": [
       {
@@ -91,63 +76,16 @@
       },
       {
         "title": "文字资料.docx",
-        "organization": "学生项目团队（采集人：李晗菲）",
+        "organization": "",
         "url": null,
         "accessed_at": "2026-10-19",
         "collected_at": null,
         "source_document_id": "DOC-012",
-        "note": "用户提供的采集交付资料；采集人记录，网站制作人员未到现场；待交叉复核。"
+        "note": ""
       }
     ],
     "updated_at": "2026-10-19",
-    "conflicts": [
-      {
-        "field": "verified_at",
-        "issue": "交付稿开头采集日期为2025-10-08，各点位核实日期及照片表为2026-10-08；年份待采集人确认。"
-      },
-      {
-        "field": "location_desc",
-        "issue": "南门附近医院和“西索大道”线索未经交叉核对，不作为确定方位或正式路名展示。"
-      }
-    ],
-    "collection_ids": [
-      "SJ-0011"
-    ],
-    "field_sources": {
-      "location_desc": {
-        "document_id": "DOC-012",
-        "collected_at": null
-      },
-      "summary": {
-        "document_id": "DOC-012",
-        "collected_at": null
-      },
-      "services": {
-        "document_id": "DOC-012",
-        "collected_at": null
-      },
-      "access_rules": {
-        "document_id": "DOC-012",
-        "collected_at": null
-      },
-      "entrances": {
-        "document_id": "DOC-012",
-        "collected_at": null
-      },
-      "verified_at": {
-        "document_id": "DOC-012",
-        "collected_at": null
-      },
-      "conflicts": {
-        "document_id": "DOC-012",
-        "collected_at": null
-      },
-      "pending_items": {
-        "document_id": "DOC-012",
-        "collected_at": null
-      }
-    },
-    "verification_notes": "来源内日期前后不一致，verified_at保持null；具体差异见待核实项和来源记录。"
+    "tencent_poi_id": "428969035699183192"
   },
   {
     "id": "TMP-SJ-0002",
@@ -158,22 +96,15 @@
     "parent_id": null,
     "building": "校园景观水域（露天）",
     "floor": null,
-    "location_desc": "采集人记录位于教育会堂里侧，靠近校区西南侧入口与第三教学楼；具体地理位置待核对。",
+    "location_desc": "",
     "summary": "校园露天景观水域，可观景休憩。周边有长椅，部分区域无围栏。",
     "departments": [],
-    "services": [
-      {
-        "name": "观景与休憩",
-        "floor": "露天区域",
-        "status": "2026-10-08采集记录；周边可见长椅"
-      }
-    ],
+    "services": [],
     "tips": [
-      "部分区域无围栏，请注意临水安全。",
-      "部分周边路段有阶梯，连续无障碍通行条件待核实。"
+      "部分区域无围栏，请注意临水安全。"
     ],
-    "opening_hours": "采集表记为“同校园开放时间”，具体时段未提供。",
-    "access_rules": "景观本身未记录额外进入条件；入校规则另行适用。",
+    "opening_hours": "",
+    "access_rules": "",
     "reservation": null,
     "fees": null,
     "latitude": null,
@@ -182,7 +113,7 @@
     "coordinate_source": null,
     "coordinate_source_url": null,
     "coordinate_collected_at": null,
-    "coordinate_status": "待定位",
+    "coordinate_status": "",
     "position_type": null,
     "original_coordinates": null,
     "geometry": null,
@@ -190,11 +121,11 @@
     "entrances": [
       {
         "name": "镜湖周边到达区域",
-        "description": "露天景观，不将整片水域作为建筑入口；具体到达路径待核实。",
+        "description": "",
         "latitude": null,
         "longitude": null,
         "coordinate_system": null,
-        "coordinate_status": "待定位"
+        "coordinate_status": ""
       }
     ],
     "photo": "assets/photos/TMP-SJ-0002/field-20261019-163.jpg",
@@ -233,14 +164,6 @@
         "imported_at": "2026-10-19"
       }
     ],
-    "verified_at": "2026-10-08",
-    "content_status": "已有采集人资料；待交叉复核",
-    "pending_items": [
-      "建筑与入口精确坐标、坐标来源和定位对象",
-      "采集资料交叉复核及变化信息更新",
-      "景观准确位置、周边无障碍连续通行条件",
-      "校园通行时间"
-    ],
     "sources": [
       {
         "title": "项目发起人提供的建设需求及更正",
@@ -251,60 +174,15 @@
       },
       {
         "title": "文字资料.docx",
-        "organization": "学生项目团队（采集人：施良）",
+        "organization": "",
         "url": null,
         "accessed_at": "2026-10-19",
         "collected_at": "2026-10-08",
         "source_document_id": "DOC-011",
-        "note": "用户提供的采集交付资料；采集人记录，网站制作人员未到现场；待交叉复核。"
+        "note": ""
       }
     ],
-    "updated_at": "2026-10-19",
-    "collection_ids": [
-      "SJ-0012"
-    ],
-    "field_sources": {
-      "building": {
-        "document_id": "DOC-011",
-        "collected_at": "2026-10-08"
-      },
-      "subcategory": {
-        "document_id": "DOC-011",
-        "collected_at": "2026-10-08"
-      },
-      "location_desc": {
-        "document_id": "DOC-011",
-        "collected_at": "2026-10-08"
-      },
-      "summary": {
-        "document_id": "DOC-011",
-        "collected_at": "2026-10-08"
-      },
-      "services": {
-        "document_id": "DOC-011",
-        "collected_at": "2026-10-08"
-      },
-      "opening_hours": {
-        "document_id": "DOC-011",
-        "collected_at": "2026-10-08"
-      },
-      "access_rules": {
-        "document_id": "DOC-011",
-        "collected_at": "2026-10-08"
-      },
-      "tips": {
-        "document_id": "DOC-011",
-        "collected_at": "2026-10-08"
-      },
-      "entrances": {
-        "document_id": "DOC-011",
-        "collected_at": "2026-10-08"
-      },
-      "pending_items": {
-        "document_id": "DOC-011",
-        "collected_at": "2026-10-08"
-      }
-    }
+    "updated_at": "2026-10-19"
   },
   {
     "id": "TMP-SJ-0003",
@@ -315,41 +193,35 @@
     "parent_id": null,
     "building": "教育会堂",
     "floor": null,
-    "location_desc": "采集人记录靠近校区西南侧入口及第三教学楼，与语言博物馆位于同一建筑；具体关系待复核。",
-    "summary": "校园会堂，提供会堂活动、报告与演出空间；具体开放和预约条件待核实。",
+    "location_desc": "",
+    "summary": "",
     "departments": [],
-    "services": [
-      {
-        "name": "会堂活动、报告与演出空间",
-        "floor": null,
-        "status": "采集人记录；活动安排、面向对象和使用条件待核实"
-      }
-    ],
+    "services": [],
     "tips": [],
     "opening_hours": null,
     "access_rules": null,
     "reservation": null,
     "fees": null,
-    "latitude": null,
-    "longitude": null,
-    "coordinate_system": null,
-    "coordinate_source": null,
-    "coordinate_source_url": null,
-    "coordinate_collected_at": null,
-    "coordinate_status": "待定位",
-    "position_type": null,
+    "latitude": 31.043907,
+    "longitude": 121.222543,
+    "coordinate_system": "GCJ-02",
+    "coordinate_source": "腾讯地图地点搜索API：上海外国语大学(松江校区)教育会堂",
+    "coordinate_source_url": "https://apis.map.qq.com/ws/place/v1/search",
+    "coordinate_collected_at": "2026-10-20",
+    "coordinate_status": "腾讯地图POI",
+    "position_type": "设施POI",
     "original_coordinates": null,
     "geometry": null,
     "geometry_coordinate_system": null,
     "entrances": [
       {
         "name": "教育会堂主入口",
-        "description": "采集表记录入口有坡道；朝向和内部无障碍条件待核实。",
+        "description": "",
         "latitude": null,
         "longitude": null,
         "coordinate_system": null,
-        "coordinate_status": "待定位",
-        "accessibility": "入口有坡道，内部待核实"
+        "coordinate_status": "",
+        "accessibility": ""
       }
     ],
     "photo": "assets/photos/TMP-SJ-0003/field-20261019-151.jpg",
@@ -410,14 +282,6 @@
         "imported_at": "2026-10-19"
       }
     ],
-    "verified_at": "2026-10-08",
-    "content_status": "已有采集人资料；待交叉复核",
-    "pending_items": [
-      "建筑与入口精确坐标、坐标来源和定位对象",
-      "采集资料交叉复核及变化信息更新",
-      "开放时间、预约方式、收费与进入条件",
-      "内部无障碍条件及与语言博物馆的通行关系"
-    ],
     "sources": [
       {
         "title": "项目发起人提供的建设需求及更正",
@@ -428,40 +292,16 @@
       },
       {
         "title": "文字资料.docx",
-        "organization": "学生项目团队（采集人：施良）",
+        "organization": "",
         "url": null,
         "accessed_at": "2026-10-19",
         "collected_at": "2026-10-08",
         "source_document_id": "DOC-011",
-        "note": "用户提供的采集交付资料；采集人记录，网站制作人员未到现场；待交叉复核。"
+        "note": ""
       }
     ],
     "updated_at": "2026-10-19",
-    "collection_ids": [
-      "SJ-0005"
-    ],
-    "field_sources": {
-      "location_desc": {
-        "document_id": "DOC-011",
-        "collected_at": "2026-10-08"
-      },
-      "summary": {
-        "document_id": "DOC-011",
-        "collected_at": "2026-10-08"
-      },
-      "services": {
-        "document_id": "DOC-011",
-        "collected_at": "2026-10-08"
-      },
-      "entrances": {
-        "document_id": "DOC-011",
-        "collected_at": "2026-10-08"
-      },
-      "pending_items": {
-        "document_id": "DOC-011",
-        "collected_at": "2026-10-08"
-      }
-    }
+    "tencent_poi_id": "1710113365162467902"
   },
   {
     "id": "TMP-SJ-0004",
@@ -470,49 +310,36 @@
     "category": "文化场馆",
     "subcategory": "",
     "parent_id": null,
-    "building": "教育会堂（采集表记录）",
+    "building": "",
     "floor": null,
-    "location_desc": "采集人记录与教育会堂同建筑、入口相对；靠近校区西南侧入口及第三教学楼，准确位置待复核。",
-    "summary": "语言文化场馆，提供参观与讲解服务。门口告示所列入馆方式与采集人校园卡实测不一致，需提前核实。",
+    "location_desc": "",
+    "summary": "",
     "departments": [],
-    "services": [
-      {
-        "name": "展览参观",
-        "floor": null,
-        "status": "采集表记录免费参观、禁止摄影；当前执行情况以场馆公告为准"
-      },
-      {
-        "name": "定时讲解",
-        "floor": null,
-        "status": "采集资料记录开放日13:00、15:00提供讲解；当前安排待核实"
-      }
-    ],
-    "tips": [
-      "采集资料记录馆内禁止摄影；本次图库仅选择外观和门口公告照片。"
-    ],
-    "opening_hours": "采集资料记录：周二至周六10:00–16:30，16:00停止入馆；周六仅接待预约团体；法定节假日和寒暑假闭馆。当前安排以场馆公告为准。",
-    "access_rules": "门口告示列出人脸识别、校园卡或身份证；采集人报告本人校园卡未能入馆、未尝试身份证。不能据此保证校园卡可用。",
-    "reservation": "采集资料记录10人以上团体需预约；具体渠道待补充。",
-    "fees": "采集资料记录免费参观。",
-    "latitude": null,
-    "longitude": null,
-    "coordinate_system": null,
-    "coordinate_source": null,
-    "coordinate_source_url": null,
-    "coordinate_collected_at": null,
-    "coordinate_status": "待定位",
-    "position_type": null,
+    "services": [],
+    "tips": [],
+    "opening_hours": "",
+    "access_rules": null,
+    "reservation": "",
+    "fees": "",
+    "latitude": 31.044506,
+    "longitude": 121.22305,
+    "coordinate_system": "GCJ-02",
+    "coordinate_source": "腾讯地图地点搜索API：上海外国语大学(松江校区)-世界语言博物馆",
+    "coordinate_source_url": "https://apis.map.qq.com/ws/place/v1/search",
+    "coordinate_collected_at": "2026-10-20",
+    "coordinate_status": "腾讯地图POI",
+    "position_type": "设施POI",
     "original_coordinates": null,
     "geometry": null,
     "geometry_coordinate_system": null,
     "entrances": [
       {
         "name": "语言博物馆主入口",
-        "description": "与教育会堂入口相对（采集表记录）；入口有坡道，内部无障碍条件待核实。",
+        "description": "",
         "latitude": null,
         "longitude": null,
         "coordinate_system": null,
-        "coordinate_status": "待定位"
+        "coordinate_status": ""
       }
     ],
     "photo": "assets/photos/TMP-SJ-0004/field-20261019-160.jpg",
@@ -551,15 +378,6 @@
         "imported_at": "2026-10-19"
       }
     ],
-    "verified_at": "2026-10-08",
-    "content_status": "已有采集人资料；待交叉复核；存在冲突待确认",
-    "pending_items": [
-      "建筑与入口精确坐标、坐标来源和定位对象",
-      "采集资料交叉复核及变化信息更新",
-      "当前入馆方式、预约渠道及开放安排",
-      "校史馆相关空间与语言馆服务边界",
-      "内部无障碍条件"
-    ],
     "sources": [
       {
         "title": "项目发起人提供的建设需求及更正",
@@ -570,74 +388,16 @@
       },
       {
         "title": "文字资料.docx",
-        "organization": "学生项目团队（采集人：施良）",
+        "organization": "",
         "url": null,
         "accessed_at": "2026-10-19",
         "collected_at": "2026-10-08",
         "source_document_id": "DOC-011",
-        "note": "用户提供的采集交付资料；采集人记录，网站制作人员未到现场；待交叉复核。"
+        "note": ""
       }
     ],
     "updated_at": "2026-10-19",
-    "conflicts": [
-      {
-        "field": "access_rules",
-        "issue": "告示列校园卡等入馆方式，但采集人本人校园卡实测失败；需向场馆确认适用对象及有效方式。"
-      }
-    ],
-    "collection_ids": [
-      "SJ-0006"
-    ],
-    "field_sources": {
-      "building": {
-        "document_id": "DOC-011",
-        "collected_at": "2026-10-08"
-      },
-      "location_desc": {
-        "document_id": "DOC-011",
-        "collected_at": "2026-10-08"
-      },
-      "summary": {
-        "document_id": "DOC-011",
-        "collected_at": "2026-10-08"
-      },
-      "services": {
-        "document_id": "DOC-011",
-        "collected_at": "2026-10-08"
-      },
-      "opening_hours": {
-        "document_id": "DOC-011",
-        "collected_at": "2026-10-08"
-      },
-      "fees": {
-        "document_id": "DOC-011",
-        "collected_at": "2026-10-08"
-      },
-      "reservation": {
-        "document_id": "DOC-011",
-        "collected_at": "2026-10-08"
-      },
-      "access_rules": {
-        "document_id": "DOC-011",
-        "collected_at": "2026-10-08"
-      },
-      "tips": {
-        "document_id": "DOC-011",
-        "collected_at": "2026-10-08"
-      },
-      "entrances": {
-        "document_id": "DOC-011",
-        "collected_at": "2026-10-08"
-      },
-      "conflicts": {
-        "document_id": "DOC-011",
-        "collected_at": "2026-10-08"
-      },
-      "pending_items": {
-        "document_id": "DOC-011",
-        "collected_at": "2026-10-08"
-      }
-    }
+    "tencent_poi_id": "14717608693822215504"
   },
   {
     "id": "TMP-SJ-0005",
@@ -649,59 +409,44 @@
     "subcategory": "",
     "parent_id": null,
     "building": "行政楼",
-    "floor": "交付资料未给出可靠的逐层部门清单。",
-    "location_desc": "采集表记录位于第四教学楼南侧、南门东侧，楼前有喷泉水池；准确相对位置待交叉复核。",
-    "summary": "采集资料记录为行政办公与办事建筑，包含教务等服务；原始资料中的卓越学院归属尚待复核。",
-    "departments": [
-      "卓越学院（原始资料，当前归属待复核）",
-      "学校行政职能部门（采集资料，具体分布待复核）"
-    ],
-    "services": [
-      {
-        "name": "学籍证明、成绩盖章及教务相关业务",
-        "floor": null,
-        "status": "采集表记录；办理窗口、材料和接待时间待核实"
-      },
-      {
-        "name": "研究生、财务等行政办事",
-        "floor": null,
-        "status": "采集表记录；具体接待部门及事项待核实"
-      }
-    ],
+    "floor": "",
+    "location_desc": "",
+    "summary": "",
+    "departments": [],
+    "services": [],
     "tips": [
-      "楼内无公共自习区域（采集表记录）。",
       "办事前确认接待部门、材料和办公时间。"
     ],
-    "opening_hours": "采集资料称工作日办公，周末及节假日一般不对外办公；具体接待时段待核实。",
-    "access_rules": "采集表称教职工刷校园卡，学生需登记身份及办事事由；校外访客先联系接待部门预约并凭证件登记。现行规定待交叉复核。",
-    "reservation": "校外访客需提前联系接待部门；具体预约渠道待补充。",
+    "opening_hours": "",
+    "access_rules": "",
+    "reservation": "",
     "fees": null,
-    "latitude": null,
-    "longitude": null,
-    "coordinate_system": null,
-    "coordinate_source": null,
-    "coordinate_source_url": null,
-    "coordinate_collected_at": null,
-    "coordinate_status": "待定位",
-    "position_type": null,
+    "latitude": 31.043635,
+    "longitude": 121.22699,
+    "coordinate_system": "GCJ-02",
+    "coordinate_source": "腾讯地图地点搜索API：外国语大学(松江校区)行政楼",
+    "coordinate_source_url": "https://apis.map.qq.com/ws/place/v1/search",
+    "coordinate_collected_at": "2026-10-20",
+    "coordinate_status": "腾讯地图POI",
+    "position_type": "设施POI",
     "original_coordinates": null,
     "geometry": null,
     "geometry_coordinate_system": null,
     "entrances": [
       {
         "name": "主入口",
-        "description": "采集表记录朝西、楼内连通；坡道与电梯称可使用，但电梯开放时段及侧门通行待核实。",
+        "description": "",
         "latitude": null,
         "longitude": null,
         "coordinate_system": null,
-        "coordinate_status": "待定位"
+        "coordinate_status": ""
       }
     ],
     "photo": "assets/photos/TMP-SJ-0005/field-20261019-053.jpg",
     "photos": [
       {
         "src": "assets/photos/TMP-SJ-0005/field-20261019-053.jpg",
-        "caption": "采集包标为行政楼的内部楼梯",
+        "caption": "",
         "taken_at": null,
         "credit": "焦卓雅",
         "public_use": true,
@@ -712,7 +457,7 @@
       },
       {
         "src": "assets/photos/TMP-SJ-0005/field-20261019-054.jpg",
-        "caption": "采集包标为行政楼的门厅；建筑对象待交叉复核",
+        "caption": "",
         "taken_at": null,
         "credit": "焦卓雅",
         "public_use": true,
@@ -721,15 +466,6 @@
         "privacy_review": "人工筛选；未选用带可辨认人脸、车牌或私人表单的画面；公开副本移除EXIF",
         "imported_at": "2026-10-19"
       }
-    ],
-    "verified_at": null,
-    "content_status": "已有采集人资料；待交叉复核；存在冲突待确认",
-    "pending_items": [
-      "建筑与入口精确坐标、坐标来源和定位对象",
-      "采集资料交叉复核及变化信息更新",
-      "核实日期10月7日/8日差异",
-      "卓越学院与行政部门的现行分布",
-      "各窗口接待时段、电梯开放时间、侧门常态通行"
     ],
     "sources": [
       {
@@ -741,83 +477,16 @@
       },
       {
         "title": "行政楼.docx",
-        "organization": "学生项目团队（采集人：焦卓雅）",
+        "organization": "",
         "url": null,
         "accessed_at": "2026-10-19",
         "collected_at": null,
         "source_document_id": "DOC-010",
-        "note": "用户提供的采集交付资料；采集人记录，网站制作人员未到现场；待交叉复核。"
+        "note": ""
       }
     ],
     "updated_at": "2026-10-19",
-    "conflicts": [
-      {
-        "field": "departments",
-        "issue": "初始资料记卓越学院；本次采集表记校级行政办公，不能据此直接删除原学院信息。"
-      },
-      {
-        "field": "verified_at",
-        "issue": "个人交接清单核实截止2026-10-07，行政楼采集表核实日期2026-10-08，日期待确认。"
-      }
-    ],
-    "collection_ids": [
-      "SJ-0003"
-    ],
-    "field_sources": {
-      "location_desc": {
-        "document_id": "DOC-010",
-        "collected_at": null
-      },
-      "summary": {
-        "document_id": "DOC-010",
-        "collected_at": null
-      },
-      "departments": {
-        "document_id": "DOC-010",
-        "collected_at": null
-      },
-      "services": {
-        "document_id": "DOC-010",
-        "collected_at": null
-      },
-      "opening_hours": {
-        "document_id": "DOC-010",
-        "collected_at": null
-      },
-      "access_rules": {
-        "document_id": "DOC-010",
-        "collected_at": null
-      },
-      "reservation": {
-        "document_id": "DOC-010",
-        "collected_at": null
-      },
-      "floor": {
-        "document_id": "DOC-010",
-        "collected_at": null
-      },
-      "tips": {
-        "document_id": "DOC-010",
-        "collected_at": null
-      },
-      "entrances": {
-        "document_id": "DOC-010",
-        "collected_at": null
-      },
-      "verified_at": {
-        "document_id": "DOC-010",
-        "collected_at": null
-      },
-      "conflicts": {
-        "document_id": "DOC-010",
-        "collected_at": null
-      },
-      "pending_items": {
-        "document_id": "DOC-010",
-        "collected_at": null
-      }
-    },
-    "verification_notes": "来源内日期前后不一致，verified_at保持null；具体差异见待核实项和来源记录。"
+    "tencent_poi_id": "17743322265810327999"
   },
   {
     "id": "TMP-SJ-0006",
@@ -828,10 +497,10 @@
     ],
     "category": "教学学习",
     "subcategory": "",
-    "parent_id": null,
+    "parent_id": "TMP-SJ-B03",
     "building": "第三教学楼东栋",
     "floor": null,
-    "location_desc": "第三教学楼东栋，入口待采集",
+    "location_desc": "",
     "summary": "德语系所在教学楼。东西栋不互通。",
     "departments": [
       "德语系"
@@ -850,7 +519,7 @@
     "coordinate_source": null,
     "coordinate_source_url": null,
     "coordinate_collected_at": null,
-    "coordinate_status": "待定位",
+    "coordinate_status": "",
     "position_type": null,
     "original_coordinates": null,
     "geometry": null,
@@ -858,16 +527,6 @@
     "entrances": [],
     "photo": null,
     "photos": [],
-    "verified_at": null,
-    "content_status": "发起人初始资料；待实地核实",
-    "pending_items": [
-      "准确点位与坐标来源",
-      "实际入口",
-      "楼层和区域服务",
-      "开放时间与使用条件",
-      "刷卡、预约与费用",
-      "可公开使用的现场照片"
-    ],
     "sources": [
       {
         "title": "项目发起人提供的建设需求及更正",
@@ -888,10 +547,10 @@
     ],
     "category": "教学学习",
     "subcategory": "",
-    "parent_id": null,
+    "parent_id": "TMP-SJ-B03",
     "building": "第三教学楼西栋",
     "floor": null,
-    "location_desc": "第三教学楼西栋，入口待采集",
+    "location_desc": "",
     "summary": "法语系所在教学楼。东西栋不互通。",
     "departments": [
       "法语系"
@@ -910,7 +569,7 @@
     "coordinate_source": null,
     "coordinate_source_url": null,
     "coordinate_collected_at": null,
-    "coordinate_status": "待定位",
+    "coordinate_status": "",
     "position_type": null,
     "original_coordinates": null,
     "geometry": null,
@@ -918,16 +577,6 @@
     "entrances": [],
     "photo": null,
     "photos": [],
-    "verified_at": null,
-    "content_status": "发起人初始资料；待实地核实",
-    "pending_items": [
-      "准确点位与坐标来源",
-      "实际入口",
-      "楼层和区域服务",
-      "开放时间与使用条件",
-      "刷卡、预约与费用",
-      "可公开使用的现场照片"
-    ],
     "sources": [
       {
         "title": "项目发起人提供的建设需求及更正",
@@ -949,65 +598,44 @@
     "subcategory": "",
     "parent_id": null,
     "building": "第四教学楼",
-    "floor": "本次采集包导览牌照片列1F、2F法学院相关办公室及服务；与原始院系信息冲突，建筑对象与现行归属待复核。",
-    "location_desc": "采集表记录在行政楼北侧；其余“校园北部、体育场旁”等相对位置与建筑对象对应待复核。",
-    "summary": "教学与自习建筑，采集资料补充公共教室、饮水点、卫生间及休憩座椅。院系归属存在冲突。",
-    "departments": [
-      "国际关系与公共事务学院（原始资料，待复核）",
-      "马克思主义学院（原始资料，待复核）",
-      "法学院（本次文字采集表，建筑对象对应待复核）"
-    ],
-    "services": [
-      {
-        "name": "普通及多媒体教室",
-        "floor": null,
-        "status": "采集表记录；教学优先"
-      },
-      {
-        "name": "空闲教室自习",
-        "floor": null,
-        "status": "按课表动态使用；具体管理细则待核实"
-      },
-      {
-        "name": "饮水点、卫生间与休憩座椅",
-        "floor": null,
-        "status": "采集表记录；具体楼层待补充"
-      }
-    ],
+    "floor": "",
+    "location_desc": "",
+    "summary": "",
+    "departments": [],
+    "services": [],
     "tips": [
-      "有课时教学优先，自习使用须遵守楼宇管理规定。",
-      "采集表称楼内各层互通；具体自习规则待核实。"
+      "有课时教学优先，自习使用须遵守楼宇管理规定。"
     ],
     "opening_hours": null,
-    "access_rules": "采集表称日间无需刷卡登记、夜间闭楼后门禁生效；闭楼时刻待核实。",
-    "reservation": "采集表称普通教室按课表使用无需预约；不等于允许在有课时进入自习。",
+    "access_rules": "",
+    "reservation": "",
     "fees": null,
-    "latitude": null,
-    "longitude": null,
-    "coordinate_system": null,
-    "coordinate_source": null,
-    "coordinate_source_url": null,
-    "coordinate_collected_at": null,
-    "coordinate_status": "待定位",
-    "position_type": null,
+    "latitude": 31.045079,
+    "longitude": 121.226789,
+    "coordinate_system": "GCJ-02",
+    "coordinate_source": "腾讯地图地点搜索API：上海外国语大学(松江校区)四教楼",
+    "coordinate_source_url": "https://apis.map.qq.com/ws/place/v1/search",
+    "coordinate_collected_at": "2026-10-20",
+    "coordinate_status": "腾讯地图POI",
+    "position_type": "设施POI",
     "original_coordinates": null,
     "geometry": null,
     "geometry_coordinate_system": null,
     "entrances": [
       {
         "name": "正门口",
-        "description": "采集表记录朝西，坡道/电梯称可使用；具体入口与设备状态待复核。",
+        "description": "",
         "latitude": null,
         "longitude": null,
         "coordinate_system": null,
-        "coordinate_status": "待定位"
+        "coordinate_status": ""
       }
     ],
     "photo": "assets/photos/TMP-SJ-0008/field-20261019-045.jpg",
     "photos": [
       {
         "src": "assets/photos/TMP-SJ-0008/field-20261019-045.jpg",
-        "caption": "采集包标为四教的门厅",
+        "caption": "",
         "taken_at": null,
         "credit": "焦卓雅",
         "public_use": true,
@@ -1018,7 +646,7 @@
       },
       {
         "src": "assets/photos/TMP-SJ-0008/field-20261019-046.jpg",
-        "caption": "采集包四教导览牌：法学院相关文字，与原始资料冲突待核实",
+        "caption": "",
         "taken_at": null,
         "credit": "焦卓雅",
         "public_use": true,
@@ -1029,7 +657,7 @@
       },
       {
         "src": "assets/photos/TMP-SJ-0008/field-20261019-047.jpg",
-        "caption": "采集包四教另一导览牌",
+        "caption": "",
         "taken_at": null,
         "credit": "焦卓雅",
         "public_use": true,
@@ -1040,7 +668,7 @@
       },
       {
         "src": "assets/photos/TMP-SJ-0008/field-20261019-049.jpg",
-        "caption": "采集包四教公共休憩区域",
+        "caption": "",
         "taken_at": null,
         "credit": "焦卓雅",
         "public_use": true,
@@ -1049,15 +677,6 @@
         "privacy_review": "人工筛选；未选用带可辨认人脸、车牌或私人表单的画面；公开副本移除EXIF",
         "imported_at": "2026-10-19"
       }
-    ],
-    "verified_at": null,
-    "content_status": "已有采集人资料；待交叉复核；存在冲突待确认",
-    "pending_items": [
-      "建筑与入口精确坐标、坐标来源和定位对象",
-      "采集资料交叉复核及变化信息更新",
-      "四教院系及楼层归属冲突",
-      "采集日期10月7日/8日差异",
-      "晚间闭楼时刻、自习细则及无障碍设施状态"
     ],
     "sources": [
       {
@@ -1069,79 +688,16 @@
       },
       {
         "title": "第四教学楼.docx",
-        "organization": "学生项目团队（采集人：焦卓雅）",
+        "organization": "",
         "url": null,
         "accessed_at": "2026-10-19",
         "collected_at": null,
         "source_document_id": "DOC-008",
-        "note": "用户提供的采集交付资料；采集人记录，网站制作人员未到现场；待交叉复核。"
+        "note": ""
       }
     ],
     "updated_at": "2026-10-19",
-    "conflicts": [
-      {
-        "field": "departments",
-        "issue": "初始资料为国际关系与公共事务学院、马克思主义学院；采集文字及导览牌照片列法学院。来源不一致，保留两方信息并等待建筑对象与现行归属复核。"
-      },
-      {
-        "field": "verified_at",
-        "issue": "交接清单截至2026-10-07，而本表为2026-10-08。"
-      }
-    ],
-    "collection_ids": [
-      "SJ-0015"
-    ],
-    "field_sources": {
-      "location_desc": {
-        "document_id": "DOC-008",
-        "collected_at": null
-      },
-      "summary": {
-        "document_id": "DOC-008",
-        "collected_at": null
-      },
-      "departments": {
-        "document_id": "DOC-008",
-        "collected_at": null
-      },
-      "floor": {
-        "document_id": "DOC-008",
-        "collected_at": null
-      },
-      "services": {
-        "document_id": "DOC-008",
-        "collected_at": null
-      },
-      "access_rules": {
-        "document_id": "DOC-008",
-        "collected_at": null
-      },
-      "reservation": {
-        "document_id": "DOC-008",
-        "collected_at": null
-      },
-      "tips": {
-        "document_id": "DOC-008",
-        "collected_at": null
-      },
-      "entrances": {
-        "document_id": "DOC-008",
-        "collected_at": null
-      },
-      "verified_at": {
-        "document_id": "DOC-008",
-        "collected_at": null
-      },
-      "conflicts": {
-        "document_id": "DOC-008",
-        "collected_at": null
-      },
-      "pending_items": {
-        "document_id": "DOC-008",
-        "collected_at": null
-      }
-    },
-    "verification_notes": "来源内日期前后不一致，verified_at保持null；具体差异见待核实项和来源记录。"
+    "tencent_poi_id": "11505274344832434381"
   },
   {
     "id": "TMP-SJ-0009",
@@ -1162,79 +718,9 @@
     "departments": [],
     "services": [
       {
-        "name": "图书阅览、借还及信息检索",
-        "floor": "1F–5F",
-        "status": "采集记录；具体借阅区域及使用条件见楼层开放信息"
-      },
-      {
-        "name": "总服务台、东/西学习共享空间",
-        "floor": "1F",
-        "status": "资料记录周一至周日8:00–22:30，法定节假日及临时调整另行公告"
-      },
-      {
-        "name": "东侧研讨室1–5、中型研讨室",
-        "floor": "1F",
-        "status": "资料记录8:00–21:00；需预约"
-      },
-      {
-        "name": "学习共享空间 / 数字学术中心",
-        "floor": "2F",
-        "status": "分别记录8:00–22:30 / 8:00–16:30；临时安排待核实"
-      },
-      {
-        "name": "中文图书借阅处 / 英文图书借阅处",
-        "floor": "3F / 4F",
-        "status": "资料记录8:00–21:30"
-      },
-      {
-        "name": "西侧多语种图书借阅处 / 东侧考研专座区",
-        "floor": "5F",
-        "status": "资料记录8:00–21:30；考研专座区适用于复习备考阶段"
-      },
-      {
-        "name": "存包柜",
-        "floor": "楼层待核实",
-        "status": "资料记录8:00–22:35；收费待核实，假期安排需复核"
-      },
-      {
-        "name": "图书馆自助服务区：打印、复印、扫描",
-        "floor": "楼层待核实",
-        "status": "资料记8:00–22:30，收费；具体项目单价待核实"
-      },
-      {
-        "name": "朗读亭 / 西阅览室静音仓",
-        "floor": "1F（静音仓）；朗读亭楼层待核实",
-        "status": "资料记8:00–21:00、预约者使用、免费；朗读亭预约后按要求至总服务台领取并归还门卡"
-      },
-      {
-        "name": "一键演播室",
-        "floor": "1F",
-        "status": "需预约，资料记免费；总表仅周一至周五8:00–11:15、13:30–16:45，子表也填周末，存在冲突"
-      },
-      {
-        "name": "3D打印体验室",
-        "floor": "楼层待核实",
-        "status": "需预约、费用待核实；子表仅列09:00–09:30，该时间是否为完整开放时段待确认"
-      },
-      {
-        "name": "党群服务中心",
-        "floor": "楼层待核实",
-        "status": "资料记8:00–21:00、需预约、免费；适用日期以场馆公告为准"
-      },
-      {
         "name": "一楼研讨室",
         "floor": "1F",
         "status": "资料记8:00–21:00、需预约、免费"
-      },
-      {
-        "name": "写作指导中心",
-        "floor": "1F",
-        "status": "总表8:00–21:00、子表8:30–16:30，时段冲突待核实；普通研讨可预约"
-      },
-      {
-        "name": "成绩单自助打印（历史线索）",
-        "floor": "历史资料提及图文一楼",
-        "status": "保留既有历史公开资料线索；当前具体业务与位置待核实"
       }
     ],
     "tips": [
@@ -1242,29 +728,29 @@
       "不要把其中一个区域的开放时段套用全馆或全部子设施。"
     ],
     "opening_hours": "各区域时段不同：学习共享空间多为8:00–22:30；3F–5F借阅区域多为8:00–21:30；详见各服务记录。法定节假日、寒暑假和临时调整以馆方公告为准。",
-    "access_rules": "采集资料记录进入阅览/自习区域须使用校园卡，座位与空间需按规则预约、签到和签退。",
+    "access_rules": "",
     "reservation": "座位预约：https://web.traceint.com/web/index.html?n=6ac71a8de1847 ；空间预约：https://seat.shisu.edu.cn/mobile.html#/ic/homePage 。子设施提前预约时限不同，请以预约系统为准。",
-    "fees": "资料称基础阅览/自习及多项预约空间免费；自助打印等收费，存包柜与3D打印费用待核实。",
-    "latitude": null,
-    "longitude": null,
-    "coordinate_system": null,
-    "coordinate_source": null,
-    "coordinate_source_url": null,
-    "coordinate_collected_at": null,
-    "coordinate_status": "待定位",
-    "position_type": null,
+    "fees": "",
+    "latitude": 31.047191,
+    "longitude": 121.225337,
+    "coordinate_system": "GCJ-02",
+    "coordinate_source": "腾讯地图地点搜索API：上海外国语大学(松江校区)图文信息中心",
+    "coordinate_source_url": "https://apis.map.qq.com/ws/place/v1/search",
+    "coordinate_collected_at": "2026-10-20",
+    "coordinate_status": "腾讯地图POI",
+    "position_type": "设施POI",
     "original_coordinates": null,
     "geometry": null,
     "geometry_coordinate_system": null,
     "entrances": [
       {
         "name": "图文西门",
-        "description": "采集资料记录西向入口，外有坡道；馆内南北两侧电梯称可使用。",
+        "description": "",
         "latitude": null,
         "longitude": null,
         "coordinate_system": null,
-        "coordinate_status": "待定位",
-        "accessibility": "采集人记录坡道及电梯可用，待交叉复核"
+        "coordinate_status": "",
+        "accessibility": ""
       }
     ],
     "photo": "assets/photos/TMP-SJ-0009/field-20261019-055.jpg",
@@ -1380,16 +866,6 @@
         "imported_at": "2026-10-19"
       }
     ],
-    "verified_at": "2026-10-02",
-    "content_status": "已有采集人资料；待交叉复核；存在冲突待确认",
-    "pending_items": [
-      "建筑与入口精确坐标、坐标来源和定位对象",
-      "采集资料交叉复核及变化信息更新",
-      "一键演播室周末开放范围、写作指导中心时段冲突",
-      "3D打印09:00–09:30的适用含义和完整预约时段",
-      "存包柜与3D打印收费、假期开放安排",
-      "图书馆管理部门及获准公开联系渠道"
-    ],
     "sources": [
       {
         "title": "项目发起人提供的建设需求及更正",
@@ -1407,74 +883,16 @@
       },
       {
         "title": "图文信息中心.docx",
-        "organization": "学生项目团队（采集人：张文耀）",
+        "organization": "",
         "url": null,
         "accessed_at": "2026-10-19",
         "collected_at": "2026-10-02",
         "source_document_id": "DOC-004",
-        "note": "用户提供的采集交付资料；采集人记录，网站制作人员未到现场；待交叉复核。"
+        "note": ""
       }
     ],
     "updated_at": "2026-10-19",
-    "conflicts": [
-      {
-        "field": "services",
-        "issue": "一键演播室周末是否开放、写作指导中心时段在同一资料总表与子表不一致。"
-      }
-    ],
-    "collection_ids": [
-      "SJ-0001"
-    ],
-    "field_sources": {
-      "aliases": {
-        "document_id": "DOC-004",
-        "collected_at": "2026-10-02"
-      },
-      "summary": {
-        "document_id": "DOC-004",
-        "collected_at": "2026-10-02"
-      },
-      "floor": {
-        "document_id": "DOC-004",
-        "collected_at": "2026-10-02"
-      },
-      "services": {
-        "document_id": "DOC-004",
-        "collected_at": "2026-10-02"
-      },
-      "access_rules": {
-        "document_id": "DOC-004",
-        "collected_at": "2026-10-02"
-      },
-      "opening_hours": {
-        "document_id": "DOC-004",
-        "collected_at": "2026-10-02"
-      },
-      "reservation": {
-        "document_id": "DOC-004",
-        "collected_at": "2026-10-02"
-      },
-      "fees": {
-        "document_id": "DOC-004",
-        "collected_at": "2026-10-02"
-      },
-      "entrances": {
-        "document_id": "DOC-004",
-        "collected_at": "2026-10-02"
-      },
-      "tips": {
-        "document_id": "DOC-004",
-        "collected_at": "2026-10-02"
-      },
-      "conflicts": {
-        "document_id": "DOC-004",
-        "collected_at": "2026-10-02"
-      },
-      "pending_items": {
-        "document_id": "DOC-004",
-        "collected_at": "2026-10-02"
-      }
-    }
+    "tencent_poi_id": "6992818783533991862"
   },
   {
     "id": "TMP-SJ-0010",
@@ -1485,7 +903,7 @@
     ],
     "category": "教学学习",
     "subcategory": "",
-    "parent_id": null,
+    "parent_id": "TMP-SJ-B02",
     "building": "第二教学楼东栋",
     "floor": null,
     "location_desc": "图书馆西侧，第二教学楼东栋",
@@ -1494,13 +912,7 @@
       "国际工商管理学院",
       "国际金融贸易学院"
     ],
-    "services": [
-      {
-        "name": "入口闸机",
-        "floor": "入口区域",
-        "status": "照片可见闸机；刷卡、人脸或其他实际准入规则待核实"
-      }
-    ],
+    "services": [],
     "tips": [
       "东西栋不互通，请分别确认入口。"
     ],
@@ -1514,7 +926,7 @@
     "coordinate_source": null,
     "coordinate_source_url": null,
     "coordinate_collected_at": null,
-    "coordinate_status": "待定位",
+    "coordinate_status": "",
     "position_type": null,
     "original_coordinates": null,
     "geometry": null,
@@ -1522,27 +934,27 @@
     "entrances": [
       {
         "name": "E1标识入口",
-        "description": "照片文件标为东1门，门上可见E1；实际朝向及开放情况待核实。",
+        "description": "",
         "latitude": null,
         "longitude": null,
         "coordinate_system": null,
-        "coordinate_status": "待定位"
+        "coordinate_status": ""
       },
       {
         "name": "东2门（照片文件称谓）",
-        "description": "入口设台阶，实际朝向与通行情况待核实。",
+        "description": "",
         "latitude": null,
         "longitude": null,
         "coordinate_system": null,
-        "coordinate_status": "待定位"
+        "coordinate_status": ""
       },
       {
         "name": "北侧门（照片文件称谓）",
-        "description": "采集图片所示侧门，开放与朝向待核实。",
+        "description": "",
         "latitude": null,
         "longitude": null,
         "coordinate_system": null,
-        "coordinate_status": "待定位"
+        "coordinate_status": ""
       }
     ],
     "photo": "assets/photos/TMP-SJ-0010/field-20261019-072.jpg",
@@ -1560,7 +972,7 @@
       },
       {
         "src": "assets/photos/TMP-SJ-0010/field-20261019-073.jpg",
-        "caption": "采集包东栋东2门入口",
+        "caption": "",
         "taken_at": null,
         "credit": "采集团队（未附署名）",
         "public_use": true,
@@ -1571,7 +983,7 @@
       },
       {
         "src": "assets/photos/TMP-SJ-0010/field-20261019-074.jpg",
-        "caption": "东栋入口闸机；实际通行规则待核实",
+        "caption": "",
         "taken_at": null,
         "credit": "采集团队（未附署名）",
         "public_use": true,
@@ -1580,17 +992,6 @@
         "privacy_review": "人工筛选；未选用带可辨认人脸、车牌或私人表单的画面；公开副本移除EXIF",
         "imported_at": "2026-10-19"
       }
-    ],
-    "verified_at": null,
-    "content_status": "新增用户提供照片线索；文字资料与日期待补充",
-    "pending_items": [
-      "准确点位与坐标来源",
-      "实际入口",
-      "楼层和区域服务",
-      "开放时间与使用条件",
-      "刷卡、预约与费用",
-      "可公开使用的现场照片",
-      "照片拍摄日期、现场核实日期和入口开放条件"
     ],
     "sources": [
       {
@@ -1605,7 +1006,7 @@
         "organization": "用户提供的采集材料",
         "url": null,
         "accessed_at": "2026-10-19",
-        "note": "未随附采集表或明确拍摄/现场核实日期；仅记录照片可见内容。"
+        "note": ""
       }
     ],
     "updated_at": "2026-10-19"
@@ -1620,29 +1021,13 @@
     ],
     "category": "教学学习",
     "subcategory": "",
-    "parent_id": null,
+    "parent_id": "TMP-SJ-B02",
     "building": "第二教学楼西栋",
     "floor": null,
     "location_desc": "图书馆西侧，第二教学楼西栋",
-    "summary": "采集包中的二教总索引列脑电实验室、脑与认知科学办公室等；与原暂称“脑科实验室”的对应关系待核实。东西栋不互通。",
+    "summary": "",
     "departments": [],
-    "services": [
-      {
-        "name": "便民智慧货柜",
-        "floor": "具体楼层待核实",
-        "status": "照片可见“智能货柜”；运行、支付与使用规则待核实"
-      },
-      {
-        "name": "脑电实验室（导览牌名称）",
-        "floor": "1F；牌示104/106/108",
-        "status": "二教总索引照片可见；具体楼区、是否对学生开放及预约条件待核实"
-      },
-      {
-        "name": "脑与认知科学办公室（导览牌名称）",
-        "floor": "1F；牌示109–111",
-        "status": "二教总索引照片可见；具体楼区、服务范围及与原暂称设施对应待核实"
-      }
-    ],
+    "services": [],
     "tips": [
       "东西栋不互通，请分别确认入口。"
     ],
@@ -1656,7 +1041,7 @@
     "coordinate_source": null,
     "coordinate_source_url": null,
     "coordinate_collected_at": null,
-    "coordinate_status": "待定位",
+    "coordinate_status": "",
     "position_type": null,
     "original_coordinates": null,
     "geometry": null,
@@ -1664,26 +1049,26 @@
     "entrances": [
       {
         "name": "北门（照片文件称谓）",
-        "description": "照片可见柱廊和台阶，实际朝向及开放情况待核实。",
+        "description": "",
         "latitude": null,
         "longitude": null,
         "coordinate_system": null,
-        "coordinate_status": "待定位"
+        "coordinate_status": ""
       },
       {
         "name": "西门（照片文件称谓）",
-        "description": "采集图片所示入口，具体朝向及开放情况待核实。",
+        "description": "",
         "latitude": null,
         "longitude": null,
         "coordinate_system": null,
-        "coordinate_status": "待定位"
+        "coordinate_status": ""
       }
     ],
     "photo": "assets/photos/TMP-SJ-0011/field-20261019-076.jpg",
     "photos": [
       {
         "src": "assets/photos/TMP-SJ-0011/field-20261019-076.jpg",
-        "caption": "二教总索引，归入西栋采集包；各设施所在楼区待核实",
+        "caption": "",
         "taken_at": null,
         "credit": "采集团队（未附署名）",
         "public_use": true,
@@ -1694,7 +1079,7 @@
       },
       {
         "src": "assets/photos/TMP-SJ-0011/field-20261019-077.jpg",
-        "caption": "西栋采集包的一楼指引牌",
+        "caption": "",
         "taken_at": null,
         "credit": "采集团队（未附署名）",
         "public_use": true,
@@ -1716,7 +1101,7 @@
       },
       {
         "src": "assets/photos/TMP-SJ-0011/field-20261019-079.jpg",
-        "caption": "西栋采集包所标北门",
+        "caption": "",
         "taken_at": null,
         "credit": "采集团队（未附署名）",
         "public_use": true,
@@ -1725,18 +1110,6 @@
         "privacy_review": "人工筛选；未选用带可辨认人脸、车牌或私人表单的画面；公开副本移除EXIF",
         "imported_at": "2026-10-19"
       }
-    ],
-    "verified_at": null,
-    "content_status": "新增用户提供照片线索；文字资料与日期待补充",
-    "pending_items": [
-      "准确点位与坐标来源",
-      "实际入口",
-      "楼层和区域服务",
-      "开放时间与使用条件",
-      "刷卡、预约与费用",
-      "可公开使用的现场照片",
-      "照片拍摄日期、现场核实日期和入口开放条件",
-      "原暂称“脑科实验室”与脑电实验室/脑与认知科学办公室的对象对应及楼区"
     ],
     "sources": [
       {
@@ -1751,7 +1124,7 @@
         "organization": "用户提供的采集材料",
         "url": null,
         "accessed_at": "2026-10-19",
-        "note": "未随附采集表或明确拍摄/现场核实日期；仅记录照片可见内容。"
+        "note": ""
       }
     ],
     "updated_at": "2026-10-19"
@@ -1766,57 +1139,40 @@
     "subcategory": "",
     "parent_id": null,
     "building": "第五教学楼",
-    "floor": "采集资料记录语言科学研究院位于1F–2F，英语学院位于3F–4F；具体区域待交叉核对。",
+    "floor": "",
     "location_desc": "图书馆东侧",
-    "summary": "英语学院、语言科学研究院所在教学楼。采集资料记录东西栋内部互通，并补充楼层与自习服务。",
+    "summary": "",
     "departments": [
       "英语学院",
       "语言科学研究院"
     ],
-    "services": [
-      {
-        "name": "课程教学与课后自习",
-        "floor": "教室及公共自习区",
-        "status": "教学优先；自习空间具体楼层与使用条件待核实"
-      },
-      {
-        "name": "语言科学实验",
-        "floor": "1F–2F相关区域",
-        "status": "语音、眼动、脑电、行为等实验；普通学生开放范围待核实"
-      },
-      {
-        "name": "同声传译模拟训练与语料库相关服务",
-        "floor": null,
-        "status": "具体使用对象与预约条件待核实"
-      }
-    ],
+    "services": [],
     "tips": [
-      "采集资料记录东西两栋楼内部互通。",
       "实验室存在不等于对普通学生开放。"
     ],
-    "opening_hours": "采集资料记录工作日7:00–22:00，周末9:00–22:00；节假日另行调整。",
-    "access_rules": "采集资料称一般进出无需刷卡、登记或预约；实验室与专用空间规则另行核实。",
+    "opening_hours": "",
+    "access_rules": "",
     "reservation": null,
     "fees": null,
-    "latitude": null,
-    "longitude": null,
-    "coordinate_system": null,
-    "coordinate_source": null,
-    "coordinate_source_url": null,
-    "coordinate_collected_at": null,
-    "coordinate_status": "待定位",
-    "position_type": null,
+    "latitude": 31.047415,
+    "longitude": 121.226926,
+    "coordinate_system": "GCJ-02",
+    "coordinate_source": "腾讯地图地点搜索API：上海外国语大学松江校区第五教学楼",
+    "coordinate_source_url": "https://apis.map.qq.com/ws/place/v1/search",
+    "coordinate_collected_at": "2026-10-20",
+    "coordinate_status": "腾讯地图POI",
+    "position_type": "设施POI",
     "original_coordinates": null,
     "geometry": null,
     "geometry_coordinate_system": null,
     "entrances": [
       {
         "name": "西主入口",
-        "description": "采集表记录朝西、西栋入口；两侧有坡道，楼内电梯称可正常使用。",
+        "description": "",
         "latitude": null,
         "longitude": null,
         "coordinate_system": null,
-        "coordinate_status": "待定位"
+        "coordinate_status": ""
       }
     ],
     "photo": "assets/photos/TMP-SJ-0012/field-20261019-022.jpg",
@@ -1866,15 +1222,6 @@
         "imported_at": "2026-10-19"
       }
     ],
-    "verified_at": "2026-10-02",
-    "content_status": "已有采集人资料；待交叉复核",
-    "pending_items": [
-      "建筑与入口精确坐标、坐标来源和定位对象",
-      "采集资料交叉复核及变化信息更新",
-      "各自习空间具体楼层与使用条件",
-      "语言科学实验室、语料库及同传训练的开放对象与预约规则",
-      "节假日开放时段"
-    ],
     "sources": [
       {
         "title": "项目发起人提供的建设需求及更正",
@@ -1885,52 +1232,16 @@
       },
       {
         "title": "第五教学楼.docx",
-        "organization": "学生项目团队（采集人：张文耀）",
+        "organization": "",
         "url": null,
         "accessed_at": "2026-10-19",
         "collected_at": "2026-10-02",
         "source_document_id": "DOC-002",
-        "note": "用户提供的采集交付资料；采集人记录，网站制作人员未到现场；待交叉复核。"
+        "note": ""
       }
     ],
     "updated_at": "2026-10-19",
-    "collection_ids": [
-      "SJ-0018"
-    ],
-    "field_sources": {
-      "summary": {
-        "document_id": "DOC-002",
-        "collected_at": "2026-10-02"
-      },
-      "floor": {
-        "document_id": "DOC-002",
-        "collected_at": "2026-10-02"
-      },
-      "services": {
-        "document_id": "DOC-002",
-        "collected_at": "2026-10-02"
-      },
-      "opening_hours": {
-        "document_id": "DOC-002",
-        "collected_at": "2026-10-02"
-      },
-      "access_rules": {
-        "document_id": "DOC-002",
-        "collected_at": "2026-10-02"
-      },
-      "entrances": {
-        "document_id": "DOC-002",
-        "collected_at": "2026-10-02"
-      },
-      "tips": {
-        "document_id": "DOC-002",
-        "collected_at": "2026-10-02"
-      },
-      "pending_items": {
-        "document_id": "DOC-002",
-        "collected_at": "2026-10-02"
-      }
-    }
+    "tencent_poi_id": "9488489542291299119"
   },
   {
     "id": "TMP-SJ-0013",
@@ -1942,57 +1253,38 @@
     "subcategory": "",
     "parent_id": null,
     "building": "第一教学楼",
-    "floor": "采集表记录国际教育学院主要在1F、3F，新闻传播学院主要在2F；具体房间待复核。",
+    "floor": "",
     "location_desc": "第二教学楼北侧",
-    "summary": "新闻传播学院、国际教育学院所在教学楼，采集资料补充楼层归属、公共自习及花园休憩信息。",
+    "summary": "",
     "departments": [
       "国际教育学院",
       "新闻传播学院"
     ],
-    "services": [
-      {
-        "name": "公共自习与休憩空间",
-        "floor": "公共区域",
-        "status": "资料记录设座椅、沙发与空调，开放时段待核实"
-      },
-      {
-        "name": "小花园休憩学习",
-        "floor": "1F",
-        "status": "采集人记录对普通学生开放，具体时段待核实"
-      },
-      {
-        "name": "英语角交流",
-        "floor": null,
-        "status": "采集表提及常设英语角，实际组织方式与时段待补充"
-      }
-    ],
-    "tips": [
-      "采集表记录单栋内部连通。",
-      "教室有课时教学优先，公共自习开放时段待核实。"
-    ],
+    "services": [],
+    "tips": [],
     "opening_hours": null,
-    "access_rules": "同一表格正文称门禁要求待核实，入口表称无需刷卡；现行门禁要求暂标待核实。",
+    "access_rules": null,
     "reservation": null,
     "fees": null,
-    "latitude": null,
-    "longitude": null,
-    "coordinate_system": null,
-    "coordinate_source": null,
-    "coordinate_source_url": null,
-    "coordinate_collected_at": null,
-    "coordinate_status": "待定位",
-    "position_type": null,
+    "latitude": 31.048243,
+    "longitude": 121.223323,
+    "coordinate_system": "GCJ-02",
+    "coordinate_source": "腾讯地图地点搜索API：上海外国语大学松江校区第一教学楼",
+    "coordinate_source_url": "https://apis.map.qq.com/ws/place/v1/search",
+    "coordinate_collected_at": "2026-10-20",
+    "coordinate_status": "腾讯地图POI",
+    "position_type": "设施POI",
     "original_coordinates": null,
     "geometry": null,
     "geometry_coordinate_system": null,
     "entrances": [
       {
         "name": "主入口",
-        "description": "资料未明确勾选朝向，不能把未勾选的“北”当作已确认朝向。",
+        "description": "",
         "latitude": null,
         "longitude": null,
         "coordinate_system": null,
-        "coordinate_status": "待定位"
+        "coordinate_status": ""
       }
     ],
     "photo": "assets/photos/TMP-SJ-0013/field-20261019-038.jpg",
@@ -2042,14 +1334,6 @@
         "imported_at": "2026-10-19"
       }
     ],
-    "verified_at": "2026-10-07",
-    "content_status": "已有采集人资料；待交叉复核；存在冲突待确认",
-    "pending_items": [
-      "建筑与入口精确坐标、坐标来源和定位对象",
-      "采集资料交叉复核及变化信息更新",
-      "门禁与开放时段冲突、入口朝向、无障碍条件",
-      "打印服务、英语角安排、自习空间规则"
-    ],
     "sources": [
       {
         "title": "项目发起人提供的建设需求及更正",
@@ -2060,58 +1344,16 @@
       },
       {
         "title": "第一教学楼.docx",
-        "organization": "学生项目团队（采集人：罗瑄）",
+        "organization": "",
         "url": null,
         "accessed_at": "2026-10-19",
         "collected_at": "2026-10-07",
         "source_document_id": "DOC-006",
-        "note": "用户提供的采集交付资料；采集人记录，网站制作人员未到现场；待交叉复核。"
+        "note": ""
       }
     ],
     "updated_at": "2026-10-19",
-    "conflicts": [
-      {
-        "field": "access_rules",
-        "issue": "正文称刷卡要求待核实，入口表却填无需刷卡。"
-      }
-    ],
-    "collection_ids": [
-      "SJ-0019"
-    ],
-    "field_sources": {
-      "summary": {
-        "document_id": "DOC-006",
-        "collected_at": "2026-10-07"
-      },
-      "floor": {
-        "document_id": "DOC-006",
-        "collected_at": "2026-10-07"
-      },
-      "services": {
-        "document_id": "DOC-006",
-        "collected_at": "2026-10-07"
-      },
-      "access_rules": {
-        "document_id": "DOC-006",
-        "collected_at": "2026-10-07"
-      },
-      "entrances": {
-        "document_id": "DOC-006",
-        "collected_at": "2026-10-07"
-      },
-      "tips": {
-        "document_id": "DOC-006",
-        "collected_at": "2026-10-07"
-      },
-      "conflicts": {
-        "document_id": "DOC-006",
-        "collected_at": "2026-10-07"
-      },
-      "pending_items": {
-        "document_id": "DOC-006",
-        "collected_at": "2026-10-07"
-      }
-    }
+    "tencent_poi_id": "12862560283247673916"
   },
   {
     "id": "TMP-SJ-0014",
@@ -2124,51 +1366,36 @@
     "parent_id": null,
     "building": "第六教学楼",
     "floor": "采集照片的第六教学楼导视总索引：1F列研究生实习室、教室及公共教室；2F列俄语中心、教师办公室、学生工作办公室等。",
-    "location_desc": "相对位置待补充",
-    "summary": "教学与自习建筑。采集资料与原始资料的院系归属不一致，暂保留两种来源待复核。",
-    "departments": [
-      "俄语系（原始资料；附图导览牌可见俄语中心等相关文字）",
-      "俄罗斯东欧中亚学院（原始资料，具体楼层与正式名称待复核）"
-    ],
-    "services": [
-      {
-        "name": "课程教室、课后自习教室",
-        "floor": null,
-        "status": "采集表记录；具体自习教室和时段待核实"
-      },
-      {
-        "name": "公共走廊休憩空间",
-        "floor": null,
-        "status": "采集表记录；实际开放条件待核实"
-      }
-    ],
+    "location_desc": "",
+    "summary": "",
+    "departments": [],
+    "services": [],
     "tips": [
-      "院系归属尚有冲突，请先核对门牌再前往具体办公室。",
       "空闲教室是否允许自习应以课程及楼宇管理为准。"
     ],
     "opening_hours": null,
-    "access_rules": "采集表称进出无需刷卡；现行适用时段待交叉复核。",
+    "access_rules": "",
     "reservation": null,
     "fees": null,
-    "latitude": null,
-    "longitude": null,
-    "coordinate_system": null,
-    "coordinate_source": null,
-    "coordinate_source_url": null,
-    "coordinate_collected_at": null,
-    "coordinate_status": "待定位",
-    "position_type": null,
+    "latitude": 31.047965,
+    "longitude": 121.226951,
+    "coordinate_system": "GCJ-02",
+    "coordinate_source": "腾讯地图地点搜索API：上海外国语大学松江校区第六教学楼",
+    "coordinate_source_url": "https://apis.map.qq.com/ws/place/v1/search",
+    "coordinate_collected_at": "2026-10-20",
+    "coordinate_status": "腾讯地图POI",
+    "position_type": "设施POI",
     "original_coordinates": null,
     "geometry": null,
     "geometry_coordinate_system": null,
     "entrances": [
       {
         "name": "主入口",
-        "description": "采集表勾选朝西、整栋连通；实际入口对应待复核。",
+        "description": "",
         "latitude": null,
         "longitude": null,
         "coordinate_system": null,
-        "coordinate_status": "待定位"
+        "coordinate_status": ""
       }
     ],
     "photo": "assets/photos/TMP-SJ-0014/field-20261019-031.jpg",
@@ -2218,14 +1445,6 @@
         "imported_at": "2026-10-19"
       }
     ],
-    "verified_at": "2026-10-07",
-    "content_status": "已有采集人资料；待交叉复核；存在冲突待确认",
-    "pending_items": [
-      "建筑与入口精确坐标、坐标来源和定位对象",
-      "采集资料交叉复核及变化信息更新",
-      "院系归属、建筑外观描述与实拍对应",
-      "自习时段、打印点、无障碍条件及公共服务位置"
-    ],
     "sources": [
       {
         "title": "项目发起人提供的建设需求及更正",
@@ -2236,62 +1455,16 @@
       },
       {
         "title": "第六教学楼.docx",
-        "organization": "学生项目团队（采集人：罗瑄）",
+        "organization": "",
         "url": null,
         "accessed_at": "2026-10-19",
         "collected_at": "2026-10-07",
         "source_document_id": "DOC-005",
-        "note": "用户提供的采集交付资料；采集人记录，网站制作人员未到现场；待交叉复核。"
+        "note": ""
       }
     ],
     "updated_at": "2026-10-19",
-    "conflicts": [
-      {
-        "field": "departments",
-        "issue": "初始资料为俄语系、俄罗斯东欧中亚学院；文字采集表写东方语学院，但同包第六教学楼导视总索引可见俄语中心等相关文字。未采用文字表中的东方语学院归属，具体院系与楼层继续复核。"
-      },
-      {
-        "field": "services",
-        "issue": "六教补充表中的“沙发、空调、一楼小花园”与一教文字相同，具体对象对应待核实，暂不作为六教确定设施新增。"
-      }
-    ],
-    "collection_ids": [
-      "SJ-0020"
-    ],
-    "field_sources": {
-      "summary": {
-        "document_id": "DOC-005",
-        "collected_at": "2026-10-07"
-      },
-      "departments": {
-        "document_id": "DOC-005",
-        "collected_at": "2026-10-07"
-      },
-      "services": {
-        "document_id": "DOC-005",
-        "collected_at": "2026-10-07"
-      },
-      "access_rules": {
-        "document_id": "DOC-005",
-        "collected_at": "2026-10-07"
-      },
-      "entrances": {
-        "document_id": "DOC-005",
-        "collected_at": "2026-10-07"
-      },
-      "tips": {
-        "document_id": "DOC-005",
-        "collected_at": "2026-10-07"
-      },
-      "conflicts": {
-        "document_id": "DOC-005",
-        "collected_at": "2026-10-07"
-      },
-      "pending_items": {
-        "document_id": "DOC-005",
-        "collected_at": "2026-10-07"
-      }
-    }
+    "tencent_poi_id": "1026770999801058755"
   },
   {
     "id": "TMP-SJ-0015",
@@ -2304,79 +1477,52 @@
     "subcategory": "",
     "parent_id": null,
     "building": "第七教学楼",
-    "floor": "采集资料记1F含文献中心、管理员办公室、多语种教研室、会议室与教室；2F含教师/行政办公室、辅导员办公室、教研室与教室。",
-    "location_desc": "研究大楼东侧；采集资料记录n1/n2入口，两入口及楼栋连通关系待按正式门牌核对。",
+    "floor": "",
+    "location_desc": "",
     "summary": "教学与院系办公建筑，新增现场导览牌所记部门、公共自习、中庭休憩和小土屋咖啡线索。",
-    "departments": [
-      "阿拉伯语系（采集人据导览牌记录）",
-      "朝鲜语系（采集资料记录）",
-      "其他语种教研室（具体归属待复核）",
-      "东方语学院（原始资料，现行组织关系待复核）"
-    ],
-    "services": [
-      {
-        "name": "文献中心（SAAS Archives Centre）",
-        "floor": "1F",
-        "status": "导览牌记录，面向学生服务范围待核实"
-      },
-      {
-        "name": "公共自习桌、饮料售货机与休憩长椅",
-        "floor": "具体楼层待复核",
-        "status": "2026-10-02现场观察记录"
-      },
-      {
-        "name": "中庭小院与秋千椅",
-        "floor": "两栋之间",
-        "status": "可休憩，管理范围待核实"
-      },
-      {
-        "name": "小土屋咖啡",
-        "floor": "进门右转",
-        "status": "已见现场菜单；营业时段与学生使用条件待核实"
-      }
-    ],
+    "departments": [],
+    "services": [],
     "tips": [
-      "原始“东方语学院”信息与楼层牌部门的现行组织关系待确认。",
       "小土屋咖啡菜单仅为采集时点线索，不等于实时营业。"
     ],
     "opening_hours": null,
     "access_rules": null,
     "reservation": null,
     "fees": null,
-    "latitude": null,
-    "longitude": null,
-    "coordinate_system": null,
-    "coordinate_source": null,
-    "coordinate_source_url": null,
-    "coordinate_collected_at": null,
-    "coordinate_status": "待定位",
-    "position_type": null,
+    "latitude": 31.048904,
+    "longitude": 121.226572,
+    "coordinate_system": "GCJ-02",
+    "coordinate_source": "腾讯地图地点搜索API：上海外国语大学松江校区第七教学楼",
+    "coordinate_source_url": "https://apis.map.qq.com/ws/place/v1/search",
+    "coordinate_collected_at": "2026-10-20",
+    "coordinate_status": "腾讯地图POI",
+    "position_type": "设施POI",
     "original_coordinates": null,
     "geometry": null,
     "geometry_coordinate_system": null,
     "entrances": [
       {
-        "name": "n1入口（临时称谓）",
-        "description": "采集记录两栋之间入口之一；正式写法、朝向及对应楼栋待核实。",
+        "name": "n1入口",
+        "description": "",
         "latitude": null,
         "longitude": null,
         "coordinate_system": null,
-        "coordinate_status": "待定位"
+        "coordinate_status": ""
       },
       {
-        "name": "n2入口（临时称谓）",
-        "description": "采集记录另一入口，与n1通行关系待复核。",
+        "name": "n2入口",
+        "description": "",
         "latitude": null,
         "longitude": null,
         "coordinate_system": null,
-        "coordinate_status": "待定位"
+        "coordinate_status": ""
       }
     ],
     "photo": "assets/photos/TMP-SJ-0015/field-20261019-082.jpg",
     "photos": [
       {
         "src": "assets/photos/TMP-SJ-0015/field-20261019-082.jpg",
-        "caption": "七教采集包所附楼层平面图",
+        "caption": "",
         "taken_at": "2026-10-02",
         "credit": "盛卿阳",
         "public_use": true,
@@ -2387,7 +1533,7 @@
       },
       {
         "src": "assets/photos/TMP-SJ-0015/field-20261019-083.jpg",
-        "caption": "七教采集包一层、二层楼层索引",
+        "caption": "",
         "taken_at": "2026-10-02",
         "credit": "盛卿阳",
         "public_use": true,
@@ -2408,15 +1554,6 @@
         "imported_at": "2026-10-19"
       }
     ],
-    "verified_at": "2026-10-02",
-    "content_status": "已有采集人资料；待交叉复核",
-    "pending_items": [
-      "建筑与入口精确坐标、坐标来源和定位对象",
-      "采集资料交叉复核及变化信息更新",
-      "n1/n2正式门牌、栋别与连通关系",
-      "部门正式名称与院系组织关系",
-      "自习桌、售货机及咖啡的楼层、使用条件与营业时间"
-    ],
     "sources": [
       {
         "title": "项目发起人提供的建设需求及更正",
@@ -2427,56 +1564,16 @@
       },
       {
         "title": "盛卿阳_资料交付_表A表B表D表F_20261002.docx",
-        "organization": "学生项目团队（采集人：盛卿阳）",
+        "organization": "",
         "url": null,
         "accessed_at": "2026-10-19",
         "collected_at": "2026-10-02",
         "source_document_id": "DOC-007",
-        "note": "用户提供的采集交付资料；采集人记录，网站制作人员未到现场；待交叉复核。"
+        "note": ""
       }
     ],
     "updated_at": "2026-10-19",
-    "collection_ids": [
-      "SJ-0021"
-    ],
-    "field_sources": {
-      "aliases": {
-        "document_id": "DOC-007",
-        "collected_at": "2026-10-02"
-      },
-      "summary": {
-        "document_id": "DOC-007",
-        "collected_at": "2026-10-02"
-      },
-      "departments": {
-        "document_id": "DOC-007",
-        "collected_at": "2026-10-02"
-      },
-      "floor": {
-        "document_id": "DOC-007",
-        "collected_at": "2026-10-02"
-      },
-      "services": {
-        "document_id": "DOC-007",
-        "collected_at": "2026-10-02"
-      },
-      "location_desc": {
-        "document_id": "DOC-007",
-        "collected_at": "2026-10-02"
-      },
-      "entrances": {
-        "document_id": "DOC-007",
-        "collected_at": "2026-10-02"
-      },
-      "tips": {
-        "document_id": "DOC-007",
-        "collected_at": "2026-10-02"
-      },
-      "pending_items": {
-        "document_id": "DOC-007",
-        "collected_at": "2026-10-02"
-      }
-    }
+    "tencent_poi_id": "17892823801972463670"
   },
   {
     "id": "TMP-SJ-0016",
@@ -2489,68 +1586,45 @@
     "subcategory": "",
     "parent_id": null,
     "building": "全球治理与区域国别研究大楼",
-    "floor": "采集人记录：1F咖啡与少量自习位；2F、4F有静音仓；3F、5F、6F、7F未见静音仓；6F有两个阳台，5F、7F未见阳台。",
+    "floor": "",
     "location_desc": "图书馆北侧、第七教学楼西侧",
     "summary": "研究教学建筑，新增各层公共自习桌、静音仓、茶水间与天好咖啡线索。",
     "departments": [],
-    "services": [
-      {
-        "name": "天好咖啡",
-        "floor": "1F",
-        "status": "采集资料记录支持扫码或校园卡支付；营业时段待核实"
-      },
-      {
-        "name": "公共自习桌",
-        "floor": "1F少量；2F–7F",
-        "status": "采集时逐层观察；开放时间与预约规则待核实"
-      },
-      {
-        "name": "静音仓",
-        "floor": "2F、4F",
-        "status": "采集时记录；预约与使用条件待核实"
-      },
-      {
-        "name": "茶水间、电梯与楼梯",
-        "floor": "各层（采集人记录）",
-        "status": "实际开放及使用情况待交叉复核"
-      }
-    ],
+    "services": [],
     "tips": [
-      "楼内温馨提示要求公共共享、轮流使用，不长期占座；离开时带走个人物品。",
-      "温馨提示称短时离开建议不超过30分钟，闭楼前清理物品，管理人员自每日7:00清理滞留物品；适用范围待核实。",
-      "采集人记录5F、7F无阳台；6F两个阳台；不要把单层分布套用全楼。"
+      "楼内温馨提示要求公共共享、轮流使用，不长期占座；离开时带走个人物品。"
     ],
     "opening_hours": null,
-    "access_rules": "楼宇门禁、自习桌及静音仓预约要求待核实。",
-    "reservation": "自习桌、静音仓预约方式待核实。",
+    "access_rules": "",
+    "reservation": "",
     "fees": null,
-    "latitude": null,
-    "longitude": null,
-    "coordinate_system": null,
-    "coordinate_source": null,
-    "coordinate_source_url": null,
-    "coordinate_collected_at": null,
-    "coordinate_status": "待定位",
-    "position_type": null,
+    "latitude": 31.048815,
+    "longitude": 121.225113,
+    "coordinate_system": "GCJ-02",
+    "coordinate_source": "腾讯地图地点搜索API：上海外国语大学(松江校区)全球治理与区域国别研究大楼",
+    "coordinate_source_url": "https://apis.map.qq.com/ws/place/v1/search",
+    "coordinate_collected_at": "2026-10-20",
+    "coordinate_status": "腾讯地图POI",
+    "position_type": "设施POI",
     "original_coordinates": null,
     "geometry": null,
     "geometry_coordinate_system": null,
     "entrances": [
       {
         "name": "研究大楼入口1（临时区分）",
-        "description": "采集资料有两处入口记录；正式名称、朝向与门禁待补充。",
+        "description": "",
         "latitude": null,
         "longitude": null,
         "coordinate_system": null,
-        "coordinate_status": "待定位"
+        "coordinate_status": ""
       },
       {
         "name": "研究大楼入口2（临时区分）",
-        "description": "与师生活动中心东侧通行关系待复核。",
+        "description": "",
         "latitude": null,
         "longitude": null,
         "coordinate_system": null,
-        "coordinate_status": "待定位"
+        "coordinate_status": ""
       }
     ],
     "photo": "assets/photos/TMP-SJ-0016/field-20261019-087.jpg",
@@ -2567,16 +1641,6 @@
         "imported_at": "2026-10-19"
       }
     ],
-    "verified_at": "2026-10-02",
-    "content_status": "已有采集人资料；待交叉复核",
-    "pending_items": [
-      "建筑与入口精确坐标、坐标来源和定位对象",
-      "采集资料交叉复核及变化信息更新",
-      "正式门牌、所在学院/部门和具体楼层",
-      "各自习设施开放时间、门禁与预约条件",
-      "《温馨提示》（2025-10-30）的适用范围与当前效力",
-      "天好咖啡营业时间"
-    ],
     "sources": [
       {
         "title": "项目发起人提供的建设需求及更正",
@@ -2587,56 +1651,16 @@
       },
       {
         "title": "盛卿阳_资料交付_表A表B表D表F_20261002.docx",
-        "organization": "学生项目团队（采集人：盛卿阳）",
+        "organization": "",
         "url": null,
         "accessed_at": "2026-10-19",
         "collected_at": "2026-10-02",
         "source_document_id": "DOC-007",
-        "note": "用户提供的采集交付资料；采集人记录，网站制作人员未到现场；待交叉复核。"
+        "note": ""
       }
     ],
     "updated_at": "2026-10-19",
-    "collection_ids": [
-      "SJ-0022"
-    ],
-    "field_sources": {
-      "aliases": {
-        "document_id": "DOC-007",
-        "collected_at": "2026-10-02"
-      },
-      "summary": {
-        "document_id": "DOC-007",
-        "collected_at": "2026-10-02"
-      },
-      "floor": {
-        "document_id": "DOC-007",
-        "collected_at": "2026-10-02"
-      },
-      "services": {
-        "document_id": "DOC-007",
-        "collected_at": "2026-10-02"
-      },
-      "tips": {
-        "document_id": "DOC-007",
-        "collected_at": "2026-10-02"
-      },
-      "access_rules": {
-        "document_id": "DOC-007",
-        "collected_at": "2026-10-02"
-      },
-      "reservation": {
-        "document_id": "DOC-007",
-        "collected_at": "2026-10-02"
-      },
-      "entrances": {
-        "document_id": "DOC-007",
-        "collected_at": "2026-10-02"
-      },
-      "pending_items": {
-        "document_id": "DOC-007",
-        "collected_at": "2026-10-02"
-      }
-    }
+    "tencent_poi_id": "7053855326430932097"
   },
   {
     "id": "TMP-SJ-0017",
@@ -2650,7 +1674,7 @@
     "subcategory": "",
     "parent_id": null,
     "building": "师生活动中心",
-    "floor": "采集资料记1F含室内场馆、乒乓球区、卫生所、便利店及办事空间；2F有荟空间、艺空间、SISU育空间；218房间楼层对应待核实。",
+    "floor": "",
     "location_desc": "研究大楼西侧、食堂东侧",
     "summary": "体育教学与学生活动服务建筑，新增室内场馆、卫生所、便利店、办事窗口与二楼活动空间信息。",
     "departments": [
@@ -2658,104 +1682,54 @@
     ],
     "services": [
       {
-        "name": "室内体育馆",
-        "floor": "1F",
-        "status": "采集记录木地板场地、看台、篮球架；预约及开放时间待核实"
-      },
-      {
-        "name": "乒乓球区",
-        "floor": "1F中庭玻璃顶下",
-        "status": "采集记录约8张球台；数量与使用条件待复核"
-      },
-      {
-        "name": "健身房",
-        "floor": "1F相关区域",
-        "status": "须预约；告示要求校园卡、毛巾及运动鞋服，具体预约路径和收费待补充"
-      },
-      {
-        "name": "体操房",
-        "floor": null,
-        "status": "非教学时段按场馆流程通过学校OA向体育教学部申请；2023年9月张贴条例现行效力待核实"
-      },
-      {
-        "name": "武术房",
-        "floor": null,
-        "status": "采集记录自体操房出口左转；使用条件待核实"
-      },
-      {
         "name": "上海外国语大学松江校区卫生所",
         "floor": "1F",
         "status": "2026-10-02所拍告示称自2026-07-01起：周一至周五08:00–12:00、13:00–17:00，周末休息，节假日另行通知；当前安排请向卫生所确认"
-      },
-      {
-        "name": "711便利店",
-        "floor": "1F",
-        "status": "采集记录；营业时段待补充"
-      },
-      {
-        "name": "学工部、就业指导中心、团委、学联及退役军人服务站",
-        "floor": "具体房间待复核",
-        "status": "采集资料列有相关门牌；各窗口服务事项、时间待补充"
-      },
-      {
-        "name": "青春驿站（学生党建团建中心）",
-        "floor": null,
-        "status": "采集记录；开放对象与方式待核实"
-      },
-      {
-        "name": "荟空间 / 艺空间 / SISU育空间",
-        "floor": "2F",
-        "status": "采集记录；用途与开放方式待核实"
-      },
-      {
-        "name": "师活咖啡（海报线索）",
-        "floor": null,
-        "status": "仅见正式营业海报，具体门店位置、营业状态待核实"
       }
     ],
     "tips": [
       "健身须按现场要求预约并携带校园卡、毛巾和运动鞋服。",
       "体操房、健身房规则仅适用于对应空间，不套用全楼。"
     ],
-    "opening_hours": "整体开放时间待核实。体操房2023年9月告示列教学、运动队和非教学不同时段，不能作为全楼开放时间。卫生所时段见对应服务记录。",
+    "opening_hours": "",
     "access_rules": null,
-    "reservation": "健身房须预约，具体路径待核实；体操房非教学使用按OA场馆流程申请。其他空间逐项核实。",
-    "fees": "场馆、设备及其他服务收费待核实；便利店自行定价。",
-    "latitude": null,
-    "longitude": null,
-    "coordinate_system": null,
-    "coordinate_source": null,
-    "coordinate_source_url": null,
-    "coordinate_collected_at": null,
-    "coordinate_status": "待定位",
-    "position_type": null,
+    "reservation": "",
+    "fees": "",
+    "latitude": 31.048908,
+    "longitude": 121.224049,
+    "coordinate_system": "GCJ-02",
+    "coordinate_source": "腾讯地图地点搜索API：上海外国语大学(松江校区)师生活动中心",
+    "coordinate_source_url": "https://apis.map.qq.com/ws/place/v1/search",
+    "coordinate_collected_at": "2026-10-20",
+    "coordinate_status": "腾讯地图POI",
+    "position_type": "设施POI",
     "original_coordinates": null,
     "geometry": null,
     "geometry_coordinate_system": null,
     "entrances": [
       {
         "name": "W1主入口",
-        "description": "门廊带立柱、弧形玻璃门，上方W1标识；整体门禁待核实。",
+        "description": "",
         "latitude": null,
         "longitude": null,
         "coordinate_system": null,
-        "coordinate_status": "待定位"
+        "coordinate_status": ""
       },
       {
         "name": "东侧无障碍斜坡入口",
-        "description": "现场见斜坡，连续通行与电梯可用性待核实。",
+        "description": "",
         "latitude": null,
         "longitude": null,
         "coordinate_system": null,
-        "coordinate_status": "待定位"
+        "coordinate_status": ""
       },
       {
         "name": "东侧通向研究大楼的入口",
-        "description": "采集记录可通向研究大楼；门禁、开放及对应入口待核实。",
+        "description": "",
         "latitude": null,
         "longitude": null,
         "coordinate_system": null,
-        "coordinate_status": "待定位"
+        "coordinate_status": ""
       }
     ],
     "photo": "assets/photos/TMP-SJ-0017/field-20261019-088.jpg",
@@ -2883,7 +1857,7 @@
       },
       {
         "src": "assets/photos/TMP-SJ-0017/field-20261019-099.jpg",
-        "caption": "218团委与学联办公室门牌；楼层对应待复核",
+        "caption": "",
         "taken_at": "2026-10-02",
         "credit": "盛卿阳",
         "public_use": true,
@@ -2892,16 +1866,6 @@
         "privacy_review": "人工筛选；未选用带可辨认人脸、车牌或私人表单的画面；公开副本移除EXIF",
         "imported_at": "2026-10-19"
       }
-    ],
-    "verified_at": "2026-10-02",
-    "content_status": "已有采集人资料；待交叉复核",
-    "pending_items": [
-      "建筑与入口精确坐标、坐标来源和定位对象",
-      "采集资料交叉复核及变化信息更新",
-      "全楼与各场馆/窗口开放、收费、预约方式",
-      "卫生所当前工作安排",
-      "无障碍坡道可用性及是否有无障碍电梯",
-      "师活咖啡位置、2F活动空间用途、218房间的楼层对应"
     ],
     "sources": [
       {
@@ -2913,60 +1877,16 @@
       },
       {
         "title": "盛卿阳_资料交付_表A表B表D表F_20261002.docx",
-        "organization": "学生项目团队（采集人：盛卿阳）",
+        "organization": "",
         "url": null,
         "accessed_at": "2026-10-19",
         "collected_at": "2026-10-02",
         "source_document_id": "DOC-007",
-        "note": "用户提供的采集交付资料；采集人记录，网站制作人员未到现场；待交叉复核。"
+        "note": ""
       }
     ],
     "updated_at": "2026-10-19",
-    "collection_ids": [
-      "SJ-0007"
-    ],
-    "field_sources": {
-      "aliases": {
-        "document_id": "DOC-007",
-        "collected_at": "2026-10-02"
-      },
-      "summary": {
-        "document_id": "DOC-007",
-        "collected_at": "2026-10-02"
-      },
-      "floor": {
-        "document_id": "DOC-007",
-        "collected_at": "2026-10-02"
-      },
-      "services": {
-        "document_id": "DOC-007",
-        "collected_at": "2026-10-02"
-      },
-      "opening_hours": {
-        "document_id": "DOC-007",
-        "collected_at": "2026-10-02"
-      },
-      "reservation": {
-        "document_id": "DOC-007",
-        "collected_at": "2026-10-02"
-      },
-      "fees": {
-        "document_id": "DOC-007",
-        "collected_at": "2026-10-02"
-      },
-      "entrances": {
-        "document_id": "DOC-007",
-        "collected_at": "2026-10-02"
-      },
-      "tips": {
-        "document_id": "DOC-007",
-        "collected_at": "2026-10-02"
-      },
-      "pending_items": {
-        "document_id": "DOC-007",
-        "collected_at": "2026-10-02"
-      }
-    }
+    "tencent_poi_id": "16095885036061587718"
   },
   {
     "id": "TMP-SJ-0018",
@@ -2979,67 +1899,41 @@
     "subcategory": "",
     "parent_id": null,
     "building": "第八教学楼",
-    "floor": "导览牌记录1F教师/专家办公室，2F学院及学生工作等办公室；标牌覆盖楼区及具体学院归属待核实。",
+    "floor": "",
     "location_desc": "小足球场南侧、篮球场东侧",
     "summary": "教学、自习与学院办公建筑；新增导览牌院系、静音/出声自习教室和实际入口线索。",
     "departments": [
       "日本文化经济学院",
       "中文学院／国际文化交流学院（导览牌称谓）"
     ],
-    "services": [
-      {
-        "name": "静音自习教室8120–8122、8238–8239",
-        "floor": "楼层待核实",
-        "status": "2026-10-08电子屏记录；具体规则待核实，不凭房号推断楼层"
-      },
-      {
-        "name": "出声自习教室8231–8233、8235–8237",
-        "floor": "楼层待核实",
-        "status": "电子屏记录；具体规则待核实"
-      },
-      {
-        "name": "大楼管理员办公室116 / 党群服务中心106",
-        "floor": "楼层待核实",
-        "status": "导览牌记录；服务事项与时间待核实"
-      },
-      {
-        "name": "学生工作办公室",
-        "floor": "2F（房号待核实）",
-        "status": "对应学院及服务时间待核实"
-      },
-      {
-        "name": "公共教室117/119",
-        "floor": "楼层待核实",
-        "status": "教学优先，非上课使用条件待核实"
-      }
-    ],
+    "services": [],
     "tips": [
       "电子屏“空闲”是2026-10-08当时状态，不等于实时空闲或自动允许自习。",
       "不根据房号推算楼层或教室数量。"
     ],
-    "opening_hours": "06:30–22:30（采集人于2026-10-08补充确认）；各办公室、教室服务时段需另行确认。",
+    "opening_hours": "",
     "access_rules": null,
     "reservation": null,
-    "fees": "建筑及对应公共场地采集人记为免费；独立设备或停车不据此认定免费。",
-    "latitude": null,
-    "longitude": null,
-    "coordinate_system": null,
-    "coordinate_source": null,
-    "coordinate_source_url": null,
-    "coordinate_collected_at": null,
-    "coordinate_status": "待定位",
-    "position_type": null,
+    "fees": "",
+    "latitude": 31.049659,
+    "longitude": 121.225263,
+    "coordinate_system": "GCJ-02",
+    "coordinate_source": "腾讯地图地点搜索API：上海外国语大学松江校区第八教学楼",
+    "coordinate_source_url": "https://apis.map.qq.com/ws/place/v1/search",
+    "coordinate_collected_at": "2026-10-20",
+    "coordinate_status": "腾讯地图POI",
+    "position_type": "设施POI",
     "original_coordinates": null,
     "geometry": null,
     "geometry_coordinate_system": null,
     "entrances": [
       {
         "name": "S2标识玻璃门入口",
-        "description": "见采集图SJ-0023-P02；正面有台阶，面向入口右侧可见坡道及扶手，朝向与门禁待核实。",
+        "description": "",
         "latitude": null,
         "longitude": null,
         "coordinate_system": null,
-        "coordinate_status": "待定位"
+        "coordinate_status": ""
       }
     ],
     "photo": "assets/photos/TMP-SJ-0018/field-20261019-001.jpg",
@@ -3089,14 +1983,6 @@
         "imported_at": "2026-10-19"
       }
     ],
-    "verified_at": "2026-10-08",
-    "content_status": "已有采集人资料；待交叉复核",
-    "pending_items": [
-      "建筑与入口精确坐标、坐标来源和定位对象",
-      "采集资料交叉复核及变化信息更新",
-      "学院楼层归属、各自习教室使用规则",
-      "门禁、其他入口、坡道和电梯实际可用性"
-    ],
     "sources": [
       {
         "title": "项目发起人提供的建设需求及更正",
@@ -3106,61 +1992,17 @@
         "note": "初始讲解资料，不代表制作人员现场核实"
       },
       {
-        "title": "数惠便利一图_张盟极_四点位采集资料_20261008.docx",
-        "organization": "学生项目团队（采集人：张盟极）",
+        "title": "",
+        "organization": "",
         "url": null,
         "accessed_at": "2026-10-19",
         "collected_at": "2026-10-08",
         "source_document_id": "DOC-001",
-        "note": "用户提供的采集交付资料；采集人记录，网站制作人员未到现场；待交叉复核。"
+        "note": ""
       }
     ],
     "updated_at": "2026-10-19",
-    "collection_ids": [
-      "SJ-0023"
-    ],
-    "field_sources": {
-      "aliases": {
-        "document_id": "DOC-001",
-        "collected_at": "2026-10-08"
-      },
-      "summary": {
-        "document_id": "DOC-001",
-        "collected_at": "2026-10-08"
-      },
-      "departments": {
-        "document_id": "DOC-001",
-        "collected_at": "2026-10-08"
-      },
-      "floor": {
-        "document_id": "DOC-001",
-        "collected_at": "2026-10-08"
-      },
-      "services": {
-        "document_id": "DOC-001",
-        "collected_at": "2026-10-08"
-      },
-      "opening_hours": {
-        "document_id": "DOC-001",
-        "collected_at": "2026-10-08"
-      },
-      "fees": {
-        "document_id": "DOC-001",
-        "collected_at": "2026-10-08"
-      },
-      "entrances": {
-        "document_id": "DOC-001",
-        "collected_at": "2026-10-08"
-      },
-      "tips": {
-        "document_id": "DOC-001",
-        "collected_at": "2026-10-08"
-      },
-      "pending_items": {
-        "document_id": "DOC-001",
-        "collected_at": "2026-10-08"
-      }
-    }
+    "tencent_poi_id": "5570312109469934169"
   },
   {
     "id": "TMP-SJ-0019",
@@ -3174,30 +2016,19 @@
     "location_desc": "第八教学楼正北面；篮球场与羽毛球场之间空地的正东面",
     "summary": "八教北侧室外足球场，新增围网滑动门入口及用品柜线索。",
     "departments": [],
-    "services": [
-      {
-        "name": "室外足球运动场地",
-        "floor": "室外",
-        "status": "采集人补充06:30–22:30、免费；预约和使用对象待核实"
-      },
-      {
-        "name": "运动用品柜（线索）",
-        "floor": "围网旁",
-        "status": "柜内可见运动用品；权属、公共借用权限与费用待核实"
-      }
-    ],
+    "services": [],
     "tips": [],
-    "opening_hours": "06:30–22:30（采集人2026-10-08补充确认）。",
+    "opening_hours": "",
     "access_rules": null,
-    "reservation": "预约方式及使用对象待核实。",
-    "fees": "场地免费（采集人补充）；用品柜借用费用待核实。",
+    "reservation": "",
+    "fees": "",
     "latitude": null,
     "longitude": null,
     "coordinate_system": null,
     "coordinate_source": null,
     "coordinate_source_url": null,
     "coordinate_collected_at": null,
-    "coordinate_status": "待定位",
+    "coordinate_status": "",
     "position_type": null,
     "original_coordinates": null,
     "geometry": null,
@@ -3205,11 +2036,11 @@
     "entrances": [
       {
         "name": "绿色围网金属滑动门入口",
-        "description": "见采集图SJ-0024-P01；经砖铺步行区域到达，地面轨道/边缘高差与轮椅通行待核实。",
+        "description": "",
         "latitude": null,
         "longitude": null,
         "coordinate_system": null,
-        "coordinate_status": "待定位"
+        "coordinate_status": ""
       }
     ],
     "photo": "assets/photos/TMP-SJ-0019/field-20261019-019.jpg",
@@ -3227,7 +2058,7 @@
       },
       {
         "src": "assets/photos/TMP-SJ-0019/field-20261019-020.jpg",
-        "caption": "场旁运动用品柜；借用权限待核实",
+        "caption": "",
         "taken_at": "2026-10-08",
         "credit": "张盟极",
         "public_use": true,
@@ -3236,14 +2067,6 @@
         "privacy_review": "人工筛选；未选用带可辨认人脸、车牌或私人表单的画面；公开副本移除EXIF",
         "imported_at": "2026-10-19"
       }
-    ],
-    "verified_at": "2026-10-08",
-    "content_status": "已有采集人资料；待交叉复核",
-    "pending_items": [
-      "建筑与入口精确坐标、坐标来源和定位对象",
-      "采集资料交叉复核及变化信息更新",
-      "场地数量、规格、几人制、预约及照明",
-      "器材柜权属与借用条件、入口连续无障碍通行"
     ],
     "sources": [
       {
@@ -3254,49 +2077,16 @@
         "note": "初始讲解资料，不代表制作人员现场核实"
       },
       {
-        "title": "数惠便利一图_张盟极_四点位采集资料_20261008.docx",
-        "organization": "学生项目团队（采集人：张盟极）",
+        "title": "",
+        "organization": "",
         "url": null,
         "accessed_at": "2026-10-19",
         "collected_at": "2026-10-08",
         "source_document_id": "DOC-001",
-        "note": "用户提供的采集交付资料；采集人记录，网站制作人员未到现场；待交叉复核。"
+        "note": ""
       }
     ],
-    "updated_at": "2026-10-19",
-    "collection_ids": [
-      "SJ-0024"
-    ],
-    "field_sources": {
-      "summary": {
-        "document_id": "DOC-001",
-        "collected_at": "2026-10-08"
-      },
-      "services": {
-        "document_id": "DOC-001",
-        "collected_at": "2026-10-08"
-      },
-      "opening_hours": {
-        "document_id": "DOC-001",
-        "collected_at": "2026-10-08"
-      },
-      "fees": {
-        "document_id": "DOC-001",
-        "collected_at": "2026-10-08"
-      },
-      "reservation": {
-        "document_id": "DOC-001",
-        "collected_at": "2026-10-08"
-      },
-      "entrances": {
-        "document_id": "DOC-001",
-        "collected_at": "2026-10-08"
-      },
-      "pending_items": {
-        "document_id": "DOC-001",
-        "collected_at": "2026-10-08"
-      }
-    }
+    "updated_at": "2026-10-19"
   },
   {
     "id": "TMP-SJ-0020",
@@ -3307,50 +2097,34 @@
     "parent_id": null,
     "building": "篮球场",
     "floor": null,
-    "location_desc": "保留发起人“第八教学楼正西面”线索；采集图有文采路路牌与场旁通道，精确方位仍待复核。",
+    "location_desc": "",
     "summary": "八教西侧室外篮球场，新增文采路到达线索、篮球扫码借还柜及手机寄存柜。",
     "departments": [],
-    "services": [
-      {
-        "name": "室外篮球运动场地",
-        "floor": "室外",
-        "status": "采集人补充06:30–22:30、免费；不凭透视照片推算标准全场数量"
-      },
-      {
-        "name": "篮球扫码借还柜",
-        "floor": "场边",
-        "status": "柜体标示扫码借还；设备运行与收费待核实"
-      },
-      {
-        "name": "手机寄存柜",
-        "floor": "场边",
-        "status": "柜面有存取手机说明；运行、格口及费用待核实"
-      }
-    ],
+    "services": [],
     "tips": [],
-    "opening_hours": "06:30–22:30（采集人2026-10-08补充确认）。",
+    "opening_hours": "",
     "access_rules": null,
-    "reservation": "场地预约及使用对象待核实。",
-    "fees": "场地免费（采集人补充），独立借还柜和寄存柜收费另行核实。",
-    "latitude": null,
-    "longitude": null,
-    "coordinate_system": null,
-    "coordinate_source": null,
-    "coordinate_source_url": null,
-    "coordinate_collected_at": null,
-    "coordinate_status": "待定位",
-    "position_type": null,
+    "reservation": "",
+    "fees": "",
+    "latitude": 31.049851,
+    "longitude": 121.22398,
+    "coordinate_system": "GCJ-02",
+    "coordinate_source": "腾讯地图地点搜索API：上海外国语大学(松江校区)篮球场",
+    "coordinate_source_url": "https://apis.map.qq.com/ws/place/v1/search",
+    "coordinate_collected_at": "2026-10-20",
+    "coordinate_status": "腾讯地图POI",
+    "position_type": "设施POI",
     "original_coordinates": null,
     "geometry": null,
     "geometry_coordinate_system": null,
     "entrances": [
       {
         "name": "篮球场入口到达参考",
-        "description": "参照文采路路牌及场旁通道，见SJ-0025-P01/P02；实际入口朝向、净宽及高差待核实。",
+        "description": "",
         "latitude": null,
         "longitude": null,
         "coordinate_system": null,
-        "coordinate_status": "待定位"
+        "coordinate_status": ""
       }
     ],
     "photo": "assets/photos/TMP-SJ-0020/field-20261019-002.jpg",
@@ -3378,14 +2152,6 @@
         "imported_at": "2026-10-19"
       }
     ],
-    "verified_at": "2026-10-08",
-    "content_status": "已有采集人资料；待交叉复核",
-    "pending_items": [
-      "建筑与入口精确坐标、坐标来源和定位对象",
-      "采集资料交叉复核及变化信息更新",
-      "场地数量、预约、专用照明及开放规则",
-      "借还柜、寄存柜的运行、收费及使用流程"
-    ],
     "sources": [
       {
         "title": "项目发起人提供的建设需求及更正",
@@ -3395,53 +2161,17 @@
         "note": "初始讲解资料，不代表制作人员现场核实"
       },
       {
-        "title": "数惠便利一图_张盟极_四点位采集资料_20261008.docx",
-        "organization": "学生项目团队（采集人：张盟极）",
+        "title": "",
+        "organization": "",
         "url": null,
         "accessed_at": "2026-10-19",
         "collected_at": "2026-10-08",
         "source_document_id": "DOC-001",
-        "note": "用户提供的采集交付资料；采集人记录，网站制作人员未到现场；待交叉复核。"
+        "note": ""
       }
     ],
     "updated_at": "2026-10-19",
-    "collection_ids": [
-      "SJ-0025"
-    ],
-    "field_sources": {
-      "summary": {
-        "document_id": "DOC-001",
-        "collected_at": "2026-10-08"
-      },
-      "location_desc": {
-        "document_id": "DOC-001",
-        "collected_at": "2026-10-08"
-      },
-      "services": {
-        "document_id": "DOC-001",
-        "collected_at": "2026-10-08"
-      },
-      "opening_hours": {
-        "document_id": "DOC-001",
-        "collected_at": "2026-10-08"
-      },
-      "fees": {
-        "document_id": "DOC-001",
-        "collected_at": "2026-10-08"
-      },
-      "reservation": {
-        "document_id": "DOC-001",
-        "collected_at": "2026-10-08"
-      },
-      "entrances": {
-        "document_id": "DOC-001",
-        "collected_at": "2026-10-08"
-      },
-      "pending_items": {
-        "document_id": "DOC-001",
-        "collected_at": "2026-10-08"
-      }
-    }
+    "tencent_poi_id": "10856827221681349953"
   },
   {
     "id": "TMP-SJ-0021",
@@ -3456,7 +2186,7 @@
     "parent_id": null,
     "building": "羽毛球馆／训练馆",
     "floor": null,
-    "location_desc": "保留发起人“篮球场正北面”线索；采集资料记浅色外墙、窗面“羽毛球馆”字样，精确方位待复核。",
+    "location_desc": "",
     "summary": "采集照片窗面标示“羽毛球馆”，对应原清单“羽毛球场”。提供室内羽毛球运动空间。",
     "departments": [
       "体育教学部（现场管理条例落款）",
@@ -3464,36 +2194,25 @@
     ],
     "services": [
       {
-        "name": "室内羽毛球运动场地",
-        "floor": "楼层待核实",
-        "status": "采集人补充06:30–22:30、免费；场数与当前预约路径待核实"
-      },
-      {
-        "name": "馆内照明",
-        "floor": null,
-        "status": "拍摄时顶部照明已开启；夜间启用时段待核实"
-      },
-      {
         "name": "窗边器材箱（线索）",
         "floor": null,
         "status": "拍摄可见球拍/拍套及羽毛球；不能据此认定可公共借用"
       }
     ],
     "tips": [
-      "馆外露天设网球场类型未确认，不计入本馆室内场数。",
       "清洁设备不列为学生借用服务。"
     ],
-    "opening_hours": "06:30–22:30（采集人2026-10-08补充确认）；照片公告时间栏模糊，不据此推算。",
-    "access_rules": "现场提示要求本校师生出示证件或标识，穿浅色或牛筋底运动鞋；公告称校外人员禁止进入场内活动。当前执行与有效证件待确认。",
-    "reservation": "张贴管理条例列非教学时段通过学校OA向体育教学部申请；个人日常使用是否另有渠道待核实。",
-    "fees": "场地免费（采集人补充）；器材借用费用待核实。",
+    "opening_hours": "",
+    "access_rules": "",
+    "reservation": "",
+    "fees": "",
     "latitude": null,
     "longitude": null,
     "coordinate_system": null,
     "coordinate_source": null,
     "coordinate_source_url": null,
     "coordinate_collected_at": null,
-    "coordinate_status": "待定位",
+    "coordinate_status": "",
     "position_type": null,
     "original_coordinates": null,
     "geometry": null,
@@ -3501,11 +2220,11 @@
     "entrances": [
       {
         "name": "羽毛球馆入口到达参考",
-        "description": "参照窗面馆名、沿外墙通道及入馆提示，见SJ-0026-P01至P03；具体门体、朝向及无障碍条件待核实。",
+        "description": "",
         "latitude": null,
         "longitude": null,
         "coordinate_system": null,
-        "coordinate_status": "待定位"
+        "coordinate_status": ""
       }
     ],
     "photo": "assets/photos/TMP-SJ-0021/field-20261019-009.jpg",
@@ -3523,7 +2242,7 @@
       },
       {
         "src": "assets/photos/TMP-SJ-0021/field-20261019-011.jpg",
-        "caption": "馆内窗边器材箱；公共借用条件待核实",
+        "caption": "",
         "taken_at": "2026-10-08",
         "credit": "张盟极",
         "public_use": true,
@@ -3532,15 +2251,6 @@
         "privacy_review": "人工筛选；未选用带可辨认人脸、车牌或私人表单的画面；公开副本移除EXIF",
         "imported_at": "2026-10-19"
       }
-    ],
-    "verified_at": "2026-10-08",
-    "content_status": "已有采集人资料；待交叉复核",
-    "pending_items": [
-      "建筑与入口精确坐标、坐标来源和定位对象",
-      "采集资料交叉复核及变化信息更新",
-      "公告现行效力、个人预约路径、有效证件与使用对象",
-      "场地数量、器材借用及照明时段",
-      "馆外球场对象与入口无障碍情况"
     ],
     "sources": [
       {
@@ -3551,81 +2261,20 @@
         "note": "初始讲解资料，不代表制作人员现场核实"
       },
       {
-        "title": "数惠便利一图_张盟极_四点位采集资料_20261008.docx",
-        "organization": "学生项目团队（采集人：张盟极）",
+        "title": "",
+        "organization": "",
         "url": null,
         "accessed_at": "2026-10-19",
         "collected_at": "2026-10-08",
         "source_document_id": "DOC-001",
-        "note": "用户提供的采集交付资料；采集人记录，网站制作人员未到现场；待交叉复核。"
+        "note": ""
       }
     ],
-    "updated_at": "2026-10-19",
-    "collection_ids": [
-      "SJ-0026"
-    ],
-    "field_sources": {
-      "name": {
-        "document_id": "DOC-001",
-        "collected_at": "2026-10-08"
-      },
-      "aliases": {
-        "document_id": "DOC-001",
-        "collected_at": "2026-10-08"
-      },
-      "building": {
-        "document_id": "DOC-001",
-        "collected_at": "2026-10-08"
-      },
-      "summary": {
-        "document_id": "DOC-001",
-        "collected_at": "2026-10-08"
-      },
-      "location_desc": {
-        "document_id": "DOC-001",
-        "collected_at": "2026-10-08"
-      },
-      "departments": {
-        "document_id": "DOC-001",
-        "collected_at": "2026-10-08"
-      },
-      "services": {
-        "document_id": "DOC-001",
-        "collected_at": "2026-10-08"
-      },
-      "opening_hours": {
-        "document_id": "DOC-001",
-        "collected_at": "2026-10-08"
-      },
-      "fees": {
-        "document_id": "DOC-001",
-        "collected_at": "2026-10-08"
-      },
-      "access_rules": {
-        "document_id": "DOC-001",
-        "collected_at": "2026-10-08"
-      },
-      "reservation": {
-        "document_id": "DOC-001",
-        "collected_at": "2026-10-08"
-      },
-      "entrances": {
-        "document_id": "DOC-001",
-        "collected_at": "2026-10-08"
-      },
-      "tips": {
-        "document_id": "DOC-001",
-        "collected_at": "2026-10-08"
-      },
-      "pending_items": {
-        "document_id": "DOC-001",
-        "collected_at": "2026-10-08"
-      }
-    }
+    "updated_at": "2026-10-19"
   },
   {
     "id": "TMP-SJ-0022",
-    "name": "食堂（正式名称待确认）",
+    "name": "食堂",
     "aliases": [
       "食堂",
       "米阅餐厅",
@@ -3640,295 +2289,18 @@
     "category": "餐饮",
     "subcategory": "",
     "parent_id": null,
-    "building": "食堂（正式名称待确认）",
+    "building": "",
     "floor": "1F南侧A厅、北侧米阅餐厅；2F北侧快乐食间、南侧二a食堂；3F南侧3A·食棠、北侧B厅（采集假期时关闭）。",
-    "location_desc": "师生活动中心西侧；采集人自西二门进入，经一楼北侧米阅餐厅到达食堂。",
-    "summary": "师生活动中心西侧食堂，采集资料补充三层多厅、商家餐线及支付方式。“米阅餐厅”为一楼北侧厅名，整体正式名称仍待确认。",
+    "location_desc": "",
+    "summary": "",
     "departments": [],
-    "services": [
-      {
-        "name": "别忘了好好吃饭",
-        "floor": "一楼北侧（米阅餐厅）",
-        "status": "2026-10-02采集记录：快餐／盖饭；现场营业中（来源：2026-10-02 现场观察＋招牌照片）。当前营业状态、价格和规则可能变化。",
-        "collected_at": "2026-10-02",
-        "service_type": "商家或餐线"
-      },
-      {
-        "name": "沙县小吃 ｜ 精品小炒",
-        "floor": "一楼北侧（米阅餐厅）",
-        "status": "2026-10-02采集记录：小吃／小炒；现场营业中（同上；两组招牌连在一起，按同一档口记录）。当前营业状态、价格和规则可能变化。",
-        "collected_at": "2026-10-02",
-        "service_type": "商家或餐线"
-      },
-      {
-        "name": "小锅烫·麻辣拌",
-        "floor": "一楼北侧（米阅餐厅）",
-        "status": "2026-10-02采集记录：麻辣拌／烫菜；现场营业中（同上）。当前营业状态、价格和规则可能变化。",
-        "collected_at": "2026-10-02",
-        "service_type": "商家或餐线"
-      },
-      {
-        "name": "鲍汁排骨饭 & 小锅猪肚鸡",
-        "floor": "一楼北侧（米阅餐厅）",
-        "status": "2026-10-02采集记录：盖饭／汤锅；现场营业中（来源：采集人口述，2026-10-02；无招牌照片）。当前营业状态、价格和规则可能变化。",
-        "collected_at": "2026-10-02",
-        "service_type": "商家或餐线"
-      },
-      {
-        "name": "仟喜 日式焼肉飯",
-        "floor": "一楼北侧（米阅餐厅）",
-        "status": "2026-10-02采集记录：日式烧肉饭；现场营业中（招牌照片；店名字形待核实）。当前营业状态、价格和规则可能变化。",
-        "collected_at": "2026-10-02",
-        "service_type": "商家或餐线"
-      },
-      {
-        "name": "西安面食",
-        "floor": "一楼北侧（米阅餐厅）",
-        "status": "2026-10-02采集记录：面食（旁邻\"肉夹馍\"字样招牌）；现场营业中（招牌照片）。当前营业状态、价格和规则可能变化。",
-        "collected_at": "2026-10-02",
-        "service_type": "商家或餐线"
-      },
-      {
-        "name": "桔薇·面包铺子",
-        "floor": "一楼北侧（米阅餐厅）",
-        "status": "2026-10-02采集记录：烘焙／面包；现场营业中（招牌照片）。当前营业状态、价格和规则可能变化。",
-        "collected_at": "2026-10-02",
-        "service_type": "商家或餐线"
-      },
-      {
-        "name": "橘柚鲸",
-        "floor": "一楼北侧（米阅餐厅）",
-        "status": "2026-10-02采集记录：餐饮（品类待补）；现场营业中（招牌照片）。当前营业状态、价格和规则可能变化。",
-        "collected_at": "2026-10-02",
-        "service_type": "商家或餐线"
-      },
-      {
-        "name": "糖水粥铺（SWEET HOUSE）",
-        "floor": "一楼北侧（米阅餐厅）",
-        "status": "2026-10-02采集记录：糖水／粥；现场营业中（招牌照片）。当前营业状态、价格和规则可能变化。",
-        "collected_at": "2026-10-02",
-        "service_type": "商家或餐线"
-      },
-      {
-        "name": "蜜雪冰城",
-        "floor": "二楼北侧（快乐食间）",
-        "status": "2026-10-02采集记录：饮品；现场营业中；仅线上小程序或扫码支付，不能使用校园卡（来源：现场观察＋2026-10-02 店内提示）。当前营业状态、价格和规则可能变化。",
-        "collected_at": "2026-10-02",
-        "service_type": "商家或餐线"
-      },
-      {
-        "name": "瑞幸咖啡 luckin coffee",
-        "floor": "二楼北侧（快乐食间）",
-        "status": "2026-10-02采集记录：咖啡；现场营业中；仅线上小程序或扫码支付，不能用校园卡；店内告示记订单高峰 7:30–8:30、11:30–12:30（来源：现场照片）。当前营业状态、价格和规则可能变化。",
-        "collected_at": "2026-10-02",
-        "service_type": "商家或餐线"
-      },
-      {
-        "name": "饭大侣",
-        "floor": "二楼北侧（快乐食间）",
-        "status": "2026-10-02采集记录：米饭快餐（旁有\"一碗米饭的旅程\"墙面）；现场营业中（招牌照片）。当前营业状态、价格和规则可能变化。",
-        "collected_at": "2026-10-02",
-        "service_type": "商家或餐线"
-      },
-      {
-        "name": "云南米线 ｜ 咕嘟花甲粉",
-        "floor": "二楼北侧（快乐食间）",
-        "status": "2026-10-02采集记录：米线／花甲粉；现场营业中（招牌照片）。当前营业状态、价格和规则可能变化。",
-        "collected_at": "2026-10-02",
-        "service_type": "商家或餐线"
-      },
-      {
-        "name": "豆花饭",
-        "floor": "二楼北侧（快乐食间）",
-        "status": "2026-10-02采集记录：豆花饭（旁邻咕嘟花甲粉）；现场营业中（招牌照片）。当前营业状态、价格和规则可能变化。",
-        "collected_at": "2026-10-02",
-        "service_type": "商家或餐线"
-      },
-      {
-        "name": "手工水饺",
-        "floor": "二楼北侧（快乐食间）",
-        "status": "2026-10-02采集记录：水饺（点餐区／取餐区）；现场营业中（招牌照片）。当前营业状态、价格和规则可能变化。",
-        "collected_at": "2026-10-02",
-        "service_type": "商家或餐线"
-      },
-      {
-        "name": "港式烧腊",
-        "floor": "二楼北侧（快乐食间）",
-        "status": "2026-10-02采集记录：烧腊饭；现场营业中（招牌照片）。当前营业状态、价格和规则可能变化。",
-        "collected_at": "2026-10-02",
-        "service_type": "商家或餐线"
-      },
-      {
-        "name": "瑞滑烧饭铺",
-        "floor": "二楼北侧（快乐食间）",
-        "status": "2026-10-02采集记录：烧饭／盖饭；现场营业中（招牌照片）。当前营业状态、价格和规则可能变化。",
-        "collected_at": "2026-10-02",
-        "service_type": "商家或餐线"
-      },
-      {
-        "name": "重庆小面",
-        "floor": "二楼北侧（快乐食间）",
-        "status": "2026-10-02采集记录：面食；现场营业中（招牌照片）。当前营业状态、价格和规则可能变化。",
-        "collected_at": "2026-10-02",
-        "service_type": "商家或餐线"
-      },
-      {
-        "name": "快乐堡堡（现煎牛肉堡炸鸡）",
-        "floor": "二楼北侧（快乐食间）",
-        "status": "2026-10-02采集记录：汉堡／炸鸡；现场营业中（招牌照片）。当前营业状态、价格和规则可能变化。",
-        "collected_at": "2026-10-02",
-        "service_type": "商家或餐线"
-      },
-      {
-        "name": "蒸蒸好（快乐食间旗下）",
-        "floor": "二楼北侧（快乐食间）",
-        "status": "2026-10-02采集记录：蒸包／蒸饺／甜玉米／奶黄包 1.5 元/个、小米粥 3 元/份；现场营业中（价目照片）。当前营业状态、价格和规则可能变化。",
-        "collected_at": "2026-10-02",
-        "service_type": "商家或餐线"
-      },
-      {
-        "name": "窗口④（招牌未读到店名）",
-        "floor": "二楼北侧（快乐食间）",
-        "status": "2026-10-02采集记录：铁板炒饭类；现场营业中（照片；店名待核实）。当前营业状态、价格和规则可能变化。",
-        "collected_at": "2026-10-02",
-        "service_type": "商家或餐线"
-      },
-      {
-        "name": "石榴籽·西北风味餐厅（POMEGRANATE SEEDS）＝清真档口",
-        "floor": "二楼南侧（二 a 食堂）",
-        "status": "2026-10-02采集记录：西北风味／清真；含窗口①营养快餐、②早点、④金城萃铁板炒饭；现场营业中（招牌与窗口照片；运营方标识\"伊源餐饮\"）。当前营业状态、价格和规则可能变化。",
-        "collected_at": "2026-10-02",
-        "service_type": "商家或餐线"
-      },
-      {
-        "name": "食之岸 Shore Bistro（西餐厅）",
-        "floor": "二楼南侧（二 a 食堂）",
-        "status": "2026-10-02采集记录：西餐；店内含野马浜、比星咖啡；现场营业中；门玻璃营业时间标牌两处不一致（9:30–20:00 与 9:00–20:30），以哪个为准：待调查（来源：现场照片）。当前营业状态、价格和规则可能变化。",
-        "collected_at": "2026-10-02",
-        "service_type": "商家或餐线"
-      },
-      {
-        "name": "野马浜（食之岸店内档口）",
-        "floor": "二楼南侧（二 a 食堂）",
-        "status": "2026-10-02采集记录：芝士奶香焗饭系列、意面类（招牌右侧文字待核实）；现场营业中；支持手机扫码点餐、叫号取餐（来源：店内灯箱照片）。当前营业状态、价格和规则可能变化。",
-        "collected_at": "2026-10-02",
-        "service_type": "商家或餐线"
-      },
-      {
-        "name": "比星咖啡 BeanStar（食之岸店内档口）",
-        "floor": "二楼南侧（二 a 食堂）",
-        "status": "2026-10-02采集记录：咖啡；现场营业中；小程序下单免排队；可用桌上二维码/碰一下点餐（来源：店内照片＋桌贴）。当前营业状态、价格和规则可能变化。",
-        "collected_at": "2026-10-02",
-        "service_type": "商家或餐线"
-      },
-      {
-        "name": "嗷嗷香（麻辣烫-香锅）",
-        "floor": "三楼 a 厅（3A·食棠）",
-        "status": "2026-10-02采集记录：麻辣烫／麻辣拌／香锅；2.25 元/50 克（荤素同价，10 元起），米饭 1 元/碗可免费续饭；现场营业中（灯箱＋价目照片）。当前营业状态、价格和规则可能变化。",
-        "collected_at": "2026-10-02",
-        "service_type": "商家或餐线"
-      },
-      {
-        "name": "中果·田园食光（ZHONGGUO / IDYLLIC FOOD CORNER）",
-        "floor": "三楼 a 厅（3A·食棠）",
-        "status": "2026-10-02采集记录：主招牌；下含餐线「把子肉饭」（旁标隆江猪脚饭）与「五谷渔粉」；现场营业中（招牌照片）。当前营业状态、价格和规则可能变化。",
-        "collected_at": "2026-10-02",
-        "service_type": "商家或餐线"
-      },
-      {
-        "name": "牛伯叔 铁锅炖",
-        "floor": "三楼 a 厅（3A·食棠）",
-        "status": "2026-10-02采集记录：铁锅炖；现场营业中（招牌照片）。当前营业状态、价格和规则可能变化。",
-        "collected_at": "2026-10-02",
-        "service_type": "商家或餐线"
-      },
-      {
-        "name": "土豆泥拌饭",
-        "floor": "三楼 a 厅（3A·食棠）",
-        "status": "2026-10-02采集记录：拌饭；现场营业中（招牌照片）。当前营业状态、价格和规则可能变化。",
-        "collected_at": "2026-10-02",
-        "service_type": "商家或餐线"
-      },
-      {
-        "name": "秦知味拉面",
-        "floor": "三楼 a 厅（3A·食棠）",
-        "status": "2026-10-02采集记录：拉面（上方灯箱：特色生煎、三鲜面、烧腊饭等）；现场营业中（招牌照片）。当前营业状态、价格和规则可能变化。",
-        "collected_at": "2026-10-02",
-        "service_type": "商家或餐线"
-      },
-      {
-        "name": "淮南牛肉汤 ｜ 椒香拌粉面·肥牛米线",
-        "floor": "三楼 a 厅（3A·食棠）",
-        "status": "2026-10-02采集记录：牛肉汤／拌粉面／米线（现拌现煮）；现场营业中（招牌照片）。当前营业状态、价格和规则可能变化。",
-        "collected_at": "2026-10-02",
-        "service_type": "商家或餐线"
-      },
-      {
-        "name": "四季轻食",
-        "floor": "三楼 a 厅（3A·食棠）",
-        "status": "2026-10-02采集记录：轻食；该档口卷帘门关闭，门上有粉色告示（字迹待整理）→ 营业状态待核实（来源：2026-10-02 现场照片）。当前营业状态、价格和规则可能变化。",
-        "collected_at": "2026-10-02",
-        "service_type": "商家或餐线"
-      },
-      {
-        "name": "炸鸡翁（鸡腿｜小食｜咖喱饭）＋印度飞饼",
-        "floor": "三楼 a 厅（3A·食棠）",
-        "status": "2026-10-02采集记录：炸鸡／小食／咖喱饭／印度飞饼；现场营业中（招牌照片；配可口可乐自助饮料机）。当前营业状态、价格和规则可能变化。",
-        "collected_at": "2026-10-02",
-        "service_type": "商家或餐线"
-      },
-      {
-        "name": "栗子侠 LI ZI MAN",
-        "floor": "三楼 a 厅（3A·食棠）",
-        "status": "2026-10-02采集记录：待核实（招牌为超人盾形 logo）；现场营业中（招牌照片；品类待核实）。当前营业状态、价格和规则可能变化。",
-        "collected_at": "2026-10-02",
-        "service_type": "商家或餐线"
-      },
-      {
-        "name": "田木·山归来",
-        "floor": "三楼 a 厅（3A·食棠）",
-        "status": "2026-10-02采集记录：待核实；店名由采集人口述，待核实（无照片）。当前营业状态、价格和规则可能变化。",
-        "collected_at": "2026-10-02",
-        "service_type": "商家或餐线"
-      },
-      {
-        "name": "辣椒炒肉",
-        "floor": "三楼 a 厅（3A·食棠）",
-        "status": "2026-10-02采集记录：待核实；店名由采集人口述，待核实（无照片）。当前营业状态、价格和规则可能变化。",
-        "collected_at": "2026-10-02",
-        "service_type": "商家或餐线"
-      },
-      {
-        "name": "便利店（蓝色遮阳棚）",
-        "floor": "室外中庭底层",
-        "status": "2026-10-02采集记录：便利店；平时每天营业（来源：采集人现场了解，来源类别待注明）；2026-10-02 门关闭未能确认名称 → 名称待核实。当前营业状态、价格和规则可能变化。",
-        "collected_at": "2026-10-02",
-        "service_type": "商家或餐线"
-      },
-      {
-        "name": "室外中庭扶梯、楼梯与桌椅区",
-        "floor": "中庭",
-        "status": "2026-10-02现场记录；无障碍连续通行待核实"
-      },
-      {
-        "name": "钢琴",
-        "floor": "2F南侧堂食区",
-        "status": "采集时可见；使用权限待核实"
-      },
-      {
-        "name": "充电宝租借柜",
-        "floor": "3F南侧3A·食棠",
-        "status": "品牌、费用及实际可用性待核实"
-      }
-    ],
+    "services": [],
     "tips": [
-      "楼层厅名不等于整栋食堂正式名称。",
-      "三楼B厅、四季轻食和底层便利店在假期采集时关闭，不能认定已永久停业。",
-      "采集时见一处电梯暂停使用，是否长期停用及整体无障碍条件待核实。"
+      "楼层厅名不等于整栋食堂正式名称。"
     ],
-    "opening_hours": "完整营业时段待核实。采集人称21:00后各厅全部关闭，但来源类别及假期/平日差异待确认，不作为统一确定时段。食之岸现场两处标牌分别为9:30–20:00与9:00–20:30，待核实。",
-    "access_rules": "堂食进入和门禁条件待核实。采集时记录蜜雪冰城、瑞幸支持线上/扫码、不用校园卡；其他档口支付方式不宜一概而论。",
-    "reservation": "团体订餐或社团使用预约方式待核实。",
+    "opening_hours": null,
+    "access_rules": null,
+    "reservation": "",
     "fees": "各商家自行定价。采集时嗷嗷香标示2.25元/50克（荤素同价、10元起）、米饭1元/碗可续；蒸蒸好奶黄包1.5元/个、小米粥3元/份。仅为2026-10-02价目记录，现价以店铺为准。",
     "latitude": null,
     "longitude": null,
@@ -3936,7 +2308,7 @@
     "coordinate_source": null,
     "coordinate_source_url": null,
     "coordinate_collected_at": null,
-    "coordinate_status": "待定位",
+    "coordinate_status": "",
     "position_type": null,
     "original_coordinates": null,
     "geometry": null,
@@ -3944,11 +2316,11 @@
     "entrances": [
       {
         "name": "1F北侧米阅餐厅入口",
-        "description": "采集人由此进入；与南侧A厅内部连通（采集时所见）。",
+        "description": "",
         "latitude": null,
         "longitude": null,
         "coordinate_system": null,
-        "coordinate_status": "待定位"
+        "coordinate_status": ""
       },
       {
         "name": "1F南侧A厅东侧出入口",
@@ -3956,23 +2328,23 @@
         "latitude": null,
         "longitude": null,
         "coordinate_system": null,
-        "coordinate_status": "待定位"
+        "coordinate_status": ""
       },
       {
         "name": "1F北侧厅东侧出入口",
-        "description": "旁有上楼通道；门禁和开放时段待核实。",
+        "description": "",
         "latitude": null,
         "longitude": null,
         "coordinate_system": null,
-        "coordinate_status": "待定位"
+        "coordinate_status": ""
       },
       {
-        "name": "西二门侧入口（待查看）",
-        "description": "采集人本次未查看，坡道及通行条件待核实。",
+        "name": "",
+        "description": "",
         "latitude": null,
         "longitude": null,
         "coordinate_system": null,
-        "coordinate_status": "待定位"
+        "coordinate_status": ""
       }
     ],
     "photo": "assets/photos/TMP-SJ-0022/field-20261019-111.jpg",
@@ -4012,7 +2384,7 @@
       },
       {
         "src": "assets/photos/TMP-SJ-0022/field-20261019-130.jpg",
-        "caption": "三楼B厅采集时关闭状态；不代表永久停业",
+        "caption": "",
         "taken_at": "2026-10-02",
         "credit": "盛卿阳",
         "public_use": true,
@@ -4066,16 +2438,6 @@
         "imported_at": "2026-10-19"
       }
     ],
-    "verified_at": "2026-10-02",
-    "content_status": "已有采集人资料；待交叉复核；存在冲突待确认",
-    "pending_items": [
-      "建筑与入口精确坐标、坐标来源和定位对象",
-      "采集资料交叉复核及变化信息更新",
-      "食堂整体正式名称，各厅/店铺完整营业时段",
-      "食之岸时段标牌冲突及支付规则逐店确认",
-      "假期关闭档口现状、停用电梯及无障碍入口",
-      "田木·山归来、辣椒炒肉等口述店名核实"
-    ],
     "sources": [
       {
         "title": "项目发起人提供的建设需求及更正",
@@ -4086,82 +2448,15 @@
       },
       {
         "title": "盛卿阳_资料交付_表A表B表D表F_20261002.docx",
-        "organization": "学生项目团队（采集人：盛卿阳）",
+        "organization": "",
         "url": null,
         "accessed_at": "2026-10-19",
         "collected_at": "2026-10-02",
         "source_document_id": "DOC-007",
-        "note": "用户提供的采集交付资料；采集人记录，网站制作人员未到现场；待交叉复核。"
+        "note": ""
       }
     ],
-    "updated_at": "2026-10-19",
-    "conflicts": [
-      {
-        "field": "opening_hours",
-        "issue": "食之岸两处时段标牌不一致；21:00全关仅为采集人了解线索。"
-      },
-      {
-        "field": "access_rules",
-        "issue": "资料对其他店铺写过“多数可校园卡”与“只能校园卡”，且二a有扫码点餐；需逐店核实，不能概括为统一支付规则。"
-      }
-    ],
-    "collection_ids": [
-      "SJ-0010"
-    ],
-    "field_sources": {
-      "aliases": {
-        "document_id": "DOC-007",
-        "collected_at": "2026-10-02"
-      },
-      "summary": {
-        "document_id": "DOC-007",
-        "collected_at": "2026-10-02"
-      },
-      "floor": {
-        "document_id": "DOC-007",
-        "collected_at": "2026-10-02"
-      },
-      "location_desc": {
-        "document_id": "DOC-007",
-        "collected_at": "2026-10-02"
-      },
-      "services": {
-        "document_id": "DOC-007",
-        "collected_at": "2026-10-02"
-      },
-      "opening_hours": {
-        "document_id": "DOC-007",
-        "collected_at": "2026-10-02"
-      },
-      "access_rules": {
-        "document_id": "DOC-007",
-        "collected_at": "2026-10-02"
-      },
-      "reservation": {
-        "document_id": "DOC-007",
-        "collected_at": "2026-10-02"
-      },
-      "fees": {
-        "document_id": "DOC-007",
-        "collected_at": "2026-10-02"
-      },
-      "entrances": {
-        "document_id": "DOC-007",
-        "collected_at": "2026-10-02"
-      },
-      "tips": {
-        "document_id": "DOC-007",
-        "collected_at": "2026-10-02"
-      },
-      "conflicts": {
-        "document_id": "DOC-007",
-        "collected_at": "2026-10-02"
-      },
-      "pending_items": {
-        "document_id": "DOC-007",
-        "collected_at": "2026-10-02"
-      }
-    }
+    "updated_at": "2026-10-19"
   },
   {
     "id": "TMP-SJ-0023",
@@ -4176,46 +2471,33 @@
     "building": "大操场及中央足球场",
     "floor": null,
     "location_desc": "与食堂之间为文采路",
-    "summary": "露天操场及中央足球运动场地，采集资料补充看台、照明和多处出入口。",
+    "summary": "",
     "departments": [],
-    "services": [
-      {
-        "name": "跑步与足球运动",
-        "floor": "露天",
-        "status": "采集表记录跑道和中央草地足球场；跑道“800米”未给测量依据，周长待核实"
-      },
-      {
-        "name": "看台休息",
-        "floor": null,
-        "status": "采集资料记录1处看台，实际开放条件待复核"
-      }
-    ],
-    "tips": [
-      "原始资料中的相对方位保留；采集表“与快递站相邻”待核对。"
-    ],
-    "opening_hours": "采集表称全天开放，缺管理方公告；当前时段待核实。",
+    "services": [],
+    "tips": [],
+    "opening_hours": "",
     "access_rules": null,
-    "reservation": "采集表称无需预约；集体活动及课程安排另行核实。",
-    "fees": "采集表称不收费，现行规则待核实。",
+    "reservation": "",
+    "fees": "",
     "latitude": null,
     "longitude": null,
     "coordinate_system": null,
     "coordinate_source": null,
     "coordinate_source_url": null,
     "coordinate_collected_at": null,
-    "coordinate_status": "待定位",
+    "coordinate_status": "",
     "position_type": null,
     "original_coordinates": null,
     "geometry": null,
     "geometry_coordinate_system": null,
     "entrances": [
       {
-        "name": "操场入口（采集资料中的一处）",
-        "description": "记录无额外门禁、有无障碍通道；总出入口数存在3/4处冲突。",
+        "name": "",
+        "description": "",
         "latitude": null,
         "longitude": null,
         "coordinate_system": null,
-        "coordinate_status": "待定位"
+        "coordinate_status": ""
       }
     ],
     "photo": "assets/photos/TMP-SJ-0023/field-20261019-171.jpg",
@@ -4224,7 +2506,7 @@
         "src": "assets/photos/TMP-SJ-0023/field-20261019-171.jpg",
         "caption": "大操场看台",
         "taken_at": null,
-        "credit": "李晗菲（资料内年份冲突待确认）",
+        "credit": "",
         "public_use": true,
         "source_file": "资料交付111/资料交付/照片补充.zip.expanded/照片补充/大操场/343c6697a4cdfe05cb74f75b20d8fd26.jpg",
         "permission_source": "项目负责人在本次会话确认已获公开授权；仅选用已筛查代表图",
@@ -4235,7 +2517,7 @@
         "src": "assets/photos/TMP-SJ-0023/field-20261019-175.jpg",
         "caption": "大操场跑道与草地足球场",
         "taken_at": null,
-        "credit": "李晗菲（资料内年份冲突待确认）",
+        "credit": "",
         "public_use": true,
         "source_file": "资料交付111/资料交付/照片补充.zip.expanded/照片补充/大操场/b45827a029f09235100ba18bdf0d77e3.jpg",
         "permission_source": "项目负责人在本次会话确认已获公开授权；仅选用已筛查代表图",
@@ -4246,7 +2528,7 @@
         "src": "assets/photos/TMP-SJ-0023/field-20261019-177.jpg",
         "caption": "看台视角下的操场",
         "taken_at": null,
-        "credit": "李晗菲（资料内年份冲突待确认）",
+        "credit": "",
         "public_use": true,
         "source_file": "资料交付111/资料交付/照片补充.zip.expanded/照片补充/大操场/c0cd5d6babf9eafd4fb7fb0f53c2d9ae.jpg",
         "permission_source": "项目负责人在本次会话确认已获公开授权；仅选用已筛查代表图",
@@ -4255,23 +2537,15 @@
       },
       {
         "src": "assets/photos/TMP-SJ-0023/field-20261019-180.jpg",
-        "caption": "操场边设施；具体使用条件待核实",
+        "caption": "",
         "taken_at": null,
-        "credit": "李晗菲（资料内年份冲突待确认）",
+        "credit": "",
         "public_use": true,
         "source_file": "资料交付111/资料交付/照片补充.zip.expanded/照片补充/大操场/f08dd612ac03092be2240ee622db68a6.jpg",
         "permission_source": "项目负责人在本次会话确认已获公开授权；仅选用已筛查代表图",
         "privacy_review": "人工筛选；未选用带可辨认人脸、车牌或私人表单的画面；公开副本移除EXIF",
         "imported_at": "2026-10-19"
       }
-    ],
-    "verified_at": null,
-    "content_status": "已有采集人资料；待交叉复核；存在冲突待确认",
-    "pending_items": [
-      "建筑与入口精确坐标、坐标来源和定位对象",
-      "采集资料交叉复核及变化信息更新",
-      "采集与照片日期的年份冲突",
-      "开放时段、进入条件与变化信息交叉核实"
     ],
     "sources": [
       {
@@ -4283,47 +2557,15 @@
       },
       {
         "title": "文字资料.docx",
-        "organization": "学生项目团队（采集人：李晗菲）",
+        "organization": "",
         "url": null,
         "accessed_at": "2026-10-19",
         "collected_at": null,
         "source_document_id": "DOC-012",
-        "note": "用户提供的采集交付资料；采集人记录，网站制作人员未到现场；待交叉复核。"
+        "note": ""
       }
     ],
-    "updated_at": "2026-10-19",
-    "conflicts": [
-      {
-        "field": "verified_at",
-        "issue": "交付稿开头采集日期写2025-10-08，各点位及照片表写2026-10-08，年份待确认。"
-      },
-      {
-        "field": "entrances",
-        "issue": "表A写3个出入口，表D2写4个，未直接采用其中一个数值。"
-      },
-      {
-        "field": "services",
-        "issue": "“800米跑道”缺测量或标牌依据，暂不作为确定跑道周长。"
-      }
-    ],
-    "collection_ids": [
-      "SJ-0009"
-    ],
-    "field_sources": {
-      "verified_at": {
-        "document_id": "DOC-012",
-        "collected_at": null
-      },
-      "conflicts": {
-        "document_id": "DOC-012",
-        "collected_at": null
-      },
-      "pending_items": {
-        "document_id": "DOC-012",
-        "collected_at": null
-      }
-    },
-    "verification_notes": "来源内日期前后不一致，verified_at保持null；具体差异见待核实项和来源记录。"
+    "updated_at": "2026-10-19"
   },
   {
     "id": "TMP-SJ-0024",
@@ -4335,20 +2577,12 @@
     "building": "文采路",
     "floor": null,
     "location_desc": "大操场与食堂之间",
-    "summary": "大操场与食堂之间、通往西门的校园道路。采集资料补充自行车停放和路灯线索。",
+    "summary": "",
     "departments": [],
-    "services": [
-      {
-        "name": "自行车停放区域与路灯",
-        "floor": "道路周边",
-        "status": "具体位置、指定停放边界及照明运行时段待核实"
-      }
-    ],
-    "tips": [
-      "采集资料记录西门至八教的连接关系，需与现场路牌及校园地图复核。"
-    ],
-    "opening_hours": "采集资料写“非全天开放”但未提供具体时段，待核实。",
-    "access_rules": "采集表称道路无独立门禁；校园入口与特殊管制另行适用。",
+    "services": [],
+    "tips": [],
+    "opening_hours": "",
+    "access_rules": "",
     "reservation": null,
     "fees": null,
     "latitude": null,
@@ -4357,7 +2591,7 @@
     "coordinate_source": null,
     "coordinate_source_url": null,
     "coordinate_collected_at": null,
-    "coordinate_status": "待定位",
+    "coordinate_status": "",
     "position_type": null,
     "original_coordinates": null,
     "geometry": null,
@@ -4367,9 +2601,9 @@
     "photos": [
       {
         "src": "assets/photos/TMP-SJ-0024/field-20261019-183.jpg",
-        "caption": "采集包标为文采路的步行与停放环境",
+        "caption": "",
         "taken_at": null,
-        "credit": "李晗菲（资料内年份冲突待确认）",
+        "credit": "",
         "public_use": true,
         "source_file": "资料交付111/资料交付/照片补充.zip.expanded/照片补充/文采路/722cbd594467baaf34a611955c3e97b8.jpg",
         "permission_source": "项目负责人在本次会话确认已获公开授权；仅选用已筛查代表图",
@@ -4378,23 +2612,15 @@
       },
       {
         "src": "assets/photos/TMP-SJ-0024/field-20261019-187.jpg",
-        "caption": "采集包标为文采路的校内导览牌周边",
+        "caption": "",
         "taken_at": null,
-        "credit": "李晗菲（资料内年份冲突待确认）",
+        "credit": "",
         "public_use": true,
         "source_file": "资料交付111/资料交付/照片补充.zip.expanded/照片补充/文采路/ef17fb8c359bb6803f62ba900cd64e60.jpg",
         "permission_source": "项目负责人在本次会话确认已获公开授权；仅选用已筛查代表图",
         "privacy_review": "人工筛选；未选用带可辨认人脸、车牌或私人表单的画面；公开副本移除EXIF",
         "imported_at": "2026-10-19"
       }
-    ],
-    "verified_at": null,
-    "content_status": "已有采集人资料；待交叉复核；存在冲突待确认",
-    "pending_items": [
-      "建筑与入口精确坐标、坐标来源和定位对象",
-      "采集资料交叉复核及变化信息更新",
-      "采集与照片日期的年份冲突",
-      "开放时段、进入条件与变化信息交叉核实"
     ],
     "sources": [
       {
@@ -4406,39 +2632,15 @@
       },
       {
         "title": "文字资料.docx",
-        "organization": "学生项目团队（采集人：李晗菲）",
+        "organization": "",
         "url": null,
         "accessed_at": "2026-10-19",
         "collected_at": null,
         "source_document_id": "DOC-012",
-        "note": "用户提供的采集交付资料；采集人记录，网站制作人员未到现场；待交叉复核。"
+        "note": ""
       }
     ],
-    "updated_at": "2026-10-19",
-    "conflicts": [
-      {
-        "field": "verified_at",
-        "issue": "交付稿开头采集日期写2025-10-08，各点位及照片表写2026-10-08，年份待确认。"
-      }
-    ],
-    "collection_ids": [
-      "SJ-0027"
-    ],
-    "field_sources": {
-      "verified_at": {
-        "document_id": "DOC-012",
-        "collected_at": null
-      },
-      "conflicts": {
-        "document_id": "DOC-012",
-        "collected_at": null
-      },
-      "pending_items": {
-        "document_id": "DOC-012",
-        "collected_at": null
-      }
-    },
-    "verification_notes": "来源内日期前后不一致，verified_at保持null；具体差异见待核实项和来源记录。"
+    "updated_at": "2026-10-19"
   },
   {
     "id": "TMP-SJ-0025",
@@ -4454,49 +2656,35 @@
     "location_desc": "文采路通往西门",
     "summary": "校区西侧出入口，与文采路相接；补充周边外卖柜、快递站和收发室线索。",
     "departments": [],
-    "services": [
-      {
-        "name": "外卖柜、快递站与收发室",
-        "floor": "校门周边",
-        "status": "采集表记录；准确位置、服务时间与使用规则待核实"
-      }
-    ],
+    "services": [],
     "tips": [],
     "opening_hours": null,
-    "access_rules": "采集表称校内人员校园卡/刷脸，访客说明或登记；预约要求及适用对象待核实。",
+    "access_rules": "",
     "reservation": null,
     "fees": null,
-    "latitude": null,
-    "longitude": null,
-    "coordinate_system": null,
-    "coordinate_source": null,
-    "coordinate_source_url": null,
-    "coordinate_collected_at": null,
-    "coordinate_status": "待定位",
-    "position_type": null,
+    "latitude": 31.049391,
+    "longitude": 121.221929,
+    "coordinate_system": "GCJ-02",
+    "coordinate_source": "腾讯地图地点搜索API：上海外国语大学(松江校区西门)",
+    "coordinate_source_url": "https://apis.map.qq.com/ws/place/v1/search",
+    "coordinate_collected_at": "2026-10-20",
+    "coordinate_status": "腾讯地图POI",
+    "position_type": "校门POI",
     "original_coordinates": null,
     "geometry": null,
     "geometry_coordinate_system": null,
     "entrances": [
       {
         "name": "西门主入口",
-        "description": "采集表记刷脸、有无障碍通道；朝向与通行要求待复核。",
+        "description": "",
         "latitude": null,
         "longitude": null,
         "coordinate_system": null,
-        "coordinate_status": "待定位"
+        "coordinate_status": ""
       }
     ],
     "photo": null,
     "photos": [],
-    "verified_at": null,
-    "content_status": "已有采集人资料；待交叉复核；存在冲突待确认",
-    "pending_items": [
-      "建筑与入口精确坐标、坐标来源和定位对象",
-      "采集资料交叉复核及变化信息更新",
-      "采集与照片日期的年份冲突",
-      "开放时段、进入条件与变化信息交叉核实"
-    ],
     "sources": [
       {
         "title": "项目发起人提供的建设需求及更正",
@@ -4507,61 +2695,34 @@
       },
       {
         "title": "文字资料.docx",
-        "organization": "学生项目团队（采集人：李晗菲）",
+        "organization": "",
         "url": null,
         "accessed_at": "2026-10-19",
         "collected_at": null,
         "source_document_id": "DOC-012",
-        "note": "用户提供的采集交付资料；采集人记录，网站制作人员未到现场；待交叉复核。"
+        "note": ""
       }
     ],
     "updated_at": "2026-10-19",
-    "conflicts": [
-      {
-        "field": "verified_at",
-        "issue": "交付稿开头采集日期写2025-10-08，各点位及照片表写2026-10-08，年份待确认。"
-      }
-    ],
-    "collection_ids": [
-      "SJ-0028"
-    ],
-    "field_sources": {
-      "verified_at": {
-        "document_id": "DOC-012",
-        "collected_at": null
-      },
-      "conflicts": {
-        "document_id": "DOC-012",
-        "collected_at": null
-      },
-      "pending_items": {
-        "document_id": "DOC-012",
-        "collected_at": null
-      }
-    },
-    "verification_notes": "来源内日期前后不一致，verified_at保持null；具体差异见待核实项和来源记录。"
+    "tencent_poi_id": "12881572841539638911"
   },
   {
     "id": "TMP-SJ-0026",
     "name": "南门主干道（无名道路，仅为位置描述）",
-    "aliases": [
-      "南门主干道",
-      "无名道路"
-    ],
+    "aliases": [],
     "category": "校门道路",
     "subcategory": "",
     "parent_id": null,
     "building": "南门主干道（无名道路，仅为位置描述）",
     "floor": null,
-    "location_desc": "从南门进入校园的主干道",
+    "location_desc": null,
     "summary": "由南门进入的主干道，仅以位置描述命名；正式路名未获可靠确认。",
     "departments": [],
     "services": [],
     "tips": [
-      "保持“无正式路名、仅为位置描述”的原始约定。",
-      "不采用“中庆大道”；本次采集表中的“西索大道”也尚未有可靠命名依据。"
+      "保持“无正式路名、仅为位置描述”的原始约定。"
     ],
-    "opening_hours": "采集表写全天开放，但未有管理方公告；不据此承诺校门全天通行。",
+    "opening_hours": "",
     "access_rules": null,
     "reservation": null,
     "fees": null,
@@ -4571,7 +2732,7 @@
     "coordinate_source": null,
     "coordinate_source_url": null,
     "coordinate_collected_at": null,
-    "coordinate_status": "待定位",
+    "coordinate_status": "",
     "position_type": null,
     "original_coordinates": null,
     "geometry": null,
@@ -4581,9 +2742,9 @@
     "photos": [
       {
         "src": "assets/photos/TMP-SJ-0026/field-20261019-188.jpg",
-        "caption": "采集包标为南门无名主干道的道路环境；点位对应待核实",
+        "caption": "",
         "taken_at": null,
-        "credit": "李晗菲（资料内年份冲突待确认）",
+        "credit": "",
         "public_use": true,
         "source_file": "资料交付111/资料交付/照片补充.zip.expanded/照片补充/无名主干道/100e1926b79a776a4d41103a88fe997c.jpg",
         "permission_source": "项目负责人在本次会话确认已获公开授权；仅选用已筛查代表图",
@@ -4592,9 +2753,9 @@
       },
       {
         "src": "assets/photos/TMP-SJ-0026/field-20261019-193.jpg",
-        "caption": "采集包无名主干道远景；不据此认定正式路名",
+        "caption": "",
         "taken_at": null,
-        "credit": "李晗菲（资料内年份冲突待确认）",
+        "credit": "",
         "public_use": true,
         "source_file": "资料交付111/资料交付/照片补充.zip.expanded/照片补充/无名主干道/dbcbc7bd3f33b9ae4d4be61ee894373d.jpg",
         "permission_source": "项目负责人在本次会话确认已获公开授权；仅选用已筛查代表图",
@@ -4603,23 +2764,15 @@
       },
       {
         "src": "assets/photos/TMP-SJ-0026/field-20261019-194.jpg",
-        "caption": "采集包无名主干道周边景观",
+        "caption": "",
         "taken_at": null,
-        "credit": "李晗菲（资料内年份冲突待确认）",
+        "credit": "",
         "public_use": true,
         "source_file": "资料交付111/资料交付/照片补充.zip.expanded/照片补充/无名主干道/fea03617a67d5c7abd331af779726c10.jpg",
         "permission_source": "项目负责人在本次会话确认已获公开授权；仅选用已筛查代表图",
         "privacy_review": "人工筛选；未选用带可辨认人脸、车牌或私人表单的画面；公开副本移除EXIF",
         "imported_at": "2026-10-19"
       }
-    ],
-    "verified_at": null,
-    "content_status": "已有采集人资料；待交叉复核；存在冲突待确认",
-    "pending_items": [
-      "建筑与入口精确坐标、坐标来源和定位对象",
-      "采集资料交叉复核及变化信息更新",
-      "采集与照片日期的年份冲突",
-      "开放时段、进入条件与变化信息交叉核实"
     ],
     "sources": [
       {
@@ -4631,47 +2784,15 @@
       },
       {
         "title": "文字资料.docx",
-        "organization": "学生项目团队（采集人：李晗菲）",
+        "organization": "",
         "url": null,
         "accessed_at": "2026-10-19",
         "collected_at": null,
         "source_document_id": "DOC-012",
-        "note": "用户提供的采集交付资料；采集人记录，网站制作人员未到现场；待交叉复核。"
+        "note": ""
       }
     ],
-    "updated_at": "2026-10-19",
-    "conflicts": [
-      {
-        "field": "verified_at",
-        "issue": "交付稿开头采集日期写2025-10-08，各点位及照片表写2026-10-08，年份待确认。"
-      },
-      {
-        "field": "aliases",
-        "issue": "采集表一面写无正式路名、一面写西索大道；不将西索大道录为已确认别名。"
-      },
-      {
-        "field": "location_desc",
-        "issue": "“天鹅湖、医院”等相邻线索与原资料对应关系未核对，暂不替换既有位置描述。"
-      }
-    ],
-    "collection_ids": [
-      "SJ-0029"
-    ],
-    "field_sources": {
-      "verified_at": {
-        "document_id": "DOC-012",
-        "collected_at": null
-      },
-      "conflicts": {
-        "document_id": "DOC-012",
-        "collected_at": null
-      },
-      "pending_items": {
-        "document_id": "DOC-012",
-        "collected_at": null
-      }
-    },
-    "verification_notes": "来源内日期前后不一致，verified_at保持null；具体差异见待核实项和来源记录。"
+    "updated_at": "2026-10-19"
   },
   {
     "id": "TMP-SJ0023-P01",
@@ -4682,16 +2803,10 @@
     "parent_id": "TMP-SJ-0018",
     "building": "",
     "floor": null,
-    "location_desc": "八教周边，采集图SJ-0023-P06可见停车点标牌；具体范围待核实。",
-    "summary": "机动车停放；具体使用条件待核实。",
+    "location_desc": "",
+    "summary": "",
     "departments": [],
-    "services": [
-      {
-        "name": "机动车停放",
-        "floor": "室外",
-        "status": "收费、车位数量、开放时段与管理边界待核实"
-      }
-    ],
+    "services": [],
     "tips": [],
     "opening_hours": null,
     "access_rules": null,
@@ -4703,7 +2818,7 @@
     "coordinate_source": null,
     "coordinate_source_url": null,
     "coordinate_collected_at": null,
-    "coordinate_status": "待定位",
+    "coordinate_status": "",
     "position_type": null,
     "original_coordinates": null,
     "geometry": null,
@@ -4711,29 +2826,18 @@
     "entrances": [],
     "photo": null,
     "photos": [],
-    "verified_at": "2026-10-08",
-    "content_status": "采集人记录；新增临时点位，待交叉复核",
-    "pending_items": [
-      "建筑与入口精确坐标、坐标来源和定位对象",
-      "采集资料交叉复核及变化信息更新",
-      "收费、车位数量、开放时段与管理边界",
-      "与已有点位是否同一管理区域的去重核对"
-    ],
     "sources": [
       {
-        "title": "数惠便利一图_张盟极_四点位采集资料_20261008.docx",
-        "organization": "学生项目团队（采集人：张盟极）",
+        "title": "",
+        "organization": "",
         "url": null,
         "accessed_at": "2026-10-19",
         "collected_at": "2026-10-08",
         "source_document_id": "DOC-001",
-        "note": "用户提供的采集交付资料；采集人记录，网站制作人员未到现场；待交叉复核。"
+        "note": ""
       }
     ],
-    "updated_at": "2026-10-19",
-    "collection_ids": [
-      "TMP-SJ0023-P01"
-    ]
+    "updated_at": "2026-10-19"
   },
   {
     "id": "TMP-SJ0023-P02",
@@ -4744,16 +2848,10 @@
     "parent_id": "TMP-SJ-0018",
     "building": "",
     "floor": null,
-    "location_desc": "八教周边有棚停放区，见SJ-0023-P07；具体方位与边界待核实。",
-    "summary": "自行车与电动自行车停放；具体使用条件待核实。",
+    "location_desc": "",
+    "summary": "",
     "departments": [],
-    "services": [
-      {
-        "name": "自行车与电动自行车停放",
-        "floor": "室外",
-        "status": "是否提供充电、收费、开放时段及管理边界待核实"
-      }
-    ],
+    "services": [],
     "tips": [],
     "opening_hours": null,
     "access_rules": null,
@@ -4765,7 +2863,7 @@
     "coordinate_source": null,
     "coordinate_source_url": null,
     "coordinate_collected_at": null,
-    "coordinate_status": "待定位",
+    "coordinate_status": "",
     "position_type": null,
     "original_coordinates": null,
     "geometry": null,
@@ -4773,29 +2871,18 @@
     "entrances": [],
     "photo": null,
     "photos": [],
-    "verified_at": "2026-10-08",
-    "content_status": "采集人记录；新增临时点位，待交叉复核",
-    "pending_items": [
-      "建筑与入口精确坐标、坐标来源和定位对象",
-      "采集资料交叉复核及变化信息更新",
-      "是否提供充电、收费、开放时段及管理边界",
-      "与已有点位是否同一管理区域的去重核对"
-    ],
     "sources": [
       {
-        "title": "数惠便利一图_张盟极_四点位采集资料_20261008.docx",
-        "organization": "学生项目团队（采集人：张盟极）",
+        "title": "",
+        "organization": "",
         "url": null,
         "accessed_at": "2026-10-19",
         "collected_at": "2026-10-08",
         "source_document_id": "DOC-001",
-        "note": "用户提供的采集交付资料；采集人记录，网站制作人员未到现场；待交叉复核。"
+        "note": ""
       }
     ],
-    "updated_at": "2026-10-19",
-    "collection_ids": [
-      "TMP-SJ0023-P02"
-    ]
+    "updated_at": "2026-10-19"
   },
   {
     "id": "TMP-SJ0025-01",
@@ -4807,15 +2894,9 @@
     "building": "",
     "floor": null,
     "location_desc": "篮球场围网旁红色竖式柜体，见SJ-0025-P04。",
-    "summary": "篮球扫码借还（设备功能线索）；具体使用条件待核实。",
+    "summary": "",
     "departments": [],
-    "services": [
-      {
-        "name": "篮球扫码借还（设备功能线索）",
-        "floor": "室外",
-        "status": "实际运行、借用费用、押金、时限和归还规则待核实"
-      }
-    ],
+    "services": [],
     "tips": [],
     "opening_hours": null,
     "access_rules": null,
@@ -4827,7 +2908,7 @@
     "coordinate_source": null,
     "coordinate_source_url": null,
     "coordinate_collected_at": null,
-    "coordinate_status": "待定位",
+    "coordinate_status": "",
     "position_type": null,
     "original_coordinates": null,
     "geometry": null,
@@ -4837,7 +2918,7 @@
     "photos": [
       {
         "src": "assets/photos/TMP-SJ0025-01/field-20261019-005.jpg",
-        "caption": "篮球扫码借还柜；实际运行与收费待核实",
+        "caption": "",
         "taken_at": "2026-10-08",
         "credit": "张盟极",
         "public_use": true,
@@ -4847,29 +2928,18 @@
         "imported_at": "2026-10-19"
       }
     ],
-    "verified_at": "2026-10-08",
-    "content_status": "采集人记录；新增临时点位，待交叉复核",
-    "pending_items": [
-      "建筑与入口精确坐标、坐标来源和定位对象",
-      "采集资料交叉复核及变化信息更新",
-      "实际运行、借用费用、押金、时限和归还规则",
-      "与已有点位是否同一管理区域的去重核对"
-    ],
     "sources": [
       {
-        "title": "数惠便利一图_张盟极_四点位采集资料_20261008.docx",
-        "organization": "学生项目团队（采集人：张盟极）",
+        "title": "",
+        "organization": "",
         "url": null,
         "accessed_at": "2026-10-19",
         "collected_at": "2026-10-08",
         "source_document_id": "DOC-001",
-        "note": "用户提供的采集交付资料；采集人记录，网站制作人员未到现场；待交叉复核。"
+        "note": ""
       }
     ],
-    "updated_at": "2026-10-19",
-    "collection_ids": [
-      "TMP-SJ0025-01"
-    ]
+    "updated_at": "2026-10-19"
   },
   {
     "id": "TMP-SJ0025-02",
@@ -4881,15 +2951,9 @@
     "building": "",
     "floor": null,
     "location_desc": "篮球场边有顶棚柜体，见SJ-0025-P05。",
-    "summary": "手机存取（设备功能线索）；具体使用条件待核实。",
+    "summary": "",
     "departments": [],
-    "services": [
-      {
-        "name": "手机存取（设备功能线索）",
-        "floor": "室外",
-        "status": "运行、可用格口、费用与存取流程待核实"
-      }
-    ],
+    "services": [],
     "tips": [],
     "opening_hours": null,
     "access_rules": null,
@@ -4901,7 +2965,7 @@
     "coordinate_source": null,
     "coordinate_source_url": null,
     "coordinate_collected_at": null,
-    "coordinate_status": "待定位",
+    "coordinate_status": "",
     "position_type": null,
     "original_coordinates": null,
     "geometry": null,
@@ -4911,7 +2975,7 @@
     "photos": [
       {
         "src": "assets/photos/TMP-SJ0025-02/field-20261019-006.jpg",
-        "caption": "手机寄存柜与存取说明；实际可用性待核实",
+        "caption": "",
         "taken_at": "2026-10-08",
         "credit": "张盟极",
         "public_use": true,
@@ -4921,28 +2985,111 @@
         "imported_at": "2026-10-19"
       }
     ],
-    "verified_at": "2026-10-08",
-    "content_status": "采集人记录；新增临时点位，待交叉复核",
-    "pending_items": [
-      "建筑与入口精确坐标、坐标来源和定位对象",
-      "采集资料交叉复核及变化信息更新",
-      "运行、可用格口、费用与存取流程",
-      "与已有点位是否同一管理区域的去重核对"
-    ],
     "sources": [
       {
-        "title": "数惠便利一图_张盟极_四点位采集资料_20261008.docx",
-        "organization": "学生项目团队（采集人：张盟极）",
+        "title": "",
+        "organization": "",
         "url": null,
         "accessed_at": "2026-10-19",
         "collected_at": "2026-10-08",
         "source_document_id": "DOC-001",
-        "note": "用户提供的采集交付资料；采集人记录，网站制作人员未到现场；待交叉复核。"
+        "note": ""
       }
     ],
-    "updated_at": "2026-10-19",
-    "collection_ids": [
-      "TMP-SJ0025-02"
-    ]
+    "updated_at": "2026-10-19"
+  },
+  {
+    "id": "TMP-SJ-B02",
+    "name": "第二教学楼",
+    "aliases": [
+      "二教"
+    ],
+    "category": "教学学习",
+    "subcategory": "",
+    "parent_id": null,
+    "building": "第二教学楼",
+    "floor": null,
+    "location_desc": "腾讯地图建筑POI位置",
+    "summary": "第二教学楼整栋楼位置。东西栋分别设有详情页，且不互通。",
+    "departments": [],
+    "services": [],
+    "tips": [
+      "东西栋不互通，请分别查看对应楼栋信息。"
+    ],
+    "opening_hours": null,
+    "access_rules": null,
+    "reservation": null,
+    "fees": null,
+    "latitude": 31.047321,
+    "longitude": 121.224071,
+    "coordinate_system": "GCJ-02",
+    "coordinate_source": "腾讯地图地点搜索API：上海外国语大学(松江校区)-二教楼",
+    "coordinate_source_url": "https://apis.map.qq.com/ws/place/v1/search",
+    "coordinate_collected_at": "2026-10-20",
+    "coordinate_status": "腾讯地图POI",
+    "position_type": "整栋建筑POI",
+    "original_coordinates": null,
+    "geometry": null,
+    "geometry_coordinate_system": null,
+    "entrances": [],
+    "photo": null,
+    "photos": [],
+    "sources": [
+      {
+        "title": "腾讯地图地点搜索：上海外国语大学(松江校区)-二教楼",
+        "organization": "腾讯位置服务",
+        "url": "https://apis.map.qq.com/ws/place/v1/search",
+        "accessed_at": "2026-10-20"
+      }
+    ],
+    "updated_at": "2026-10-20",
+    "tencent_poi_id": "16353283872786415998"
+  },
+  {
+    "id": "TMP-SJ-B03",
+    "name": "第三教学楼",
+    "aliases": [
+      "三教"
+    ],
+    "category": "教学学习",
+    "subcategory": "",
+    "parent_id": null,
+    "building": "第三教学楼",
+    "floor": null,
+    "location_desc": "腾讯地图建筑POI位置",
+    "summary": "第三教学楼整栋楼位置。东西栋分别设有详情页，且不互通。",
+    "departments": [],
+    "services": [],
+    "tips": [
+      "东西栋不互通，请分别查看对应楼栋信息。"
+    ],
+    "opening_hours": null,
+    "access_rules": null,
+    "reservation": null,
+    "fees": null,
+    "latitude": 31.045015,
+    "longitude": 121.223363,
+    "coordinate_system": "GCJ-02",
+    "coordinate_source": "腾讯地图地点搜索API：上海外国语大学松江校区第三教学楼",
+    "coordinate_source_url": "https://apis.map.qq.com/ws/place/v1/search",
+    "coordinate_collected_at": "2026-10-20",
+    "coordinate_status": "腾讯地图POI",
+    "position_type": "整栋建筑POI",
+    "original_coordinates": null,
+    "geometry": null,
+    "geometry_coordinate_system": null,
+    "entrances": [],
+    "photo": null,
+    "photos": [],
+    "sources": [
+      {
+        "title": "腾讯地图地点搜索：上海外国语大学松江校区第三教学楼",
+        "organization": "腾讯位置服务",
+        "url": "https://apis.map.qq.com/ws/place/v1/search",
+        "accessed_at": "2026-10-20"
+      }
+    ],
+    "updated_at": "2026-10-20",
+    "tencent_poi_id": "13940189341590817308"
   }
 ]
