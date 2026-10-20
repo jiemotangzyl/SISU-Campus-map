@@ -1,4 +1,4 @@
-import{publicFacility}from'./public-display.js?v=20261020-release';
+import{publicFacility}from'./public-display.js?v=20261020-latest';
 export const CATEGORIES=['全部','教学学习','餐饮','体育运动','生活服务','行政办事','文化场馆','校门道路'];
 export const esc=value=>String(value??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 export async function loadData(){const r=await fetch('data/campus_facilities.json',{cache:'no-cache'});if(!r.ok)throw Error('资料文件读取失败');const data=await r.json();if(!Array.isArray(data)||data.some(f=>!f.id||!f.name)||new Set(data.map(f=>f.id)).size!==data.length)throw Error('资料格式有误');return data.map(publicFacility);}

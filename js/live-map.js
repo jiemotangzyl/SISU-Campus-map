@@ -1,4 +1,4 @@
-import{createLocationFilter}from'./location-filter.js?v=20261020-release';
+import{createLocationFilter}from'./location-filter.js?v=20261020-latest';
 const INTERVAL=20000;
 export function startLiveMap(map){
   const $=id=>document.getElementById(id);
