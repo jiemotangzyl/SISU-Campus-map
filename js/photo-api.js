@@ -3,7 +3,7 @@ export const photoBackendOrigin=PHOTO_BACKEND_ORIGIN;
 export const hasPhotoBackend=/^https:\/\//.test(photoBackendOrigin);
 let deviceToken='';try{deviceToken=localStorage.getItem('sisu-photo-device')||'';}catch{}
 async function deviceSession(){if(deviceToken)return deviceToken;const response=await fetch(photoBackendOrigin+'/api/device-session',{method:'POST',headers:{'Content-Type':'application/json'},body:'{}'});if(!response.ok)throw Error('投稿服务暂时不可用');deviceToken=(await response.json()).token;try{localStorage.setItem('sisu-photo-device',deviceToken);}catch{}return deviceToken;}
-export function saveAdminToken(token){try{if(token)sessionStorage.setItem('sisu-photo-admin',token);else sessionStorage.removeItem('sisu-photo-admin');}catch{}}
+export function saveAdminToken(token){try{if(token)sessionStorage.setItem('sisu-photo-admin',token);else sessionStorage.removeItem('sisu-photo-admin');}catch{}try{dispatchEvent(new Event("sisu-admin-change"));}catch{}}
 export async function photoFetch(path,options={}){
  const headers=new Headers(options.headers);let token='';try{token=sessionStorage.getItem('sisu-photo-admin')||'';}catch{}
  if(path==='/api/photos'&&options.method==='POST')token=await deviceSession();

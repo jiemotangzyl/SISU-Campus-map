@@ -1,3 +1,4 @@
+const ADD='<a class="scenery-card add-tile" href="upload.html" aria-label="上传校园照片"><span class="add-frame" aria-hidden="true"><b class="add-plus">＋</b><i></i></span><span class="scenery-card-copy"><b>上传我的校园照片</b><small>在此处点击＋，把你眼中的校园放上来</small></span></a>';
 import{hasPhotoBackend,photoFetch,photoBackendOrigin}from'./photo-api.js?v=20261023-sync';
 import{esc}from'./data.js?v=20261023-sync';
 const $=id=>document.getElementById(id);let photos=[],visible=[],category='全部',current=0,opener=null;
@@ -9,7 +10,7 @@ function render(){
   $('scenery-filters').innerHTML=cats.map(c=>`<button data-category="${esc(c)}" aria-pressed="${c===category}">${esc(c)}</button>`).join('');
   visible=photos.filter(p=>category==='全部'||p.category===category);
   $('scenery-empty').hidden=photos.length>0;
-  $('scenery-wall').innerHTML=visible.map((p,i)=>`<button class="scenery-card" data-photo="${i}" aria-label="查看大图：${esc(p.title||'校园风景')}"><img src="${esc(p.url)}" alt="${esc(p.alt||p.title||'校园风景')}" loading="lazy" decoding="async"${p.width&&p.height?` width="${p.width}" height="${p.height}"`:''}><span class="scenery-card-copy"><b>${esc(p.title||'校园风景')}</b>${meta(p)?`<small>${esc(meta(p))}</small>`:''}</span></button>`).join('');
+  $('scenery-wall').innerHTML=(photos.length?ADD:'')+visible.map((p,i)=>`<button class="scenery-card" data-photo="${i}" aria-label="查看大图：${esc(p.title||'校园风景')}"><img src="${esc(p.url)}" alt="${esc(p.alt||p.title||'校园风景')}" loading="lazy" decoding="async"${p.width&&p.height?` width="${p.width}" height="${p.height}"`:''}><span class="scenery-card-copy"><b>${esc(p.title||'校园风景')}</b>${meta(p)?`<small>${esc(meta(p))}</small>`:''}</span></button>`).join('');
   $('scenery-wall').querySelectorAll('img').forEach(img=>img.onerror=()=>{img.removeAttribute('src');img.alt='照片暂时无法加载';});
 }
 function show(i){
@@ -30,3 +31,5 @@ $('scenery-image').onerror=()=>{$('scenery-image').hidden=true;$('scenery-image-
 try{const res=await fetch('data/scenery_photos.json',{cache:'no-cache'});if(!res.ok)throw Error('读取失败');const data=await res.json();try{if(!hasPhotoBackend)throw Error('Static hosting');const uploaded=await photoFetch('/api/photos',{cache:'no-store',signal:AbortSignal.timeout(20000)});if(uploaded.ok){const extra=await uploaded.json();if(Array.isArray(extra.photos))data.photos=[...extra.photos,...data.photos];}}catch{}if(!Array.isArray(data.photos))throw Error('格式错误');const ids=new Set();photos=data.photos.filter(p=>p.id&&!ids.has(p.id)&&ids.add(p.id)&&p.public_use===true&&photoURL(p.src)).map(p=>({...p,url:photoURL(p.src),width:Number.isInteger(p.width)&&p.width>0?p.width:null,height:Number.isInteger(p.height)&&p.height>0?p.height:null}));$('scenery-status').hidden=true;render();const id=new URL(location.href).searchParams.get('photo'),i=visible.findIndex(p=>p.id===id);if(i>=0)open(i,null);}catch{$('scenery-status').textContent='校园影像暂时无法打开，请刷新后重试。';}
 
 globalThis.addEventListener?.('pageshow',e=>{if(e.persisted)location.reload();});
+// 首屏相框随鼠标轻微视差（仅有鼠标的设备，且未开启“减少动态效果”）
+(()=>{const art=document.querySelector('.hero-art');if(!art||!matchMedia('(hover:hover)').matches||matchMedia('(prefers-reduced-motion: reduce)').matches)return;const hero=art.closest('.scenery-hero')||art;hero.addEventListener('pointermove',e=>{const r=art.getBoundingClientRect();art.style.setProperty('--px',(((e.clientX-r.left)/r.width)-.5).toFixed(3));art.style.setProperty('--py',(((e.clientY-r.top)/r.height)-.5).toFixed(3));});hero.addEventListener('pointerleave',()=>{art.style.setProperty('--px',0);art.style.setProperty('--py',0);});})();
