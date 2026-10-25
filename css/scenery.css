@@ -53,3 +53,8 @@ body.scenery-page{background:radial-gradient(1100px 520px at 6% -6%,#cfe4f8 0,#c
 @supports (animation-timeline:view()){.wall-heading,.scenery-filters,.scenery-empty{animation:fade-up linear both;animation-timeline:view();animation-range:entry 0% entry 45%}}
 @media(max-width:600px){.hero-art{min-height:300px}.art-sun,.window-back,.window-front{transform:none}}
 @media(prefers-reduced-motion:reduce){.art-orbit,.art-sun,.window-back,.window-front,.art-window::after,.art-caption,.hero-copy>*,.scenery-hero::before,.wall-heading,.scenery-filters,.scenery-empty{animation:none!important}.art-sun,.window-back,.window-front{transition:none}}
+
+/* Keep the decorative orbit inside its hero on narrow screens. */
+.scenery-hero{overflow:hidden;}
+
+html,body{overflow-x:hidden;overflow-x:clip;}
